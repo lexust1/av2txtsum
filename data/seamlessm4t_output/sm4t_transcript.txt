@@ -1,0 +1,207 @@
+It's the first time I've ever seen a movie like this.
+Welcome to IBM Think 2023. AI generated art.
+AI generated songs? AI, what is that? It's sure is a lot of fun. But when foundation models are applied to big business, well
+You need to think bigger, because AI in business needs to be held to a higher standard, built to be trusted, secure and adaptable.
+across your organization. This isn't committing to a single system. This is hybrid-ready AI that can scale across your systems. This isn't wondering
+This is AI that can show its work. When you build AI into the core of your business, you can go so much further.
+This is more than AI, this is AI for business.
+Let's create please welcome senior vice president and director of research IBM Dr. Dario Gill
+Hello, welcome to the last session of the show.
+So I hope you've enjoyed the last two days with us.
+What an incredible year it has been for AI. You can really feel the change that is happening all around us and there's just no denying that
+the pace of this technology continues to be accelerating and that its implications are now so clear for all to see around the globe.
+I'm just fascinated by AI and as a technologist this level of excitement really comes about only maybe once
+or twice every decade and I'm just thrilled to see all the possibilities that this technology is going to enable.
+every industry from customer care to transforming data centers and logistics to medicine to manufacturing to energy
+to the automotive industry, to aerospace communications, you name it, it's really going to affect every one of our businesses and really touch every aspect of our
+So it's really exciting, and while sometimes the pace of this technology can feel daunting and scary,
+opportunities to harness foundation models and generative AI with proper governance the opportunities are immense the emergence of
+And we need to recognize its importance, we need to capture the moment.
+The point is, don't just be an AI user, be an AI value creator. Just think about it.
+are limited to just prompting someone else's AI model. It's not your model. You have no control over the model
+Think carefully about whether that's the world you want to live in. As an AI value creator, on the other hand,
+You can bring your own data and AI models to Watson X or choose from a library of tools and technologies.
+or influence training if you want, you can tune, you can have transparency and control over the governing data and AI model
+Instead of just one model, you'll have a family of models, and through this creative process,
+Improve them and you can make them your own. Foundation models that are trained with your data will become your most valuable asset.
+and as a value creator you will own that and all the value that they will create for your business so don't outsource
+that you can simply control your destiny with foundation models. So let me show you how we become and allow you
+Watson X is our new integrated data and AI platform. It consists of three primary components:
+It's our massive curated data repository that's ready to be tapped to train and fine-tune models.
+with state-of-the-art data management system. This is an enterprise studio to train, validate,
+It's about tuning and deploying traditional machine learning and foundation models that provide generative capabilities.
+This is a powerful set of tools to ensure your AI is executing responsibly.
+They work together seamlessly throughout the entire life cycle of foundation models and true to our commitment to
+Hybrid cloud architectures, Watson X is built on top of Red Hat OpenShift. Not only does it provide seamless integration of Watson X components,
+It allows you to access and deploy your AI workloads in any IT environment, no matter where they are located.
+And look, I don't need to tell you that deploying these technologies is not
+It's not easy at the enterprise level, but the platform changes that. So let's take a look now at how an entire AI workflow end-to-end
+The life cycle consists of preparing your data, using it to train the model, validate the model, tune it and deploy
+So let's start with data preparation. So you're a data scientist and you want to access the data that's in the public cloud, some of which is on the
+some that may be in another external database, or on a public cloud, a second one, or anywhere else outside your Harvey Cloud
+So you access the platform from your laptop and invoke what's-his-name.
+We've been building or IBM data pile combining raw data collected from public sources with IBM
+We're bringing data from different domains: the Internet, code, academic sources, enterprise, and more.
+to collect petabytes of data across dozens of domains to produce trillions of tokens that
+And besides the raw data and our proprietary data, we allow clients to bring their own data
+to enrich and improve their purpose built foundation models. It is all store in dot data. With granular metadata that provides traceable governance
+for each file or document so now we take this and we move to filter and process the data first we identify the provenance
+and the idea of the data. Then we need to categorize it. We classified, for example, in a pile for different languages, let's say English,
+German and so on, a pile of code data that we then separate by programming language, Java, Ansible, Kobol and so on, and any other category
+that we have now we filter it we do analytics and get rid of duplicated data now we identify hate abuse
+We filter it for private information, licensing constraints, and data quality.
+By annotating we allow data scientists to determine the right thresholds for their filtering.
+for the next step. We version and tag the data. Each dataset, after being filtered and preprocessed,
+The data card has the name and the version of the pile, specifies its content and filters that have been applied to it.
+and any other relevant content to make it easy to manage and track different choices that of the work and the right subsets of the data
+that we've used to develop the foundation models. Now, we can have multiple data piles. They coexist in dot data and access to different versions
+of data for different purposes is managed seamlessly. So we're now ready to take the pile and start training our model.
+AI workflow. So we move from dot data to dot AI and start by picking a model architecture from the five families that
+These are the foundation of models, and they range from encoder-only, decoder-only, decoder-only and other novel architectures.
+Let's pick the encoder-decoder sandstone to train the model and pick a target data pile version from the piles that
+AI allows training with computing resources across the hybrid cloud.
+is a first-of-its-kind cloud-native AI supercomputer that we built last year. It gives you bare metal performance in the cloud with virtualization over
+And we're making it available as a service.
+and the first thing we need to do is to tokenize the data according to the requirements of the model.
+using the version ID for the stack we want to use, that materializes a copy of the dataset on Vela for tokenization.
+For example, if we build a large language model, the sentences in the data are broken down into tokens, and this process
+And we use the tokens to train the model. Training is a very complex and time-consuming task.
+thousands, hundreds, even thousands of GPUs and can take days, weeks and even months. Training in Watson.ai takes advantage of the best
+open source technology out there to simplify the user experience.&nbsp; Built on ColdFlare using Pytorch and Ray, it also integrates&nbsp;&nbsp;
+Once the training is done, the model is ready for validation.
+For each model we train, we run an extensive set of benchmarks to evaluate the quality of the model across a wide range of metrics.
+Once the model passes all the thresholds across the benchmarks, it's packaged and marked as ready for use.
+We will have many different models, train on different piles, with different targets.
+to combine the data card that has the detailed provenance information for the data pile that was used for training with the model card.
+that has the detailed information on how the model was trained and validated.&nbsp; Together they form a fact sheet.&nbsp;
+is cataloged in dot governance and all the other fact sheets for all the models that we have available for use. Now let's go on
+to tune the model that we just created and what we mean by that is to adapt it to new downstream tasks which is the basis for the large
+So in this case, you're a different person, you're the application developer, so you can
+We have a family of IBM models that specialize in different domains.
+We also have a rich set of open models because we believe in the creativity of the global AI community and in the diversity of models.
+it offers and we want to bring that to you in this case we pick sandstone.b from the IBM language
+which is the model that we just trained. We set up the tuning options, the tuning approach, we pick summation as an example.
+as the base model to use. Now we can access and use business proprietary data to tune the base model
+for the task we choose, whether that business data is located anywhere in the hybrid cloud platform. So now we send prompts and tuning data
+and that's used to tune the model in dot AI. You get the outcome of the prompt on the model.
+back and forth and back and forth many times and in the end you end up with a set of ideal proms to use the model is now specialized
+and ready to deploy. This is the final step in our AI workflow. The application where you want to use
+It can live in the public cloud, it can live on the edge, and you can really deploy and run foundation models efficiently wherever you need them.
+The Deployed model can be used in many different applications. For example, we've embedded foundation models in Watson Assistant.
+You describe the topic that you want the assistant to handle, and it generates the corresponding conversation flow.
+have an inference stack to scale the serving of the model in applications. It consists of state-of-the-art technology that has been
+This is how Watson X allows us to go from data to a model that is trusted, governed, deployed and ready.
+and how we can scale that model to different applications. Once models are deployed, we continuously monitor and update
+in both.data and in.AI. We call this constant process or data and model factory. As Watson
+governance monitors the models, if there is any change that may impact how the model can be used or performs.
+We have new data that can be leveraged, or there's a change in some regulation or law or data licensing, any change detected by the
+governance process guides and processes the update to both the data and the model.
+to solid and proper governance of AI. Now all of these updates need to happen without disrupting the underlying applications that are leveraging the
+and this data and model factory is in production today. We have already produced over 20 models across modalities like language,
+geospatial and chemistry and spanning different sizes of&nbsp; models from hundreds of millions to billions of parameters.&nbsp;&nbsp;
+fused this foundation models into iVm products red hat products and or partners products at iVm over
+where 12 foundation models are powering or IBM NLP library, which is used in over 15 IBM products and is available to ISVs.
+train over code are part of IBM Watson code assistant, which has been applied in the Red Hat Ancible automation platform.
+And as you heard earlier in this event, SAP has partnered with us and is infusing foundation models into their solutions.
+Now, to maximize what you can do and the innovations at your disposal, we believe that you should bet on community.
+because the truth is one model will not rule them all and with the innovations and models that it develops
+the open community is supercharging the value that you will be able to create to be true to or believe in the diversity
+and the creativity of the open AI community, we're proud to announce our new partnership with Hugging Face.
+Thank you for having me. Thank you very much.
+First of all, welcome to IBM. We're delighted to have you here. So let's start by telling us a little bit about yourself and how and when you became interested in AI.
+Thank you so much for having me. I actually studied AI almost 15 years ago. Look at the room at the time.
+We didn't even call it AI at the time, we called it computer vision.
+I was working for a French company, and we were doing computer vision on a mobile device.
+The company went on to be acquired by Google, but I never lost my passion and enthusiasm for AI.
+The co-founders, Julian and Thomas, gathered around his passion for AI and studied hugging faces, which you can see on my T-shirt.
+We started with something completely different. We worked on conversational AI for three years, and as it sometimes happens for startups,
+The underlying platform and technology turned out to be more useful than the end product. When we started releasing some of it on GitHub,
+We started to see open-source contributors joining us, and we started to see scientists sharing models on the platform.
+So I mentioned the power and the creativity of the open community creating an AI.
+some statistics, how big is it, how much energy is in that community and how much should we expect in that creativity to be available to all of us.
+Open source AI is crazy these days. Just a few weeks ago, I was in San Francisco, and I tweeted that I would be around, and that we could do something.
+of a small get together for open source AI people. We thought we'd get maybe a few dozen, a few hundred people and the more the day
+The more people join, the more we have to change locations three times to something almost as big as we have five thousand.
+Thousands of people started calling it the "Woodstock of AI". So that's just an example.
+It's just a proof of how vibrant the open source AI community is. We've been doing the same thing on Hugging Face since we started.
+platform four years ago we grew to now have over 15,000 companies using the platform including very large companies
+like Google, like Meta, like Bloomberg, all the way down to smaller companies like Grammarly, for example.
+have shared over 250,000 open models on the platform, 50,000 datasets and over 100,000
+Just last week, 4,000 new models were shared on the platform, so that shows you the magnitude.
+Think about it. 4,000 models in one week. So one of the myth-busting things that we
+It's about the fact that one of the elements of one model won't be the right one. It's going to be a huge amount of innovation that's happening from so many different sources, so you can share with us.
+What are some examples of innovation that you've seen with scale, but what are some examples that really caught your eye or you think are particularly powerful?
+And it's interesting because since the release of ChatGPT, and some people have said that ChatGPT is the model to rule them all, 100,000 new models
+And obviously companies that don't train models just to train models, they'd rather not do it.
+But the truth is, if you look at how AI is built, when you can build smaller, more
+specialized custom models for your use cases they end up being cheaper they end up being more efficient and they end up
+It's the same way every tech company learned how to write code, right?
+To have a different code base than their competitors or companies in other fields, we see the same thing for AI.
+They need to train their own models, optimize their own models, learn how to run these models on a large scale.
+because if they don't, they won't be able to differentiate, they won't be able to create the unique
+technology value that they've been building for their customers and they're losing control right if they start outsourcing it, so that's what we're saying.
+It's back to the philosophy of not just being a prompt user, but being a creator with all of that.
+Why are you excited about bringing the power of this community into what's happening now in the context of an enterprise?
+Obviously, Hugging Face and IBM share a lot of the same DNA, right?
+around open source, open platform, kind of like providing extensible tools for companies for me one of the most
+The most iconic collaboration of the last decade is IBM plus Red Hat, and hopefully we're just at the beginning of it.
+With this collaboration, we can do the same for AI. I think with this integration between Watson X and Hugging Face,
+You get the best of both worlds in the sense that you get the cutting edge and the community and the number of models and data sets.
+of the hugging face ecosystem and you get the security and support of IBM right?
+The IBM consultants can help you choose the right models for you at the time.
+to make sense for your company, so you really get the perfect mix to get to what we're saying, which is that every single one of you
+So tell us, this is just great, I'm just delighted about those opportunities, and tell us a little bit about what's next.
+When you look back over the next year or so, what excites you the most?
+A lot of companies are using us for text, audio, and image, and now we're starting to see that expanding.
+For example, we're seeing a lot of videos right now, we're seeing a lot of recommendation systems, we're seeing a lot of time series.
+We're studying a lot of biology and chemistry, and we're really excited about it, and we think that ultimately, AI is the new default for building all these features.
+All the workflows, all the products, it's kind of like the new default to build outtech, so we're excited about this expansion to other domains.
+We're also seeing a lot of work around chaining different models, and in fact, we're releasing Transformers 8 today.
+which is a way to chain different models to build more complex systems that are achieving better capabilities.
+Some of the things that we're most excited about.
+so well you saw how the platform works to enable the foundation model creation work
+And we talked about data, we talked about model architecture, the computer infrastructure, the models themselves, the importance of
+of the open community, so now let me show you how to use it and how you'll experience what it is, and we're going to go inside the studio.
+And from the landing page, you can choose to prompt models, fine-tune models, or deploy and manage your deployed models.
+For example, how you can use the prompt to do a summary task. You give the model the text as a prompt and the model summarizes it.
+In the case of a customer care interaction, it gives you the customer problem and the resolution according to the transcript of the interaction.
+The tuning studio, as we've seen before, you can set the parameters for the type of tuning you want to do and you can add your data, the studio gives you.
+It's simple, we'll take the complexity of the process, so you'll
+You just need to worry about creating value for your business. And here are some of our current AI value creators. SAP will
+capabilities to power its digital assistant in the recipe solutions. You've been hearing about Red Hat, how it's embedding IBM Watson code assistant into the Ansible Automation Platform.
+is bringing their enterprise data to use with their own foundation model for natural language. Moderna is applying
+foundation models to help predict potential mRNA medicines. NASA is using your language models together with your special models we've created together to improve your
+scientific understanding and response to earth and climate related issues and WIX is using foundation models to gain new insights for customer care and
+So what I encourage you to do is to join them and embrace the age of value creation with AI.
+I stood on a stage just like this closing thing and I shared with all the attendees that what was next in AI
+It was founding models. Maybe at the time it seemed a little abstract and you know, like this intellectual disposition about where things were going, but boy, what a year it's been.
+And it's been a great year for AI at IBM, so as we close our event this year, let me remind you of all the things
+that we've created and announced. We've announced Watson, a comprehensive platform that allows you to create and govern AI in real time so that you can move with urgency and
+We're announcing a set of foundation models, including IBM models, open community models and how you can even create your own models.
+factory using petabytes of data across multiple domains to create trillions of tokens to create or family of foundation.
+and show how the factory continuously updates them when conditions change and brings a regular cadence of models to ensure proper governance.
+We've told you about products where we have our foundation models, over fifteen of them, including digital labels, Red Hat products, and automation.
+are partner products like A.C.P. Solutions. We announce important collaborations to advance AI and bring it to the enterprise.
+and initiatives like Pytorch and Ray. We showed you some of the organizations that have become
+A supercomputer to train foundation models with bare metal performance while giving us the flexibility of the cloud, and we're making it available as a service.
+Last year we launched the Telem in C16. It's an engineering marvel and IBM's first processor to have
+It can process 300 billion inputs per day with one millisecond latency.
+into every transaction in Z16 for applications like fraud detection and others in real time. Using the same
+We're building the IBM Research AIU, which is optimized to give superior performance for foundation models and enable with the Red Hat.
+And at IBM Research, we're incubating powerful AI systems designed and optimized for enterprise AI inference and tuning.
+A truly fantastic year and this is just the beginning of all the amazing things that we are building and developing for you and that we will be sharing with you in the coming year.
+So today, more than ever, it's important to have a business strategy in AI. And in closing, as you think about how to harness
+Let me offer you some tips to consider. First, act with urgency.
+This is a transformative moment in technology. Be bold and capture the moment. Second, be a value creator.
+on your data and under your control. They will become your most valuable asset. Don't outsource that and don't reduce your AI strategy to
+third bet on community bet on the energy and the ingenuity of the open AI community one model
+I guarantee you won't rule them all. Run everywhere efficiently, optimize for performance, latency and cost by
+building with open hybrid technologies and finally be responsible I can't stress this enough everything I've mentioned is useless
+Unless you build responsibly, transparently and put governance at the heart of your AI life cycle.
+the data you use and the AI you deploy and co-create with trusted partners. Trust is your ultimate license
+to operate. If you map your AI business strategy against these recommendations, you will be in a prime position to do amazing things with
+We've built Watson X so that you can do just that. And I hope you'll join us because we
+We can't wait to get started on this journey with you.
+It's not like I'm going to be able to do it.
+And then we're going to do a little bit of this, and we're going to do a little bit of this.
+I'm going to do it.

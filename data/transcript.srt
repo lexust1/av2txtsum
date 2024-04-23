@@ -1,0 +1,1155 @@
+1
+00:00:09,000 --> 00:00:17,000
+>> Welcome to IBM THINK 2023!
+
+2
+00:00:17,000 --> 00:00:23,000
+>> AI generated art, AI generated songs.
+
+3
+00:00:23,000 --> 00:00:31,000
+AI, what is that? It sure is a lot of fun. But when foundation models are applied to big business, well,
+
+4
+00:00:31,000 --> 00:00:36,000
+you need to think bigger. Because AI and business needs to be held to a higher standard.
+
+5
+00:00:36,000 --> 00:00:42,000
+Built to be trusted, secured, and adaptable. This isn't simple automation that is only
+
+6
+00:00:42,000 --> 00:00:48,000
+trained to do one thing. This is AI that is built and focused to work across your organization.
+
+7
+00:00:48,000 --> 00:00:54,000
+This isn't committing to a single system. This is hybrid ready AI that can scale across your systems.
+
+8
+00:00:54,000 --> 00:01:00,000
+This isn't wondering where an answer came from. This is AI that can show its work.
+
+9
+00:01:00,000 --> 00:01:07,000
+When you build AI into the core of your business, you can go so much further. This is more than AI.
+
+10
+00:01:07,000 --> 00:01:13,000
+This is AI for business. Let's create.
+
+11
+00:01:13,000 --> 00:01:21,000
+(MUSIC) >> Please welcome Senior Vice President and Director of Research, IBM, Dr. Dario Gil.
+
+12
+00:01:21,000 --> 00:01:27,000
+(Applause) >> DARIO GIL: Hello.
+
+13
+00:01:27,000 --> 00:01:33,000
+Welcome, welcome to the last session of THINK. And I understand some of you even had a drink.
+
+14
+00:01:33,000 --> 00:01:39,000
+How special. So, I hope you've enjoyed the last two days with us.
+
+15
+00:01:39,000 --> 00:01:48,000
+And what an incredible year it has been for AI. You can really feel the change that is happening all around us.
+
+16
+00:01:48,000 --> 00:01:57,000
+And there's just no denying that the pace of this technology continues to be exhilarating and that its implications are
+
+17
+00:01:57,000 --> 00:02:03,000
+now so clear for all to see around the globe. I am just fascinated by AI.
+
+18
+00:02:03,000 --> 00:02:12,000
+And as a technologist, this level of excitement really comes about only maybe once or twice every decade.
+
+19
+00:02:12,000 --> 00:02:18,000
+And I am just thrilled to see all the possibilities that this technology is going to enable.
+
+20
+00:02:18,000 --> 00:02:26,000
+Because it's really going to impact every industry. From customer care to transforming data centers
+
+21
+00:02:26,000 --> 00:02:32,000
+and logistics to medicine, to manufacturing, to energy, to the automotive industry, to aerospace,
+
+22
+00:02:32,000 --> 00:02:37,000
+communications, you name it. It's really going to impact every one of our businesses
+
+23
+00:02:37,000 --> 00:02:46,000
+and really touch every aspect of our lives. So, it's really exciting. And while sometimes the pace of this technology can feel,
+
+24
+00:02:46,000 --> 00:02:51,000
+you know, daunting and scary, the opportunities to harness
+
+25
+00:02:51,000 --> 00:02:58,000
+foundation models and generative AI with proper governance, the opportunities are immense.
+
+26
+00:02:58,000 --> 00:03:05,000
+The emergence of foundation models and generative AI is really a defining moment.
+
+27
+00:03:05,000 --> 00:03:10,000
+And we need to recognize its importance, we need to capture the moment.
+
+28
+00:03:10,000 --> 00:03:17,000
+And my advice is, don't be just an AI user. Be an AI value creator.
+
+29
+00:03:17,000 --> 00:03:25,000
+Just think about it, as an AI user, you are limited to just prompting someone else's AI model.
+
+30
+00:03:25,000 --> 00:03:31,000
+It's not your model, you have no control over the model or the data.
+
+31
+00:03:31,000 --> 00:03:39,000
+Just think carefully about whether that's the world you want to live in. As an AI value creator, on the other hand, you have
+
+32
+00:03:39,000 --> 00:03:46,000
+multiple entry points. You can bring your own data and AI models to Watsonx or
+
+33
+00:03:46,000 --> 00:03:54,000
+choose from a library of tools and technologies. You can train or influence training, if you want.
+
+34
+00:03:54,000 --> 00:04:01,000
+You can tune, you can have transparency and control over the governing data and AI models.
+
+35
+00:04:01,000 --> 00:04:07,000
+You can prompt it, too. Instead of only one model, you will have a family of models.
+
+36
+00:04:07,000 --> 00:04:13,000
+And through this creative process you can improve them and you can make them your own, your own models.
+
+37
+00:04:13,000 --> 00:04:21,000
+Foundation models that are trained with your data will become your most valuable asset.
+
+38
+00:04:21,000 --> 00:04:28,000
+And as a value creator, you will own that and all the value that they will create for your business.
+
+39
+00:04:28,000 --> 00:04:35,000
+So, don't outsource that. You can simply control your destiny with foundation models.
+
+40
+00:04:35,000 --> 00:04:41,000
+So, let me show you how we become, and allow you to become
+
+41
+00:04:41,000 --> 00:04:47,000
+a value creator with Watsonx. Watsonx is our new integrated data and AI platform.
+
+42
+00:04:47,000 --> 00:04:53,000
+It consists of three primary parts: First, Watsonx.data it is
+
+43
+00:04:53,000 --> 00:05:02,000
+our massive curated data repository that is ready to be tapped to train and fine-tune models, with state-of-the-art
+
+44
+00:05:02,000 --> 00:05:09,000
+data management system. Watsonx.ai, this is an enterprise studio to train,
+
+45
+00:05:09,000 --> 00:05:17,000
+validate, tune, and deploy traditional machine learning and foundation models that provide generative capabilities.
+
+46
+00:05:17,000 --> 00:05:27,000
+And Watsonx.governance, this is a powerful set of tools to ensure your AI is executing responsibly.
+
+47
+00:05:27,000 --> 00:05:34,000
+Watsonx.data, Watsonx.ai, Watsonx.governance, they work together seamlessly throughout the entire
+
+48
+00:05:34,000 --> 00:05:42,000
+lifecycle of foundation models. And true to our commitment to hybrid cloud architectures,
+
+49
+00:05:42,000 --> 00:05:48,000
+Watsonx is built on top of Red Hat OpenShift. Not only does it provide seamless integration of
+
+50
+00:05:48,000 --> 00:05:53,000
+Watsonx components, it allows you to access and deploy
+
+51
+00:05:53,000 --> 00:05:59,000
+your AI workloads in any IT environment, no matter where they are located.
+
+52
+00:05:59,000 --> 00:06:09,000
+WatsonX is the AI platform for value creators. And look, I don't need to tell you that deploying these
+
+53
+00:06:09,000 --> 00:06:14,000
+technologies is not easy at the enterprise level. But the platform changes that.
+
+54
+00:06:14,000 --> 00:06:21,000
+So let's take a look now at how an entire AI workflow end to end works in the platform.
+
+55
+00:06:21,000 --> 00:06:30,000
+The lifecycle consists of preparing our data, using it to train the model, validate the model, tune it, and deploy in
+
+56
+00:06:30,000 --> 00:06:37,000
+applications and solutions. So let's start with data preparation. So say you're a data scientist and want to access the data that
+
+57
+00:06:37,000 --> 00:06:47,000
+is in a Public Cloud, some that is on prem, some that may be in another external database, or in a Public Cloud, a second one, or
+
+58
+00:06:47,000 --> 00:06:53,000
+anywhere else outside your hybrid cloud platform. So you access the platform from your laptop and
+
+59
+00:06:53,000 --> 00:06:59,000
+invoke Watsonx.data. It establishes the necessary connections between the data
+
+60
+00:06:59,000 --> 00:07:06,000
+sources so you can access the data easily. We have been building our IBM data pile combining raw data
+
+61
+00:07:06,000 --> 00:07:14,000
+collected from public sources with IBM propriety data. We are bringing data from different domains, the internet,
+
+62
+00:07:14,000 --> 00:07:25,000
+code, academic sources, enterprise, and more. We have used Watsonx.data to collect petabytes of data across
+
+63
+00:07:25,000 --> 00:07:30,000
+dozens of domains to produce trillions of tokens that we can
+
+64
+00:07:30,000 --> 00:07:37,000
+use to train foundation models. And besides the raw data and our proprietary data, we allow
+
+65
+00:07:37,000 --> 00:07:44,000
+clients to bring their own data to enrich and improve their purpose-built foundation models.
+
+66
+00:07:44,000 --> 00:07:50,000
+It is all stored in .data. With granular metadata that provides traceable governance
+
+67
+00:07:50,000 --> 00:07:57,000
+for each file or document. So, now we took this and we move to filter and process the data.
+
+68
+00:07:57,000 --> 00:08:05,000
+First, we identify the provenance and the idea of the data. Then, we need to categorize it, we classify it, for
+
+69
+00:08:05,000 --> 00:08:12,000
+example, in a pile for different languages, let's say English, Spanish, German, and so on.
+
+70
+00:08:12,000 --> 00:08:19,000
+A pile of code data that we then separate by programming language, Java, Ansible, COBOL, and so on.
+
+71
+00:08:19,000 --> 00:08:25,000
+And any other category that we have. Now we filter it, we do analytics and get
+
+72
+00:08:25,000 --> 00:08:31,000
+rid of duplicated data. Now identify hate, abuse, and profanity in the data,
+
+73
+00:08:31,000 --> 00:08:37,000
+and we remove it. We filter it for private information, licensing
+
+74
+00:08:37,000 --> 00:08:42,000
+constraints, and data quality. By annotating, we allow data scientists to
+
+75
+00:08:42,000 --> 00:08:51,000
+directly determine the right thresholds for their filtering. Having done all of that, the pile is now ready
+
+76
+00:08:51,000 --> 00:08:59,000
+for the next step. We version and tag the data. Each dataset, after being filtered and preprocessed,
+
+77
+00:08:59,000 --> 00:09:05,000
+receives a data card. The data card has the name and the version of the pile,
+
+78
+00:09:05,000 --> 00:09:10,000
+specifies its content, and filters that have been applied to it.
+
+79
+00:09:10,000 --> 00:09:20,000
+And any other relevant content to make it easy to manage and track different choices that of the work and the right subsets
+
+80
+00:09:20,000 --> 00:09:26,000
+of the data that we have used to develop the foundation models. Now, we can have multiple data piles.
+
+81
+00:09:26,000 --> 00:09:34,000
+They coexist in .data and access the different versions of data for different purpose is managed seamlessly.
+
+82
+00:09:34,000 --> 00:09:41,000
+So, we are now ready to take the pile and start training our model. This is step 2 in our AI workflow.
+
+83
+00:09:41,000 --> 00:09:47,000
+So, we move from .data to .ai and start by picking a model
+
+84
+00:09:47,000 --> 00:09:54,000
+architecture from the five families that IBM provides. These are bed rocks of models, and they range from
+
+85
+00:09:54,000 --> 00:10:00,000
+encoder only, encoder- decoder, decoder only, and other novel architectures.
+
+86
+00:10:00,000 --> 00:10:06,000
+Let's pick the encoder-decoder sandstone to train the model and
+
+87
+00:10:06,000 --> 00:10:11,000
+pick a target data pile version from the piles that is .data.
+
+88
+00:10:11,000 --> 00:10:16,000
+.ai allows training with computing resources across the hybrid cloud.
+
+89
+00:10:16,000 --> 00:10:24,000
+In this case it runs on IBM Vela. Vela is the first of a kind cloud native AI super computer
+
+90
+00:10:24,000 --> 00:10:32,000
+that we built last year. It gives you bare metal performance in the cloud with a virtualization overhead that is less than 5%.
+
+91
+00:10:32,000 --> 00:10:39,000
+And we are making it available as a service. Watsonx.ai auto scales the resources for the
+
+92
+00:10:39,000 --> 00:10:48,000
+training being done. And the first thing that we need to do is to tokenize the data according to the requirements of the model.
+
+93
+00:10:48,000 --> 00:10:53,000
+So, we first query the data using the version ID for the pile we want to use.
+
+94
+00:10:53,000 --> 00:10:59,000
+That materializes a copy of the dataset on Vela for tokenization.
+
+95
+00:10:59,000 --> 00:11:06,000
+What this means is that, for example, we were building a large language model, the sentences in the data are
+
+96
+00:11:06,000 --> 00:11:12,000
+broken into tokens. And this process can create trillions of them.
+
+97
+00:11:12,000 --> 00:11:18,000
+And we use the tokens to train the model. Now, training is a very complex and time consuming task.
+
+98
+00:11:18,000 --> 00:11:26,000
+It can require dozens, hundreds, even thousands of GPUs and can take days, weeks, and even months.
+
+99
+00:11:26,000 --> 00:11:34,000
+Training in Watsonx.ai takes advantage of the best open-source technology out there to simplify the user experience.
+
+100
+00:11:34,000 --> 00:11:42,000
+Built on code flare, using PyTorch and Ray, it also integrates Hugging Face to bring you a rich
+
+101
+00:11:42,000 --> 00:11:49,000
+variety of open formats. Once training is done, the model is ready for validation.
+
+102
+00:11:49,000 --> 00:11:56,000
+So for each model we train, we run an extensive set of benchmarks to evaluate the model quality across
+
+103
+00:11:56,000 --> 00:12:02,000
+a wide range of metrics. Once the model passes all the thresholds across the
+
+104
+00:12:02,000 --> 00:12:11,000
+benchmarks, it is packaged and marked as ready for use. For each model, we create a model card that lists all
+
+105
+00:12:11,000 --> 00:12:18,000
+the details of the model. We will have many different models, trained on different piles, with different target goals.
+
+106
+00:12:18,000 --> 00:12:26,000
+Next, we go to Watsonx.governance to combine the data card that has the detailed provenance information
+
+107
+00:12:26,000 --> 00:12:33,000
+for the data pile that was used for training, with the model card that has the detailed information on how the model
+
+108
+00:12:33,000 --> 00:12:39,000
+was trained and validated. Together, they form a fact sheet.
+
+109
+00:12:39,000 --> 00:12:44,000
+This fact sheet is cataloged in .governance and all the other
+
+110
+00:12:44,000 --> 00:12:53,000
+fact sheets for all the models that we have available for use. Now let's go on to tune the model that we just created, and
+
+111
+00:12:53,000 --> 00:13:02,000
+what we mean by that is to adapt it to new downstream tasks, which is the basis for the large productivity gains that is
+
+112
+00:13:02,000 --> 00:13:08,000
+afforded by foundation models. So, say, in this case, you are a different person, and you are
+
+113
+00:13:08,000 --> 00:13:13,000
+the application developer. So, you can access Watsonx.ai and start by picking a model
+
+114
+00:13:13,000 --> 00:13:18,000
+from the catalog to work with. We have a family of IBM models specialized
+
+115
+00:13:18,000 --> 00:13:24,000
+for different domains. But we also have a rich set of open models, because we
+
+116
+00:13:24,000 --> 00:13:32,000
+believe in the creativity of the global AI community and in the diversity of models it offers, and we
+
+117
+00:13:32,000 --> 00:13:39,000
+want to bring that to you. In this case, we pick sandstone.3b from the IBM
+
+118
+00:13:39,000 --> 00:13:47,000
+language models, which is the model that we just trained. We set up the options for tuning, the tuning approach.
+
+119
+00:13:47,000 --> 00:13:52,000
+We pick summarization as an example, as the base model to use.
+
+120
+00:13:52,000 --> 00:14:02,000
+Now, we can access and use business proprietary data to tune the base model and for the task that we choose,
+
+121
+00:14:02,000 --> 00:14:07,000
+whether that business data is located in anywhere in the hybrid cloud platform.
+
+122
+00:14:07,000 --> 00:14:14,000
+So, now we send prompts and tuning data, and that's used to tune the model in .ai.
+
+123
+00:14:14,000 --> 00:14:21,000
+You get the outcome of the prompt on the model. This process happens back and forth, back and forth
+
+124
+00:14:21,000 --> 00:14:28,000
+many times, and in the end, you end up with a set of ideal prompts to use.
+
+125
+00:14:28,000 --> 00:14:35,000
+The model is now specialized and ready to deploy. This is the final step in our AI workflow.
+
+126
+00:14:35,000 --> 00:14:44,000
+The application where you want to use the foundation model can live in the public cloud, it can live on-prem or on the edge.
+
+127
+00:14:44,000 --> 00:14:50,000
+And you can really deploy and run foundation models efficiently wherever you need them.
+
+128
+00:14:50,000 --> 00:14:57,000
+And the deployed model can be used in many different applications. So, for example, we've embedded foundation models
+
+129
+00:14:57,000 --> 00:15:06,000
+in Watson Assistant. For text generation in Assistant, you describe the topic that you want the assistant to handle, and it
+
+130
+00:15:06,000 --> 00:15:14,000
+generates the corresponding conversational flow. We have an inference stack to scale the serving of
+
+131
+00:15:14,000 --> 00:15:22,000
+the model in applications. It consists of state-of- the-art technology that has been field tested for scalable model serving.
+
+132
+00:15:22,000 --> 00:15:31,000
+This is how Watsonx allows us to go from data to a model that is trusted, governed, deployed and ready to serve, and how
+
+133
+00:15:31,000 --> 00:15:39,000
+we can scale that model to different applications. Once models are deployed, we continuously monitor them
+
+134
+00:15:39,000 --> 00:15:48,000
+and update them in both .data and in .ai. We call this constant process our data and model factory.
+
+135
+00:15:48,000 --> 00:15:58,000
+At Watsonx.governance monitors the models, if there's any change that may impact how the model can be used or performs,
+
+136
+00:15:58,000 --> 00:16:04,000
+be driven because we have new data that can be leveraged or there's a change in some regulation
+
+137
+00:16:04,000 --> 00:16:12,000
+or law or data licensing. Any change detected by the .governance process guides and
+
+138
+00:16:12,000 --> 00:16:21,000
+process the update to both the data and the model. The idea of the model factory is that is central to solid
+
+139
+00:16:21,000 --> 00:16:29,000
+and proper governance of AI. Now, all of these updates need to happen without disrupting the underlying applications that are leveraging
+
+140
+00:16:29,000 --> 00:16:34,000
+the foundation models. And this data and model factory is in production today.
+
+141
+00:16:34,000 --> 00:16:44,000
+We have already produced over 20 models across modalities like language, code, geospatial and chemistry, and spanning
+
+142
+00:16:44,000 --> 00:16:50,000
+different sizes of models from hundreds of millions to billions of parameters.
+
+143
+00:16:50,000 --> 00:16:58,000
+We have infused these foundation models into IBM products, Red Hat products, and our partners' products.
+
+144
+00:16:58,000 --> 00:17:03,000
+At IBM, over 12 foundation models are powering our IBM NLP
+
+145
+00:17:03,000 --> 00:17:10,000
+library, which is used in over 15 IBM products and is available to ISVs.
+
+146
+00:17:10,000 --> 00:17:17,000
+Granite models train over code are part of IBM Watson Code Assistant, which has been applied in the Red Hat
+
+147
+00:17:17,000 --> 00:17:24,000
+Ansible Automation Platform. And as you heard earlier in this event, SAP has partnered with us
+
+148
+00:17:24,000 --> 00:17:33,000
+and is infusing foundation models into their solutions. So, Watsonx is really ready for you to create value with AI.
+
+149
+00:17:33,000 --> 00:17:40,000
+Now, to maximize what you can do and the innovations at your disposal, we believe that you should bet on community.
+
+150
+00:17:40,000 --> 00:17:46,000
+Because, the truth is, one model will not rule them all.
+
+151
+00:17:46,000 --> 00:17:55,000
+And with the innovations and models that it develops, the open community is super charging the value that you
+
+152
+00:17:55,000 --> 00:18:02,000
+will be able to create. To be true to our belief in the diversity and the creativity of
+
+153
+00:18:02,000 --> 00:18:08,000
+the open AI community, we are proud to announce our new partnership with Hugging Face.
+
+154
+00:18:08,000 --> 00:18:13,000
+So let's invite to the stage cofounder and CEO of Hugging Face, Clem Delangue.
+
+155
+00:18:13,000 --> 00:18:19,000
+(Applause) >> CLEM DELANGUE: Hey, Dario.
+
+156
+00:18:19,000 --> 00:18:24,000
+>> DARIO GIL: Clem. >> CLEM DELANGUE: Thanks for having me. >> DARIO GIL: First of all, welcome to IBM THINK. We are just delighted to have you here.
+
+157
+00:18:24,000 --> 00:18:29,000
+So let's begin by, tell us a little bit about yourself and how and when you got interested in AI and how did
+
+158
+00:18:29,000 --> 00:18:36,000
+Hugging Face get started. >> CLEM DELANGUE: Yeah, thanks so much for having me. I, actually, started in AI almost 15 years ago.
+
+159
+00:18:36,000 --> 00:18:42,000
+I look at the room at the time we couldn't have filled it. Maybe it would have been one person, two persons
+
+160
+00:18:42,000 --> 00:18:50,000
+in the room at most. As a matter of fact, we weren't even calling it AI at the time, we were calling it computer vision.
+
+161
+00:18:50,000 --> 00:18:58,000
+I was working at French company – I am French, as you can hear from my accents – and we were doing computer vision
+
+162
+00:18:58,000 --> 00:19:03,000
+on device, on mobile. The company went on to get acquired by Google after.
+
+163
+00:19:03,000 --> 00:19:12,000
+But I never lost my passion and excitement for AI. So, seven years ago, with my cofounders, Jillian Thomas, we
+
+164
+00:19:12,000 --> 00:19:17,000
+gathered around this passion for AI and started Hugging Face,
+
+165
+00:19:17,000 --> 00:19:27,000
+right, what you see on my T-shirt, basically. We started with something completely different. We worked on conversational AI for three years and as it
+
+166
+00:19:27,000 --> 00:19:37,000
+sometimes happens for startups, the underlying platform and technology ended up more useful than the end product.
+
+167
+00:19:37,000 --> 00:19:45,000
+When we started to release part of it on GitHub, we started to see open-source contributors joining us, we started to see
+
+168
+00:19:45,000 --> 00:19:52,000
+scientist sharing models in the platform, leading to what Hugging Face is today.
+
+169
+00:19:52,000 --> 00:19:59,000
+>> DARIO GIL: So I mentioned the power and the creativity of the open community creating in AI.
+
+170
+00:19:59,000 --> 00:20:06,000
+Just share with us some statistic, how big is it? How much energy is there in that community and how much should we
+
+171
+00:20:06,000 --> 00:20:11,000
+expect in the creativity available to all of us? >> CLEM DELANGUE: Yeah, the energy in open-source AI
+
+172
+00:20:11,000 --> 00:20:19,000
+is insane these days. Just a few weeks ago I was in San Francisco. I tweeted that I would be around and that we could do some
+
+173
+00:20:19,000 --> 00:20:28,000
+sort of a small get-together for open-source AI people. We thought we would get maybe a few dozen, few hundred people.
+
+174
+00:20:28,000 --> 00:20:33,000
+And the more the days came, the more people ended up joining.
+
+175
+00:20:33,000 --> 00:20:40,000
+We had to change locations three times to something at the end almost as big as that, we had 5000 people.
+
+176
+00:20:40,000 --> 00:20:47,000
+People started calling it the Woodstock of AI, so that's just an example.
+
+177
+00:20:47,000 --> 00:20:55,000
+We are competing with that, the Woodstock of AI. Just proof of how vibrant the open-source AI community is.
+
+178
+00:20:55,000 --> 00:21:04,000
+We think the same thing on Hugging Face, right? Since we started on the platform four years ago, we grew to now
+
+179
+00:21:04,000 --> 00:21:09,000
+having over 15,000 companies using the platform including
+
+180
+00:21:09,000 --> 00:21:15,000
+very large companies like Google, like Meta, like Bloomberg, all the way down to smaller companies like
+
+181
+00:21:15,000 --> 00:21:24,000
+Grammarly, for example. And collectively they have shared over 250,000 open
+
+182
+00:21:24,000 --> 00:21:31,000
+models on the platform, 50,000 datasets, and over 100,000 open demos.
+
+183
+00:21:31,000 --> 00:21:37,000
+Just last week 4000 new models have been shared on the platform.
+
+184
+00:21:37,000 --> 00:21:43,000
+So, that shows you kind of like the magnitude and energy in open-source AI community.
+
+185
+00:21:43,000 --> 00:21:50,000
+>> DARIO GIL: Just think about that, 4000 models in one week. So, one of the myth busting things that we were chatting
+
+186
+00:21:50,000 --> 00:21:57,000
+about is that the element of one model will not rule them all, right? There's going to be a huge amount of innovation that is
+
+187
+00:21:57,000 --> 00:22:03,000
+happening from so many sources. So, perhaps, you could share with us, what are some examples of innovation that you see?
+
+188
+00:22:03,000 --> 00:22:09,000
+We have seen scale. But what are some examples that really caught your eye or you think were particularly powerful?
+
+189
+00:22:09,000 --> 00:22:15,000
+>> CLEM DELANGUE: Yeah, I mean, it's interesting because since the release of ChatGPT, right, and some people have
+
+190
+00:22:15,000 --> 00:22:23,000
+said, okay, ChatGPT is a model to rule them all. 100,000 new models have been added on Hugging Face, right?
+
+191
+00:22:23,000 --> 00:22:30,000
+And, obviously, companies, they don't train models just to train models, right? They would prefer not to do it because it costs
+
+192
+00:22:30,000 --> 00:22:38,000
+money to train models. But the truth is, if you look at how AI is built, when you can
+
+193
+00:22:38,000 --> 00:22:43,000
+build smaller, more specialized, customized models for your use
+
+194
+00:22:43,000 --> 00:22:52,000
+cases, they end up being cheaper, they end up being more efficient, and they end up being better for your use case, right?
+
+195
+00:22:52,000 --> 00:23:02,000
+Just the same way every single technology company learned how to write code, right, and to have a different code base than
+
+196
+00:23:02,000 --> 00:23:09,000
+their competitors or than companies in other fields. We are seeing the same thing for AI, right?
+
+197
+00:23:09,000 --> 00:23:18,000
+Every single company needs to train their own models, optimize their own models, learn how to run these models at scale.
+
+198
+00:23:18,000 --> 00:23:27,000
+Every single company needs to build their own ChatGPT because if they don't, they won't be able to differentiate, they
+
+199
+00:23:27,000 --> 00:23:35,000
+won't be able to create the unique technology value that they have been building for their customers, and they lose
+
+200
+00:23:35,000 --> 00:23:41,000
+control, right, if they start outsourcing it. That's what we are seeing on Hugging Face and in the
+
+201
+00:23:41,000 --> 00:23:49,000
+ecosystem as a whole. >> DARIO GIL: It's back to the philosophy of don't be a prompt tuner user, right, be a value creator with all of this.
+
+202
+00:23:49,000 --> 00:23:54,000
+So let's talk about our partnership for a minute. Why are you excited about bringing the power of all of
+
+203
+00:23:54,000 --> 00:24:02,000
+this community into Watsonx, in the context now of an enterprise, you know, need and meeting the needs of our clients
+
+204
+00:24:02,000 --> 00:24:07,000
+that are here listening? >> CLEM DELANGUE: Yeah, obviously, Hugging Face and IBM
+
+205
+00:24:07,000 --> 00:24:16,000
+share a lot of the same DNA, right, around open-source, open platform, kind of, like, providing extensible
+
+206
+00:24:16,000 --> 00:24:23,000
+tools for companies. For me, one of the most iconic collaboration partnership of the
+
+207
+00:24:23,000 --> 00:24:28,000
+last decade is IBM plus Red Hat and hopefully we are just at the
+
+208
+00:24:28,000 --> 00:24:34,000
+beginning of it, but with this collaboration, we can do the same thing for AI.
+
+209
+00:24:34,000 --> 00:24:43,000
+I think with this integration between Watsonx and Hugging Face, you kind of like get the best of both worlds in the
+
+210
+00:24:43,000 --> 00:24:51,000
+sense that you get the cutting edge and the community and the numbers of models, datasets, apps of the
+
+211
+00:24:51,000 --> 00:24:59,000
+Hugging Face ecosystem, and you get the security and supports of IBM, right?
+
+212
+00:24:59,000 --> 00:25:08,000
+For example, you mentioned, we mentioned all the models. The IBM consultants can help you to pick the right models for you
+
+213
+00:25:08,000 --> 00:25:16,000
+at the time that is going to make sense for your company. So, you really get, kind of, like, the perfect mix to get to
+
+214
+00:25:16,000 --> 00:25:23,000
+what we were saying, meaning every one of you being able to build your own internal ChatGPT.
+
+215
+00:25:23,000 --> 00:25:31,000
+>> DARIO GIL: So, tell us, this is just great. I am just delighted about those opportunities. So tell us a little bit about what's next for Hugging Face
+
+216
+00:25:31,000 --> 00:25:37,000
+when you look over the next year or so, what excites you the most? >> CLEM DELANGUE: Many, many exciting things for us.
+
+217
+00:25:37,000 --> 00:25:43,000
+We have seen a lot of adoption, a lot of companies using us for
+
+218
+00:25:43,000 --> 00:25:51,000
+text, for ODO, for image. And now we are starting to see that expand to other domains,
+
+219
+00:25:51,000 --> 00:25:58,000
+for example, we are seeing a lot of video right now. We are seeing a lot of recommender systems; we are
+
+220
+00:25:58,000 --> 00:26:07,000
+seeing a lot of time series. We are starting a lot of bioG chemistry. We are excited about it, we think ultimately AI is the new
+
+221
+00:26:07,000 --> 00:26:12,000
+default to build all features, all workflows, all products.
+
+222
+00:26:12,000 --> 00:26:20,000
+It's kind of like new default to build all tech. So we are excited for this expansion to other domains.
+
+223
+00:26:20,000 --> 00:26:26,000
+Also, we are seeing a lot of work around chaining different
+
+224
+00:26:26,000 --> 00:26:34,000
+models and, in fact, at Hugging Face we released today a transformer agents which is a way to chain different models to
+
+225
+00:26:34,000 --> 00:26:40,000
+build more complex systems that are achieving kind of like better capabilities.
+
+226
+00:26:40,000 --> 00:26:45,000
+These are some of the things that we are the most excited about. >> DARIO GIL: So a lot there so thank you, Clem.
+
+227
+00:26:45,000 --> 00:26:54,000
+Thank you so much. Congratulations. >> CLEM DELANGUE: Thank you so much. (Applause) >> DARIO GIL: Thank you.
+
+228
+00:26:54,000 --> 00:27:01,000
+So, while you saw how the platform works to enable the foundation model creation workflow end to end.
+
+229
+00:27:01,000 --> 00:27:07,000
+And we talked about data, we talked about model architectures, the computing infrastructure, the models
+
+230
+00:27:07,000 --> 00:27:15,000
+themselves, the importance of the open community. So, now let me show you how to use and how you
+
+231
+00:27:15,000 --> 00:27:21,000
+would experience Watsonx. And we are going to go inside the studio, inside Watsonx.ai.
+
+232
+00:27:21,000 --> 00:27:30,000
+And from the landing page you can choose two prompt models to fine-tune models or deploy and manage your deployed models.
+
+233
+00:27:30,000 --> 00:27:39,000
+So here's an example of how you can use the prompt lab to do a summarization task. You give the model the text as a prompt, and the model
+
+234
+00:27:39,000 --> 00:27:47,000
+summarizes it for you. In the case of a customer care interaction, it gives you the customer problem and the resolution according to the
+
+235
+00:27:47,000 --> 00:27:52,000
+transcript of the interaction. In the tuning studio, as we saw before, you can set the
+
+236
+00:27:52,000 --> 00:27:58,000
+parameters for the type of tuning that you want to do and the base model and you can add your data.
+
+237
+00:27:58,000 --> 00:28:05,000
+The studio gives you detailed stats of the tuning process and allows you to deploy the tune model in your application.
+
+238
+00:28:05,000 --> 00:28:10,000
+It's that simple. We took the complexity of the process away so you only
+
+239
+00:28:10,000 --> 00:28:17,000
+need to worry about creating value for your business. And here are some of our current AI value creators.
+
+240
+00:28:17,000 --> 00:28:23,000
+SAP will use IBM Watson capabilities to power its digital assistant in the recipe solutions.
+
+241
+00:28:23,000 --> 00:28:30,000
+You have been hearing about Red Hat, how it's embedding IBM Watson Code Assistant into the Ansible Automation Platform,
+
+242
+00:28:30,000 --> 00:28:37,000
+BBVA is bringing their enterprise data to use with their own foundation model for natural language.
+
+243
+00:28:37,000 --> 00:28:44,000
+Moderna is applying IBM's foundation models to help predict potential MRNA medicines.
+
+244
+00:28:44,000 --> 00:28:50,000
+NASA is using our language models together with US spatial models we have created together to improve our
+
+245
+00:28:50,000 --> 00:28:58,000
+scientific understanding and response to earth and climate related issues. And WiX is using foundation models to gain novel insights
+
+246
+00:28:58,000 --> 00:29:06,000
+for customer care as they meet the needs of their customers. So, what I encourage you is to join them and embrace the age
+
+247
+00:29:06,000 --> 00:29:15,000
+of value creation with AI. A year ago, I stood on a stage just like this, closing THINK.
+
+248
+00:29:15,000 --> 00:29:22,000
+And I shared with all of the attendees that what was next in AI was foundation models.
+
+249
+00:29:22,000 --> 00:29:28,000
+And maybe at the time it seemed a little bit abstract and, you know sort of, like, this intellectual disposition about where things were going.
+
+250
+00:29:28,000 --> 00:29:35,000
+But, boy, what a year it has been. And it has been a big year for AI at IBM.
+
+251
+00:29:35,000 --> 00:29:42,000
+So, as we close our event this year, let me remind of you of all of the things we have created and announced.
+
+252
+00:29:42,000 --> 00:29:48,000
+We have announced Watsonx, a comprehensive platform that allows you to create and governor AI in real time so that
+
+253
+00:29:48,000 --> 00:29:55,000
+you can move with urgency and capture this moment. We announced a set, a family of foundation models, including
+
+254
+00:29:55,000 --> 00:30:00,000
+IBM models, open community models, and how you can even create your own models.
+
+255
+00:30:00,000 --> 00:30:07,000
+We announced our data model factory, using petabytes of data across multiple domains to create trillions of tokens to
+
+256
+00:30:07,000 --> 00:30:16,000
+create our family of foundation models and show how the factory continuously updates them when conditions change and brings a
+
+257
+00:30:16,000 --> 00:30:23,000
+regular cadence of models to ensure proper governance. We told you about products where we have infused our
+
+258
+00:30:23,000 --> 00:30:31,000
+foundation models over 15 of them, including digital labor, Red Hat products like Ansible Automation Platform, our partner
+
+259
+00:30:31,000 --> 00:30:36,000
+products like ACP solutions. We announced important collaborations to advance AI and
+
+260
+00:30:36,000 --> 00:30:42,000
+bring it to the enterprise, Hugging Face and long-standing collaborations and initiatives like PyTorch and Ray.
+
+261
+00:30:42,000 --> 00:30:47,000
+We showed you some of the organizations that have become AI value creators with us.
+
+262
+00:30:47,000 --> 00:30:54,000
+We are bringing IBM Vela or cloud native AI super computer to train foundation models with bare metal performance
+
+263
+00:30:54,000 --> 00:31:00,000
+while giving us the flexibility of the cloud. And we announced that we are making it available as a service.
+
+264
+00:31:00,000 --> 00:31:10,000
+Last year we launched the Telum NC16. It's an engineering marvel and IBM's first processor to
+
+265
+00:31:10,000 --> 00:31:16,000
+have on chip accelerator for AI inferencing. It can process 300 billion inference per day
+
+266
+00:31:16,000 --> 00:31:23,000
+with one millisecond latencies. This means now you can infuse AI into every transaction
+
+267
+00:31:23,000 --> 00:31:29,000
+in Z16 for applications like fraud detection and others in real time.
+
+268
+00:31:29,000 --> 00:31:37,000
+Using the same core architecture as Telum, we built the IBM Research AIU, which is optimized to give superior performance for
+
+269
+00:31:37,000 --> 00:31:43,000
+foundation models and enable with Rat Hat software stack. And at IBM Research we are incubating powerful
+
+270
+00:31:43,000 --> 00:31:50,000
+AIU systems designed and optimized for enterprise, AI inference, and tuning.
+
+271
+00:31:50,000 --> 00:31:58,000
+So a truly fantastic year and this is just the start of all the amazing things that we are building and developing for you
+
+272
+00:31:58,000 --> 00:32:04,000
+and that we will be sharing with you in the coming years. So, today more than ever before, it's important to have a
+
+273
+00:32:04,000 --> 00:32:11,000
+business strategy in AI. And in closing, as you think about how to harness foundation
+
+274
+00:32:11,000 --> 00:32:17,000
+models for your business, let me offer you some tips to consider.
+
+275
+00:32:17,000 --> 00:32:23,000
+First, act with urgency. This is a transformative moment in technology, be
+
+276
+00:32:23,000 --> 00:32:30,000
+bold and capture the moment. Second, be a value creator, build foundation models on your
+
+277
+00:32:30,000 --> 00:32:35,000
+data and under your control. They will become your most valuable asset.
+
+278
+00:32:35,000 --> 00:32:41,000
+Don't outsource that and don't reduce your AI strategy to an API call.
+
+279
+00:32:41,000 --> 00:32:48,000
+Third, bet on community. Bet on the energy and the ingenuity of the
+
+280
+00:32:48,000 --> 00:32:53,000
+open AI community. One model, I guarantee you, will not rule them all.
+
+281
+00:32:53,000 --> 00:33:02,000
+Run everywhere efficiently, optimize for performance, latency, and cost by building with open hybrid technologies.
+
+282
+00:33:02,000 --> 00:33:11,000
+And finally, be responsible. I can't stress this enough. Everything I have mentioned is useless unless you build
+
+283
+00:33:11,000 --> 00:33:18,000
+responsibly, transparently, and put governance into the heart of your AI lifecycle.
+
+284
+00:33:18,000 --> 00:33:24,000
+Continuously governor the data you use and the AI you deploy.
+
+285
+00:33:24,000 --> 00:33:31,000
+And co-create with trusted partners, trust is your ultimate license to operate.
+
+286
+00:33:31,000 --> 00:33:39,000
+If you map your AI business strategy against these recommendations, you will be in a prime position to do amazing
+
+287
+00:33:39,000 --> 00:33:46,000
+things with foundation models and generative AI. We have built Watsonx so that you can do just that.
+
+288
+00:33:46,000 --> 00:33:52,000
+And I hope you join us, because we cannot wait to get started
+
+289
+00:33:52,000 --> 00:33:57,000
+on this journey with you. Thank you. (Applause)

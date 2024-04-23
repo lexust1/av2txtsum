@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints/
+data/audio_segments/
+*.mp3
+*.wav
+*.mp4
+Untitled.ipynb
+/.idea/

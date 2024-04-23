@@ -1,0 +1,6313 @@
+{
+	"systeminfo": "AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | METAL = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | SSSE3 = 0 | VSX = 0 | CUDA = 0 | COREML = 0 | OPENVINO = 0 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/ggml-large-v3.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,160",
+				"to": "00:00:09,800"
+			},
+			"offsets": {
+				"from": 160,
+				"to": 9800
+			},
+			"text": " ♪"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,800",
+				"to": "00:00:13,600"
+			},
+			"offsets": {
+				"from": 9800,
+				"to": 13600
+			},
+			"text": " Welcome to IBM Think 2023."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,600",
+				"to": "00:00:17,520"
+			},
+			"offsets": {
+				"from": 13600,
+				"to": 17520
+			},
+			"text": " ♪"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,520",
+				"to": "00:00:21,020"
+			},
+			"offsets": {
+				"from": 17520,
+				"to": 21020
+			},
+			"text": " AI-generated art."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,020",
+				"to": "00:00:23,820"
+			},
+			"offsets": {
+				"from": 21020,
+				"to": 23820
+			},
+			"text": " AI-generated songs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,820",
+				"to": "00:00:25,740"
+			},
+			"offsets": {
+				"from": 23820,
+				"to": 25740
+			},
+			"text": " AI, what is that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,740",
+				"to": "00:00:27,860"
+			},
+			"offsets": {
+				"from": 25740,
+				"to": 27860
+			},
+			"text": " It sure is a lot of fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,860",
+				"to": "00:00:30,980"
+			},
+			"offsets": {
+				"from": 27860,
+				"to": 30980
+			},
+			"text": " But when foundation models are applied to big business,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,980",
+				"to": "00:00:33,360"
+			},
+			"offsets": {
+				"from": 30980,
+				"to": 33360
+			},
+			"text": " well, you need to think bigger."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,360",
+				"to": "00:00:37,420"
+			},
+			"offsets": {
+				"from": 33360,
+				"to": 37420
+			},
+			"text": " Because AI in business needs to be held to a higher standard."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,420",
+				"to": "00:00:40,780"
+			},
+			"offsets": {
+				"from": 37420,
+				"to": 40780
+			},
+			"text": " Built to be trusted, secured, and adaptable."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,780",
+				"to": "00:00:44,460"
+			},
+			"offsets": {
+				"from": 40780,
+				"to": 44460
+			},
+			"text": " This isn't simple automation that is only trained to do one thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,460",
+				"to": "00:00:48,840"
+			},
+			"offsets": {
+				"from": 44460,
+				"to": 48840
+			},
+			"text": " This is AI that is built and focused to work across your organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,840",
+				"to": "00:00:50,920"
+			},
+			"offsets": {
+				"from": 48840,
+				"to": 50920
+			},
+			"text": " This isn't committing to a single system."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,920",
+				"to": "00:00:55,020"
+			},
+			"offsets": {
+				"from": 50920,
+				"to": 55020
+			},
+			"text": " This is hybrid-ready AI that can scale across your systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,020",
+				"to": "00:00:57,480"
+			},
+			"offsets": {
+				"from": 55020,
+				"to": 57480
+			},
+			"text": " This isn't wondering where an answer came from."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,480",
+				"to": "00:01:00,960"
+			},
+			"offsets": {
+				"from": 57480,
+				"to": 60960
+			},
+			"text": " This is AI that can show its work."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,960",
+				"to": "00:01:03,240"
+			},
+			"offsets": {
+				"from": 60960,
+				"to": 63240
+			},
+			"text": " When you build AI into the core of your business,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,240",
+				"to": "00:01:06,000"
+			},
+			"offsets": {
+				"from": 63240,
+				"to": 66000
+			},
+			"text": " you can go so much further."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,000",
+				"to": "00:01:07,520"
+			},
+			"offsets": {
+				"from": 66000,
+				"to": 67520
+			},
+			"text": " This is more than AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,520",
+				"to": "00:01:11,480"
+			},
+			"offsets": {
+				"from": 67520,
+				"to": 71480
+			},
+			"text": " This is AI for business."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,480",
+				"to": "00:01:14,460"
+			},
+			"offsets": {
+				"from": 71480,
+				"to": 74460
+			},
+			"text": " Let's create."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,460",
+				"to": "00:01:18,060"
+			},
+			"offsets": {
+				"from": 74460,
+				"to": 78060
+			},
+			"text": " Please welcome Senior Vice President and Director"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,060",
+				"to": "00:01:21,660"
+			},
+			"offsets": {
+				"from": 78060,
+				"to": 81660
+			},
+			"text": " of Research, IBM, Dr. Dario Gil."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,660",
+				"to": "00:01:24,460"
+			},
+			"offsets": {
+				"from": 81660,
+				"to": 84460
+			},
+			"text": " Hello."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,100",
+				"to": "00:01:28,340"
+			},
+			"offsets": {
+				"from": 87100,
+				"to": 88340
+			},
+			"text": " Welcome."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,340",
+				"to": "00:01:28,840"
+			},
+			"offsets": {
+				"from": 88340,
+				"to": 88840
+			},
+			"text": " Welcome."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,840",
+				"to": "00:01:30,780"
+			},
+			"offsets": {
+				"from": 88840,
+				"to": 90780
+			},
+			"text": " The last session of Think."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,780",
+				"to": "00:01:33,720"
+			},
+			"offsets": {
+				"from": 90780,
+				"to": 93720
+			},
+			"text": " And I understand some of you even had a drink."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,720",
+				"to": "00:01:35,400"
+			},
+			"offsets": {
+				"from": 93720,
+				"to": 95400
+			},
+			"text": " How special."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,400",
+				"to": "00:01:39,340"
+			},
+			"offsets": {
+				"from": 95400,
+				"to": 99340
+			},
+			"text": " So I hope you've enjoyed the last two days with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,340",
+				"to": "00:01:43,880"
+			},
+			"offsets": {
+				"from": 99340,
+				"to": 103880
+			},
+			"text": " And what an incredible year it has been for AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,880",
+				"to": "00:01:46,000"
+			},
+			"offsets": {
+				"from": 103880,
+				"to": 106000
+			},
+			"text": " You can really feel the change that"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,000",
+				"to": "00:01:48,280"
+			},
+			"offsets": {
+				"from": 106000,
+				"to": 108280
+			},
+			"text": " is happening all around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,280",
+				"to": "00:01:52,380"
+			},
+			"offsets": {
+				"from": 108280,
+				"to": 112380
+			},
+			"text": " And it's just not denying that the pace of this technology"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,380",
+				"to": "00:01:56,720"
+			},
+			"offsets": {
+				"from": 112380,
+				"to": 116720
+			},
+			"text": " continues to be exhilarating and that its implications"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,720",
+				"to": "00:02:01,500"
+			},
+			"offsets": {
+				"from": 116720,
+				"to": 121500
+			},
+			"text": " are now so clear for all to see around the globe."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,500",
+				"to": "00:02:04,320"
+			},
+			"offsets": {
+				"from": 121500,
+				"to": 124320
+			},
+			"text": " I'm just fascinated by AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,320",
+				"to": "00:02:08,380"
+			},
+			"offsets": {
+				"from": 124320,
+				"to": 128380
+			},
+			"text": " And as a technologist, this level of excitement"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,380",
+				"to": "00:02:12,800"
+			},
+			"offsets": {
+				"from": 128380,
+				"to": 132800
+			},
+			"text": " really comes about only maybe once or twice every decade."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,800",
+				"to": "00:02:16,840"
+			},
+			"offsets": {
+				"from": 132800,
+				"to": 136840
+			},
+			"text": " And I'm just thrilled to see all the possibilities"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,840",
+				"to": "00:02:19,080"
+			},
+			"offsets": {
+				"from": 136840,
+				"to": 139080
+			},
+			"text": " that this technology is going to enable."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,080",
+				"to": "00:02:22,700"
+			},
+			"offsets": {
+				"from": 139080,
+				"to": 142700
+			},
+			"text": " Because it's really going to impact every industry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,700",
+				"to": "00:02:26,340"
+			},
+			"offsets": {
+				"from": 142700,
+				"to": 146340
+			},
+			"text": " from customer care to transforming data centers"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,340",
+				"to": "00:02:30,180"
+			},
+			"offsets": {
+				"from": 146340,
+				"to": 150180
+			},
+			"text": " and logistics to medicine to manufacturing to energy"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,180",
+				"to": "00:02:33,220"
+			},
+			"offsets": {
+				"from": 150180,
+				"to": 153220
+			},
+			"text": " to the automotive industry to aerospace, communications,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,220",
+				"to": "00:02:34,400"
+			},
+			"offsets": {
+				"from": 153220,
+				"to": 154400
+			},
+			"text": " you name it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,400",
+				"to": "00:02:37,820"
+			},
+			"offsets": {
+				"from": 154400,
+				"to": 157820
+			},
+			"text": " It's really going to impact every one of our businesses"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,820",
+				"to": "00:02:40,940"
+			},
+			"offsets": {
+				"from": 157820,
+				"to": 160940
+			},
+			"text": " and really touch every aspect of our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,940",
+				"to": "00:02:42,300"
+			},
+			"offsets": {
+				"from": 160940,
+				"to": 162300
+			},
+			"text": " So it's really exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,300",
+				"to": "00:02:45,920"
+			},
+			"offsets": {
+				"from": 162300,
+				"to": 165920
+			},
+			"text": " And while sometimes the pace of this technology"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,920",
+				"to": "00:02:50,660"
+			},
+			"offsets": {
+				"from": 165920,
+				"to": 170660
+			},
+			"text": " can feel daunting and scary, the opportunities"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,660",
+				"to": "00:02:54,040"
+			},
+			"offsets": {
+				"from": 170660,
+				"to": 174040
+			},
+			"text": " to harness foundation models and generative AI"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,040",
+				"to": "00:02:55,960"
+			},
+			"offsets": {
+				"from": 174040,
+				"to": 175960
+			},
+			"text": " with proper governance--"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,960",
+				"to": "00:02:59,060"
+			},
+			"offsets": {
+				"from": 175960,
+				"to": 179060
+			},
+			"text": " the opportunities are immense."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,060",
+				"to": "00:03:02,660"
+			},
+			"offsets": {
+				"from": 179060,
+				"to": 182660
+			},
+			"text": " The emergence of foundation models and generative AI"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,660",
+				"to": "00:03:05,300"
+			},
+			"offsets": {
+				"from": 182660,
+				"to": 185300
+			},
+			"text": " is really a defining moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,300",
+				"to": "00:03:08,560"
+			},
+			"offsets": {
+				"from": 185300,
+				"to": 188560
+			},
+			"text": " And we need to recognize its importance."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,560",
+				"to": "00:03:11,340"
+			},
+			"offsets": {
+				"from": 188560,
+				"to": 191340
+			},
+			"text": " We need to capture the moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,340",
+				"to": "00:03:15,560"
+			},
+			"offsets": {
+				"from": 191340,
+				"to": 195560
+			},
+			"text": " And my advice is, don't be just an AI user."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,560",
+				"to": "00:03:18,040"
+			},
+			"offsets": {
+				"from": 195560,
+				"to": 198040
+			},
+			"text": " Be an AI value creator."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,040",
+				"to": "00:03:19,640"
+			},
+			"offsets": {
+				"from": 198040,
+				"to": 199640
+			},
+			"text": " Just think about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,640",
+				"to": "00:03:23,460"
+			},
+			"offsets": {
+				"from": 199640,
+				"to": 203460
+			},
+			"text": " As an AI user, you are limited to just prompting"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,460",
+				"to": "00:03:25,580"
+			},
+			"offsets": {
+				"from": 203460,
+				"to": 205580
+			},
+			"text": " someone else's AI model."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,580",
+				"to": "00:03:27,660"
+			},
+			"offsets": {
+				"from": 205580,
+				"to": 207660
+			},
+			"text": " It's not your model."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,660",
+				"to": "00:03:31,580"
+			},
+			"offsets": {
+				"from": 207660,
+				"to": 211580
+			},
+			"text": " You have no control over the model or the data."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,580",
+				"to": "00:03:33,520"
+			},
+			"offsets": {
+				"from": 211580,
+				"to": 213520
+			},
+			"text": " Just think carefully about whether that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,520",
+				"to": "00:03:36,400"
+			},
+			"offsets": {
+				"from": 213520,
+				"to": 216400
+			},
+			"text": " the world you want to live in."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,400",
+				"to": "00:03:39,300"
+			},
+			"offsets": {
+				"from": 216400,
+				"to": 219300
+			},
+			"text": " As an AI value creator, on the other hand,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,300",
+				"to": "00:03:41,680"
+			},
+			"offsets": {
+				"from": 219300,
+				"to": 221680
+			},
+			"text": " you have multiple entry points."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,680",
+				"to": "00:03:45,980"
+			},
+			"offsets": {
+				"from": 221680,
+				"to": 225980
+			},
+			"text": " You can bring your own data and AI models to Watson X"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,980",
+				"to": "00:03:50,720"
+			},
+			"offsets": {
+				"from": 225980,
+				"to": 230720
+			},
+			"text": " or choose from a library of tools and technologies."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,720",
+				"to": "00:03:54,260"
+			},
+			"offsets": {
+				"from": 230720,
+				"to": 234260
+			},
+			"text": " You can train or influence training if you want."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,260",
+				"to": "00:03:55,200"
+			},
+			"offsets": {
+				"from": 234260,
+				"to": 235200
+			},
+			"text": " You can tune."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,200",
+				"to": "00:03:59,720"
+			},
+			"offsets": {
+				"from": 235200,
+				"to": 239720
+			},
+			"text": " You can have transparency and control over the governing data"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,720",
+				"to": "00:04:01,320"
+			},
+			"offsets": {
+				"from": 239720,
+				"to": 241320
+			},
+			"text": " and AI models."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,320",
+				"to": "00:04:03,300"
+			},
+			"offsets": {
+				"from": 241320,
+				"to": 243300
+			},
+			"text": " You can prompt it too."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,300",
+				"to": "00:04:08,040"
+			},
+			"offsets": {
+				"from": 243300,
+				"to": 248040
+			},
+			"text": " Instead of only one models, you will have a family of models."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,040",
+				"to": "00:04:09,860"
+			},
+			"offsets": {
+				"from": 248040,
+				"to": 249860
+			},
+			"text": " And through this creative process,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,860",
+				"to": "00:04:12,880"
+			},
+			"offsets": {
+				"from": 249860,
+				"to": 252880
+			},
+			"text": " you can improve them and you can make them your own,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,880",
+				"to": "00:04:14,200"
+			},
+			"offsets": {
+				"from": 252880,
+				"to": 254200
+			},
+			"text": " your own models."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,200",
+				"to": "00:04:18,320"
+			},
+			"offsets": {
+				"from": 254200,
+				"to": 258320
+			},
+			"text": " Foundation models that are trained with your data"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,320",
+				"to": "00:04:22,060"
+			},
+			"offsets": {
+				"from": 258320,
+				"to": 262060
+			},
+			"text": " will become your most valuable asset."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,060",
+				"to": "00:04:24,820"
+			},
+			"offsets": {
+				"from": 262060,
+				"to": 264820
+			},
+			"text": " And as a value creator, you will own that."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,820",
+				"to": "00:04:28,960"
+			},
+			"offsets": {
+				"from": 264820,
+				"to": 268960
+			},
+			"text": " And all the value that they will create for your business."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,960",
+				"to": "00:04:31,280"
+			},
+			"offsets": {
+				"from": 268960,
+				"to": 271280
+			},
+			"text": " So don't outsource that."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,280",
+				"to": "00:04:35,980"
+			},
+			"offsets": {
+				"from": 271280,
+				"to": 275980
+			},
+			"text": " You can simply control your destiny with foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,980",
+				"to": "00:04:39,480"
+			},
+			"offsets": {
+				"from": 275980,
+				"to": 279480
+			},
+			"text": " So let me show you how we become"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,480",
+				"to": "00:04:44,040"
+			},
+			"offsets": {
+				"from": 279480,
+				"to": 284040
+			},
+			"text": " and allow you to become a value creator with Watson X."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,040",
+				"to": "00:04:47,760"
+			},
+			"offsets": {
+				"from": 284040,
+				"to": 287760
+			},
+			"text": " Watson X is our new integrated data and AI platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,760",
+				"to": "00:04:50,960"
+			},
+			"offsets": {
+				"from": 287760,
+				"to": 290960
+			},
+			"text": " It consists of three primary parts."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,960",
+				"to": "00:04:53,640"
+			},
+			"offsets": {
+				"from": 290960,
+				"to": 293640
+			},
+			"text": " First, watsonx.data."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,640",
+				"to": "00:04:54,440"
+			},
+			"offsets": {
+				"from": 293640,
+				"to": 294440
+			},
+			"text": " It is our massive,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,440",
+				"to": "00:04:57,940"
+			},
+			"offsets": {
+				"from": 294440,
+				"to": 297940
+			},
+			"text": " curated data repository that is ready to be tapped"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,940",
+				"to": "00:05:01,460"
+			},
+			"offsets": {
+				"from": 297940,
+				"to": 301460
+			},
+			"text": " to train and fine-tune models"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,460",
+				"to": "00:05:05,160"
+			},
+			"offsets": {
+				"from": 301460,
+				"to": 305160
+			},
+			"text": " with state-of-the-art data management system."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,160",
+				"to": "00:05:06,860"
+			},
+			"offsets": {
+				"from": 305160,
+				"to": 306860
+			},
+			"text": " watsonx.ai."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,860",
+				"to": "00:05:11,000"
+			},
+			"offsets": {
+				"from": 306860,
+				"to": 311000
+			},
+			"text": " This is an enterprise studio to train, validate, tune,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,000",
+				"to": "00:05:13,200"
+			},
+			"offsets": {
+				"from": 311000,
+				"to": 313200
+			},
+			"text": " and deploy traditional machine learning"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,200",
+				"to": "00:05:17,800"
+			},
+			"offsets": {
+				"from": 313200,
+				"to": 317800
+			},
+			"text": " and foundation models that provide generative capabilities."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,800",
+				"to": "00:05:20,300"
+			},
+			"offsets": {
+				"from": 317800,
+				"to": 320300
+			},
+			"text": " And watsonx.governance."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,300",
+				"to": "00:05:24,060"
+			},
+			"offsets": {
+				"from": 320300,
+				"to": 324060
+			},
+			"text": " This is a powerful set of tools to ensure your AI"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,060",
+				"to": "00:05:27,340"
+			},
+			"offsets": {
+				"from": 324060,
+				"to": 327340
+			},
+			"text": " is executing responsibly."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,340",
+				"to": "00:05:31,740"
+			},
+			"offsets": {
+				"from": 327340,
+				"to": 331740
+			},
+			"text": " watsonx.data, watsonx.ai, watsonx.governance."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,740",
+				"to": "00:05:35,500"
+			},
+			"offsets": {
+				"from": 331740,
+				"to": 335500
+			},
+			"text": " They work together seamlessly throughout the entire lifecycle"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,500",
+				"to": "00:05:37,700"
+			},
+			"offsets": {
+				"from": 335500,
+				"to": 337700
+			},
+			"text": " of foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,700",
+				"to": "00:05:42,020"
+			},
+			"offsets": {
+				"from": 337700,
+				"to": 342020
+			},
+			"text": " And true to our commitment to hybrid cloud architectures,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,020",
+				"to": "00:05:46,220"
+			},
+			"offsets": {
+				"from": 342020,
+				"to": 346220
+			},
+			"text": " watsonx is built on top of Red Hat OpenShift."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,220",
+				"to": "00:05:48,580"
+			},
+			"offsets": {
+				"from": 346220,
+				"to": 348580
+			},
+			"text": " Not only does it provide seamless integration"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,580",
+				"to": "00:05:53,680"
+			},
+			"offsets": {
+				"from": 348580,
+				"to": 353680
+			},
+			"text": " of watsonx components, it allows you to access and deploy"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,680",
+				"to": "00:05:57,720"
+			},
+			"offsets": {
+				"from": 353680,
+				"to": 357720
+			},
+			"text": " your AI workloads in any IT environment,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,720",
+				"to": "00:06:00,420"
+			},
+			"offsets": {
+				"from": 357720,
+				"to": 360420
+			},
+			"text": " no matter where they are located."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,420",
+				"to": "00:06:04,560"
+			},
+			"offsets": {
+				"from": 360420,
+				"to": 364560
+			},
+			"text": " watsonx is the AI platform for value creators."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,560",
+				"to": "00:06:07,220"
+			},
+			"offsets": {
+				"from": 364560,
+				"to": 367220
+			},
+			"text": " And look, I don't need to tell you"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,220",
+				"to": "00:06:11,060"
+			},
+			"offsets": {
+				"from": 367220,
+				"to": 371060
+			},
+			"text": " that deploying these technologies is not easy"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,060",
+				"to": "00:06:14,600"
+			},
+			"offsets": {
+				"from": 371060,
+				"to": 374600
+			},
+			"text": " at the enterprise level, but the platform changes that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,600",
+				"to": "00:06:18,940"
+			},
+			"offsets": {
+				"from": 374600,
+				"to": 378940
+			},
+			"text": " So let's take a look now of how an entire AI workflow,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,940",
+				"to": "00:06:21,680"
+			},
+			"offsets": {
+				"from": 378940,
+				"to": 381680
+			},
+			"text": " end-to-end, works in the platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,680",
+				"to": "00:06:23,300"
+			},
+			"offsets": {
+				"from": 381680,
+				"to": 383300
+			},
+			"text": " The lifecycle consists"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,300",
+				"to": "00:06:27,080"
+			},
+			"offsets": {
+				"from": 383300,
+				"to": 387080
+			},
+			"text": " of preparing our data, using it to train the model,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,080",
+				"to": "00:06:29,040"
+			},
+			"offsets": {
+				"from": 387080,
+				"to": 389040
+			},
+			"text": " validate the model, tune it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,040",
+				"to": "00:06:32,340"
+			},
+			"offsets": {
+				"from": 389040,
+				"to": 392340
+			},
+			"text": " and deploy in applications and solutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,340",
+				"to": "00:06:34,580"
+			},
+			"offsets": {
+				"from": 392340,
+				"to": 394580
+			},
+			"text": " So let's start with data preparation."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,580",
+				"to": "00:06:37,540"
+			},
+			"offsets": {
+				"from": 394580,
+				"to": 397540
+			},
+			"text": " So say you're a data scientist and want to access the data"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,540",
+				"to": "00:06:40,860"
+			},
+			"offsets": {
+				"from": 397540,
+				"to": 400860
+			},
+			"text": " that is in a public cloud, some that is on-prem,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,860",
+				"to": "00:06:44,520"
+			},
+			"offsets": {
+				"from": 400860,
+				"to": 404520
+			},
+			"text": " some that may be in another external database,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,520",
+				"to": "00:06:47,220"
+			},
+			"offsets": {
+				"from": 404520,
+				"to": 407220
+			},
+			"text": " or on a public cloud, a second one,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,220",
+				"to": "00:06:51,060"
+			},
+			"offsets": {
+				"from": 407220,
+				"to": 411060
+			},
+			"text": " or anywhere else outside your hybrid cloud platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,060",
+				"to": "00:06:52,920"
+			},
+			"offsets": {
+				"from": 411060,
+				"to": 412920
+			},
+			"text": " So you access the platform from your laptop,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,920",
+				"to": "00:06:55,880"
+			},
+			"offsets": {
+				"from": 412920,
+				"to": 415880
+			},
+			"text": " and invoke WatsonX.data."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,880",
+				"to": "00:06:58,820"
+			},
+			"offsets": {
+				"from": 415880,
+				"to": 418820
+			},
+			"text": " It establishes the necessary connections"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,820",
+				"to": "00:07:00,400"
+			},
+			"offsets": {
+				"from": 418820,
+				"to": 420400
+			},
+			"text": " between the data sources,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,400",
+				"to": "00:07:03,060"
+			},
+			"offsets": {
+				"from": 420400,
+				"to": 423060
+			},
+			"text": " so you can access the data easily."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,060",
+				"to": "00:07:05,480"
+			},
+			"offsets": {
+				"from": 423060,
+				"to": 425480
+			},
+			"text": " We've been building our IBM data pile,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,480",
+				"to": "00:07:09,100"
+			},
+			"offsets": {
+				"from": 425480,
+				"to": 429100
+			},
+			"text": " combining raw data collected from public sources"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,100",
+				"to": "00:07:11,640"
+			},
+			"offsets": {
+				"from": 429100,
+				"to": 431640
+			},
+			"text": " with IBM proprietary data."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,640",
+				"to": "00:07:13,940"
+			},
+			"offsets": {
+				"from": 431640,
+				"to": 433940
+			},
+			"text": " We're bringing data from different domains,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,940",
+				"to": "00:07:18,940"
+			},
+			"offsets": {
+				"from": 433940,
+				"to": 438940
+			},
+			"text": " the internet, code, academic sources, enterprise, and more."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,940",
+				"to": "00:07:22,540"
+			},
+			"offsets": {
+				"from": 438940,
+				"to": 442540
+			},
+			"text": " We have used WatsonX.data"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,540",
+				"to": "00:07:27,200"
+			},
+			"offsets": {
+				"from": 442540,
+				"to": 447200
+			},
+			"text": " to collect petabytes of data across dozens of domains"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,200",
+				"to": "00:07:30,600"
+			},
+			"offsets": {
+				"from": 447200,
+				"to": 450600
+			},
+			"text": " to produce trillions of tokens"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,600",
+				"to": "00:07:33,160"
+			},
+			"offsets": {
+				"from": 450600,
+				"to": 453160
+			},
+			"text": " that we can use to train foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,160",
+				"to": "00:07:37,360"
+			},
+			"offsets": {
+				"from": 453160,
+				"to": 457360
+			},
+			"text": " And besides the raw data and our proprietary data,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,360",
+				"to": "00:07:40,500"
+			},
+			"offsets": {
+				"from": 457360,
+				"to": 460500
+			},
+			"text": " we allow clients to bring their own data"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,500",
+				"to": "00:07:44,480"
+			},
+			"offsets": {
+				"from": 460500,
+				"to": 464480
+			},
+			"text": " to enrich and improve their purpose-built foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,480",
+				"to": "00:07:46,480"
+			},
+			"offsets": {
+				"from": 464480,
+				"to": 466480
+			},
+			"text": " It is all stored in .data"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,480",
+				"to": "00:07:50,840"
+			},
+			"offsets": {
+				"from": 466480,
+				"to": 470840
+			},
+			"text": " with granular metadata that provides traceable governance"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,840",
+				"to": "00:07:52,160"
+			},
+			"offsets": {
+				"from": 470840,
+				"to": 472160
+			},
+			"text": " for each file or document"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,160",
+				"to": "00:07:58,160"
+			},
+			"offsets": {
+				"from": 472160,
+				"to": 478160
+			},
+			"text": " so now we take this and we move to filter and process the data."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,160",
+				"to": "00:08:02,240"
+			},
+			"offsets": {
+				"from": 478160,
+				"to": 482240
+			},
+			"text": " First, we identify the provenance and the ID of the data."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,240",
+				"to": "00:08:04,300"
+			},
+			"offsets": {
+				"from": 482240,
+				"to": 484300
+			},
+			"text": " Then, we need to categorize it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,300",
+				"to": "00:08:09,160"
+			},
+			"offsets": {
+				"from": 484300,
+				"to": 489160
+			},
+			"text": " We classify it, for example, in a pile for different languages,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,160",
+				"to": "00:08:12,520"
+			},
+			"offsets": {
+				"from": 489160,
+				"to": 492520
+			},
+			"text": " let's say English, Spanish, German, and so on,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,520",
+				"to": "00:08:15,860"
+			},
+			"offsets": {
+				"from": 492520,
+				"to": 495860
+			},
+			"text": " a pile of code data that we then separate by programming language,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,860",
+				"to": "00:08:21,780"
+			},
+			"offsets": {
+				"from": 495860,
+				"to": 501780
+			},
+			"text": " Java, Ansible, COBOL, and so on, and any other category that we have."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,780",
+				"to": "00:08:24,240"
+			},
+			"offsets": {
+				"from": 501780,
+				"to": 504240
+			},
+			"text": " Now, we filter it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,240",
+				"to": "00:08:27,760"
+			},
+			"offsets": {
+				"from": 504240,
+				"to": 507760
+			},
+			"text": " We do analytics and get rid of duplicated data."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,760",
+				"to": "00:08:33,820"
+			},
+			"offsets": {
+				"from": 507760,
+				"to": 513820
+			},
+			"text": " Now we identify hate, abuse, and profanity in the data, and we remove it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,820",
+				"to": "00:08:40,180"
+			},
+			"offsets": {
+				"from": 513820,
+				"to": 520180
+			},
+			"text": " We filter it for private information, licensing constraints, and data quality."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,180",
+				"to": "00:08:48,240"
+			},
+			"offsets": {
+				"from": 520180,
+				"to": 528240
+			},
+			"text": " By annotating, we allow data scientists to determine the right thresholds for their filtering."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,240",
+				"to": "00:08:51,400"
+			},
+			"offsets": {
+				"from": 528240,
+				"to": 531400
+			},
+			"text": " Having done all of that, the pile is now ready for"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,400",
+				"to": "00:08:52,900"
+			},
+			"offsets": {
+				"from": 531400,
+				"to": 532900
+			},
+			"text": " the next step."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,900",
+				"to": "00:08:56,060"
+			},
+			"offsets": {
+				"from": 532900,
+				"to": 536060
+			},
+			"text": " We version and tag the data."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:56,060",
+				"to": "00:09:02,280"
+			},
+			"offsets": {
+				"from": 536060,
+				"to": 542280
+			},
+			"text": " Each data set, after being filtered and preprocessed, receives a data card."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,280",
+				"to": "00:09:08,960"
+			},
+			"offsets": {
+				"from": 542280,
+				"to": 548960
+			},
+			"text": " The data card has the name and the version of the pile, specifies its content, and filters"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,960",
+				"to": "00:09:14,520"
+			},
+			"offsets": {
+				"from": 548960,
+				"to": 554520
+			},
+			"text": " that have been applied to it, and any other relevant content to make it easy to manage"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,520",
+				"to": "00:09:21,020"
+			},
+			"offsets": {
+				"from": 554520,
+				"to": 561020
+			},
+			"text": " and track different choices that -- of the work and the right subsets of the data that"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,020",
+				"to": "00:09:23,680"
+			},
+			"offsets": {
+				"from": 561020,
+				"to": 563680
+			},
+			"text": " we've used to develop the foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,680",
+				"to": "00:09:26,780"
+			},
+			"offsets": {
+				"from": 563680,
+				"to": 566780
+			},
+			"text": " Now, we can have multiple data piles."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,780",
+				"to": "00:09:32,480"
+			},
+			"offsets": {
+				"from": 566780,
+				"to": 572480
+			},
+			"text": " They coexist in dot data, and access to different versions of data for different purpose is"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,480",
+				"to": "00:09:34,520"
+			},
+			"offsets": {
+				"from": 572480,
+				"to": 574520
+			},
+			"text": " managed seamlessly."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,520",
+				"to": "00:09:38,640"
+			},
+			"offsets": {
+				"from": 574520,
+				"to": 578640
+			},
+			"text": " So we're now ready to take the pile and start training our model."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,640",
+				"to": "00:09:41,960"
+			},
+			"offsets": {
+				"from": 578640,
+				"to": 581960
+			},
+			"text": " This is step two in our AI workflow."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,960",
+				"to": "00:09:48,660"
+			},
+			"offsets": {
+				"from": 581960,
+				"to": 588660
+			},
+			"text": " So we move from dot data to dot AI and start by picking a model architecture from the five"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,660",
+				"to": "00:09:50,640"
+			},
+			"offsets": {
+				"from": 588660,
+				"to": 590640
+			},
+			"text": " families that IBM provides."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,640",
+				"to": "00:09:57,720"
+			},
+			"offsets": {
+				"from": 590640,
+				"to": 597720
+			},
+			"text": " These are bedrock of models, and they range from encoder only, encoder decoder, decoder"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,720",
+				"to": "00:10:00,900"
+			},
+			"offsets": {
+				"from": 597720,
+				"to": 600900
+			},
+			"text": " only, and other novel architectures."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,900",
+				"to": "00:10:07,340"
+			},
+			"offsets": {
+				"from": 600900,
+				"to": 607340
+			},
+			"text": " So let's pick the encoder decoder sandstone to train the model and pick a target data"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,340",
+				"to": "00:10:12,100"
+			},
+			"offsets": {
+				"from": 607340,
+				"to": 612100
+			},
+			"text": " pile version from the piles that is in dot data."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,100",
+				"to": "00:10:16,880"
+			},
+			"offsets": {
+				"from": 612100,
+				"to": 616880
+			},
+			"text": " Dot AI allows training with computing resources across the hybrid cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,880",
+				"to": "00:10:20,260"
+			},
+			"offsets": {
+				"from": 616880,
+				"to": 620260
+			},
+			"text": " In this case, it runs on IBM Vela."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,260",
+				"to": "00:10:26,100"
+			},
+			"offsets": {
+				"from": 620260,
+				"to": 626100
+			},
+			"text": " Vela is a first of a kind cloud native AI supercomputer that we built last year."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,100",
+				"to": "00:10:30,660"
+			},
+			"offsets": {
+				"from": 626100,
+				"to": 630660
+			},
+			"text": " It gives you bare metal performance in the cloud with a virtualization overhead that"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,660",
+				"to": "00:10:33,120"
+			},
+			"offsets": {
+				"from": 630660,
+				"to": 633120
+			},
+			"text": " is less than 5%."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,120",
+				"to": "00:10:36,520"
+			},
+			"offsets": {
+				"from": 633120,
+				"to": 636520
+			},
+			"text": " And we're making it available as a service."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,520",
+				"to": "00:10:41,680"
+			},
+			"offsets": {
+				"from": 636520,
+				"to": 641680
+			},
+			"text": " Watson X.AI out of scales the resources for the training being done."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,680",
+				"to": "00:10:47,000"
+			},
+			"offsets": {
+				"from": 641680,
+				"to": 647000
+			},
+			"text": " And the first thing that we need to do is to tokenize the data according to the requirements"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,000",
+				"to": "00:10:49,060"
+			},
+			"offsets": {
+				"from": 647000,
+				"to": 649060
+			},
+			"text": " of the model."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,060",
+				"to": "00:10:49,880"
+			},
+			"offsets": {
+				"from": 649060,
+				"to": 649880
+			},
+			"text": " So we first query the data."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,880",
+				"to": "00:10:54,320"
+			},
+			"offsets": {
+				"from": 649880,
+				"to": 654320
+			},
+			"text": " We query the data using the version ID for the pile we want to use."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,320",
+				"to": "00:11:00,420"
+			},
+			"offsets": {
+				"from": 654320,
+				"to": 660420
+			},
+			"text": " That materializes a copy of the data set on Vela for tokenization."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,420",
+				"to": "00:11:05,600"
+			},
+			"offsets": {
+				"from": 660420,
+				"to": 665600
+			},
+			"text": " What this means is that, for example, if we're building a large language model, the sentences"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,600",
+				"to": "00:11:08,920"
+			},
+			"offsets": {
+				"from": 665600,
+				"to": 668920
+			},
+			"text": " in the data are broken into tokens."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,920",
+				"to": "00:11:12,680"
+			},
+			"offsets": {
+				"from": 668920,
+				"to": 672680
+			},
+			"text": " And this process can create trillions of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:12,680",
+				"to": "00:11:15,300"
+			},
+			"offsets": {
+				"from": 672680,
+				"to": 675300
+			},
+			"text": " And we use the tokens to train the model."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,300",
+				"to": "00:11:19,500"
+			},
+			"offsets": {
+				"from": 675300,
+				"to": 679500
+			},
+			"text": " Now training is a very complex and time consuming task."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,500",
+				"to": "00:11:25,440"
+			},
+			"offsets": {
+				"from": 679500,
+				"to": 685440
+			},
+			"text": " It can require dozens, hundreds, even thousands of GPUs and can take days, weeks, and even"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,440",
+				"to": "00:11:27,080"
+			},
+			"offsets": {
+				"from": 685440,
+				"to": 687080
+			},
+			"text": " months."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,080",
+				"to": "00:11:33,220"
+			},
+			"offsets": {
+				"from": 687080,
+				"to": 693220
+			},
+			"text": " Training in Watson.ai takes advantage of the best open source technology out there to simplify"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,220",
+				"to": "00:11:35,300"
+			},
+			"offsets": {
+				"from": 693220,
+				"to": 695300
+			},
+			"text": " the user experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,300",
+				"to": "00:11:41,980"
+			},
+			"offsets": {
+				"from": 695300,
+				"to": 701980
+			},
+			"text": " Built on CodeFlare, using PyTorch and Ray, it also integrates Hugging Face to bring"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,980",
+				"to": "00:11:45,900"
+			},
+			"offsets": {
+				"from": 701980,
+				"to": 705900
+			},
+			"text": " you a rich variety of open formats."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:45,900",
+				"to": "00:11:49,120"
+			},
+			"offsets": {
+				"from": 705900,
+				"to": 709120
+			},
+			"text": " Once training is done, the model is ready for validation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,120",
+				"to": "00:11:56,420"
+			},
+			"offsets": {
+				"from": 709120,
+				"to": 716420
+			},
+			"text": " So, for each model we train, we run an extensive set of benchmarks to evaluate the model quality"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,420",
+				"to": "00:12:00,080"
+			},
+			"offsets": {
+				"from": 716420,
+				"to": 720080
+			},
+			"text": " across a wide range of metrics."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,080",
+				"to": "00:12:05,580"
+			},
+			"offsets": {
+				"from": 720080,
+				"to": 725580
+			},
+			"text": " Once the model passes all the thresholds across the benchmarks, it is packaged and marked"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,580",
+				"to": "00:12:07,580"
+			},
+			"offsets": {
+				"from": 725580,
+				"to": 727580
+			},
+			"text": " as ready for use."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,580",
+				"to": "00:12:14,040"
+			},
+			"offsets": {
+				"from": 727580,
+				"to": 734040
+			},
+			"text": " For each model, we create a model card that lists all the details of the model."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,040",
+				"to": "00:12:18,740"
+			},
+			"offsets": {
+				"from": 734040,
+				"to": 738740
+			},
+			"text": " We will have many different models trained on different piles with different target goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,740",
+				"to": "00:12:25,280"
+			},
+			"offsets": {
+				"from": 738740,
+				"to": 745280
+			},
+			"text": " Next, we go to WatsonX.Governance to combine the data card that has the detailed provenance"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,280",
+				"to": "00:12:30,900"
+			},
+			"offsets": {
+				"from": 745280,
+				"to": 750900
+			},
+			"text": " information for the data pile that was used for training with the model card that has"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,900",
+				"to": "00:12:35,860"
+			},
+			"offsets": {
+				"from": 750900,
+				"to": 755860
+			},
+			"text": " the detailed information on how the model was trained and validated."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,860",
+				"to": "00:12:39,600"
+			},
+			"offsets": {
+				"from": 755860,
+				"to": 759600
+			},
+			"text": " Together, they form a fact sheet."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,600",
+				"to": "00:12:45,660"
+			},
+			"offsets": {
+				"from": 759600,
+				"to": 765660
+			},
+			"text": " This fact sheet is cataloged in .Governance and all the other fact sheets for all the"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,660",
+				"to": "00:12:48,360"
+			},
+			"offsets": {
+				"from": 765660,
+				"to": 768360
+			},
+			"text": " models that we have available for use."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,360",
+				"to": "00:12:53,400"
+			},
+			"offsets": {
+				"from": 768360,
+				"to": 773400
+			},
+			"text": " Now, let's go on to tune the model that we just created."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,400",
+				"to": "00:12:59,700"
+			},
+			"offsets": {
+				"from": 773400,
+				"to": 779700
+			},
+			"text": " And what we mean by that is to adapt it to new downstream tasks, which is the basis for"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,700",
+				"to": "00:13:05,020"
+			},
+			"offsets": {
+				"from": 779700,
+				"to": 785020
+			},
+			"text": " the large productivity gains that is afforded by foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,020",
+				"to": "00:13:07,860"
+			},
+			"offsets": {
+				"from": 785020,
+				"to": 787860
+			},
+			"text": " So say, in this case, you're a different persona."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,860",
+				"to": "00:13:09,880"
+			},
+			"offsets": {
+				"from": 787860,
+				"to": 789880
+			},
+			"text": " You're the application developer."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,880",
+				"to": "00:13:16,280"
+			},
+			"offsets": {
+				"from": 789880,
+				"to": 796280
+			},
+			"text": " So you can access WatsonX.ai and start by picking a model from the catalog to work with."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,280",
+				"to": "00:13:17,980"
+			},
+			"offsets": {
+				"from": 796280,
+				"to": 797980
+			},
+			"text": " We have a family of IBM models."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,980",
+				"to": "00:13:20,500"
+			},
+			"offsets": {
+				"from": 797980,
+				"to": 800500
+			},
+			"text": " We specialize for different domains."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,500",
+				"to": "00:13:27,160"
+			},
+			"offsets": {
+				"from": 800500,
+				"to": 807160
+			},
+			"text": " But we also have a rich set of open models because we believe in the creativity of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,160",
+				"to": "00:13:32,000"
+			},
+			"offsets": {
+				"from": 807160,
+				"to": 812000
+			},
+			"text": " global AI community and in the diversity of models it offers."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:32,000",
+				"to": "00:13:34,880"
+			},
+			"offsets": {
+				"from": 812000,
+				"to": 814880
+			},
+			"text": " And we want to bring that to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,880",
+				"to": "00:13:41,780"
+			},
+			"offsets": {
+				"from": 814880,
+				"to": 821780
+			},
+			"text": " In this case, we picked Sandstone.3b from the IBM language models, which is the model"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,780",
+				"to": "00:13:43,980"
+			},
+			"offsets": {
+				"from": 821780,
+				"to": 823980
+			},
+			"text": " that we just trained."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,980",
+				"to": "00:13:47,600"
+			},
+			"offsets": {
+				"from": 823980,
+				"to": 827600
+			},
+			"text": " We set up the options for tuning, the tuning approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,600",
+				"to": "00:13:53,200"
+			},
+			"offsets": {
+				"from": 827600,
+				"to": 833200
+			},
+			"text": " We picked summarization as an example as the base model to use."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,200",
+				"to": "00:14:01,420"
+			},
+			"offsets": {
+				"from": 833200,
+				"to": 841420
+			},
+			"text": " Now we can access and use business proprietary data to tune the base model and for the task"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,420",
+				"to": "00:14:07,980"
+			},
+			"offsets": {
+				"from": 841420,
+				"to": 847980
+			},
+			"text": " that we choose, whether that business data is located anywhere in the hybrid cloud platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,980",
+				"to": "00:14:14,820"
+			},
+			"offsets": {
+				"from": 847980,
+				"to": 854820
+			},
+			"text": " So now we send prompts and tuning data, and that's used to tune the model in .ai."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,820",
+				"to": "00:14:17,220"
+			},
+			"offsets": {
+				"from": 854820,
+				"to": 857220
+			},
+			"text": " You get the outcome of the prompt."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,220",
+				"to": "00:14:23,260"
+			},
+			"offsets": {
+				"from": 857220,
+				"to": 863260
+			},
+			"text": " On the model, this process happens back and forth, back and forth many times, and in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,260",
+				"to": "00:14:28,660"
+			},
+			"offsets": {
+				"from": 863260,
+				"to": 868660
+			},
+			"text": " end, you end up with a set of ideal prompts to use."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,660",
+				"to": "00:14:32,700"
+			},
+			"offsets": {
+				"from": 868660,
+				"to": 872700
+			},
+			"text": " The model is now specialized and ready to deploy."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,700",
+				"to": "00:14:36,120"
+			},
+			"offsets": {
+				"from": 872700,
+				"to": 876120
+			},
+			"text": " This is the final step in our AI workflow."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,120",
+				"to": "00:14:41,820"
+			},
+			"offsets": {
+				"from": 876120,
+				"to": 881820
+			},
+			"text": " The application where you want to use the foundation model can live in the public cloud,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,820",
+				"to": "00:14:46,840"
+			},
+			"offsets": {
+				"from": 881820,
+				"to": 886840
+			},
+			"text": " it can live on-prem, or on the edge, and you can really deploy and run"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:46,840",
+				"to": "00:14:51,540"
+			},
+			"offsets": {
+				"from": 886840,
+				"to": 891540
+			},
+			"text": " foundation models efficiently wherever you need them."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,540",
+				"to": "00:14:55,060"
+			},
+			"offsets": {
+				"from": 891540,
+				"to": 895060
+			},
+			"text": " And the deployed model can be used in many different applications."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,060",
+				"to": "00:14:59,840"
+			},
+			"offsets": {
+				"from": 895060,
+				"to": 899840
+			},
+			"text": " So for example, we've embedded foundation models in Watson Assistant."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,840",
+				"to": "00:15:06,160"
+			},
+			"offsets": {
+				"from": 899840,
+				"to": 906160
+			},
+			"text": " For text generation in Assistant, you describe the topic that you want the Assistant to handle."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,160",
+				"to": "00:15:10,700"
+			},
+			"offsets": {
+				"from": 906160,
+				"to": 910700
+			},
+			"text": " And it generates the corresponding conversational flow."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:10,700",
+				"to": "00:15:16,460"
+			},
+			"offsets": {
+				"from": 910700,
+				"to": 916460
+			},
+			"text": " We have an inference stack to scale the serving of the model in applications."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,460",
+				"to": "00:15:22,200"
+			},
+			"offsets": {
+				"from": 916460,
+				"to": 922200
+			},
+			"text": " It consists of state-of-the-art technology that has been field tested for scalable model serving."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:22,200",
+				"to": "00:15:30,740"
+			},
+			"offsets": {
+				"from": 922200,
+				"to": 930740
+			},
+			"text": " This is how WatsonX allows us to go from data to a model that is trusted, governed, deployed, and ready to serve,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,740",
+				"to": "00:15:34,700"
+			},
+			"offsets": {
+				"from": 930740,
+				"to": 934700
+			},
+			"text": " and how we can scale that model to different applications."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,700",
+				"to": "00:15:43,380"
+			},
+			"offsets": {
+				"from": 934700,
+				"to": 943380
+			},
+			"text": " Once models are deployed, we continuously monitor them and update them in both .data and in .ai."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,380",
+				"to": "00:15:46,080"
+			},
+			"offsets": {
+				"from": 943380,
+				"to": 946080
+			},
+			"text": " We call this constant process,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,080",
+				"to": "00:15:49,440"
+			},
+			"offsets": {
+				"from": 946080,
+				"to": 949440
+			},
+			"text": " or data and model factory."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,440",
+				"to": "00:15:52,880"
+			},
+			"offsets": {
+				"from": 949440,
+				"to": 952880
+			},
+			"text": " As Watson X .governance monitors the models,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:52,880",
+				"to": "00:15:59,200"
+			},
+			"offsets": {
+				"from": 952880,
+				"to": 959200
+			},
+			"text": " if there's any change that may impact how the model can be used or performs,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,200",
+				"to": "00:16:02,680"
+			},
+			"offsets": {
+				"from": 959200,
+				"to": 962680
+			},
+			"text": " be driven because we have new data that can be leveraged,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:02,680",
+				"to": "00:16:07,900"
+			},
+			"offsets": {
+				"from": 962680,
+				"to": 967900
+			},
+			"text": " or there's a change in some regulation or law or data licensing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:07,900",
+				"to": "00:16:15,700"
+			},
+			"offsets": {
+				"from": 967900,
+				"to": 975700
+			},
+			"text": " any change detected by the .governance process guides and process the update to both the data"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,700",
+				"to": "00:16:17,460"
+			},
+			"offsets": {
+				"from": 975700,
+				"to": 977460
+			},
+			"text": " and the model."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:17,460",
+				"to": "00:16:22,620"
+			},
+			"offsets": {
+				"from": 977460,
+				"to": 982620
+			},
+			"text": " The idea of the model factory is that that is central to solid and proper governance"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,620",
+				"to": "00:16:23,620"
+			},
+			"offsets": {
+				"from": 982620,
+				"to": 983620
+			},
+			"text": " of AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:23,620",
+				"to": "00:16:28,640"
+			},
+			"offsets": {
+				"from": 983620,
+				"to": 988640
+			},
+			"text": " Now, all of these updates need to happen without disrupting the underlying applications that"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,640",
+				"to": "00:16:31,840"
+			},
+			"offsets": {
+				"from": 988640,
+				"to": 991840
+			},
+			"text": " are leveraging the foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,840",
+				"to": "00:16:35,360"
+			},
+			"offsets": {
+				"from": 991840,
+				"to": 995360
+			},
+			"text": " And this data and model factory is in production today."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,360",
+				"to": "00:16:42,160"
+			},
+			"offsets": {
+				"from": 995360,
+				"to": 1002160
+			},
+			"text": " We have already produced over 20 models across modalities like language, code, geospatial,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,160",
+				"to": "00:16:45,320"
+			},
+			"offsets": {
+				"from": 1002160,
+				"to": 1005320
+			},
+			"text": " and chemistry, and spanning different sizes of models"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,320",
+				"to": "00:16:51,460"
+			},
+			"offsets": {
+				"from": 1005320,
+				"to": 1011460
+			},
+			"text": " -- from hundreds of millions to billions of parameters."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,460",
+				"to": "00:16:57,860"
+			},
+			"offsets": {
+				"from": 1011460,
+				"to": 1017860
+			},
+			"text": " We've infused these foundation models into IBM products, Red Hat products, and/or partners"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,860",
+				"to": "00:16:58,860"
+			},
+			"offsets": {
+				"from": 1017860,
+				"to": 1018860
+			},
+			"text": " products."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,860",
+				"to": "00:17:06,460"
+			},
+			"offsets": {
+				"from": 1018860,
+				"to": 1026460
+			},
+			"text": " At IBM, over 12 foundation models are powering our IBM NLP library, which is used in over"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,460",
+				"to": "00:17:11,000"
+			},
+			"offsets": {
+				"from": 1026460,
+				"to": 1031000
+			},
+			"text": " 15 IBM products and is available to ISVs."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,000",
+				"to": "00:17:14,940"
+			},
+			"offsets": {
+				"from": 1031000,
+				"to": 1034940
+			},
+			"text": " Granite models trained over code are part of IBM Watson Code Assistant."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:14,940",
+				"to": "00:17:20,540"
+			},
+			"offsets": {
+				"from": 1034940,
+				"to": 1040540
+			},
+			"text": " It has been applied in the Red Hat Ansible automation platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,540",
+				"to": "00:17:26,340"
+			},
+			"offsets": {
+				"from": 1040540,
+				"to": 1046340
+			},
+			"text": " And as you heard earlier in this event, SAP has partnered with us and is infusing foundation"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,340",
+				"to": "00:17:29,000"
+			},
+			"offsets": {
+				"from": 1046340,
+				"to": 1049000
+			},
+			"text": " models into their solutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,000",
+				"to": "00:17:33,980"
+			},
+			"offsets": {
+				"from": 1049000,
+				"to": 1053980
+			},
+			"text": " So Watson X is really ready for you to create value with AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,980",
+				"to": "00:17:39,160"
+			},
+			"offsets": {
+				"from": 1053980,
+				"to": 1059160
+			},
+			"text": " Now to maximize what you can do and the innovations at your disposal, we believe that you should"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,160",
+				"to": "00:17:42,360"
+			},
+			"offsets": {
+				"from": 1059160,
+				"to": 1062360
+			},
+			"text": " bet on community."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,360",
+				"to": "00:17:44,560"
+			},
+			"offsets": {
+				"from": 1062360,
+				"to": 1064560
+			},
+			"text": " Because the truth is one model."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,560",
+				"to": "00:17:47,260"
+			},
+			"offsets": {
+				"from": 1064560,
+				"to": 1067260
+			},
+			"text": " One model will not rule them all."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,260",
+				"to": "00:17:53,800"
+			},
+			"offsets": {
+				"from": 1067260,
+				"to": 1073800
+			},
+			"text": " And with the innovations and models that it develops, the open community is supercharging"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,800",
+				"to": "00:17:57,660"
+			},
+			"offsets": {
+				"from": 1073800,
+				"to": 1077660
+			},
+			"text": " the value that you will be able to create."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,660",
+				"to": "00:18:04,240"
+			},
+			"offsets": {
+				"from": 1077660,
+				"to": 1084240
+			},
+			"text": " To be true to our belief in the diversity and the creativity of the open AI community,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:04,240",
+				"to": "00:18:08,440"
+			},
+			"offsets": {
+				"from": 1084240,
+				"to": 1088440
+			},
+			"text": " we're proud to announce our new partnership with Hugging Face."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,440",
+				"to": "00:18:14,180"
+			},
+			"offsets": {
+				"from": 1088440,
+				"to": 1094180
+			},
+			"text": " So let's invite to the stage co-founder and CEO of Hugging Face, Claym DeLong."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,180",
+				"to": "00:18:21,600"
+			},
+			"offsets": {
+				"from": 1094180,
+				"to": 1101600
+			},
+			"text": " Claym, thanks for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,600",
+				"to": "00:18:23,180"
+			},
+			"offsets": {
+				"from": 1101600,
+				"to": 1103180
+			},
+			"text": " First of all, welcome to IBM Think."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,180",
+				"to": "00:18:25,240"
+			},
+			"offsets": {
+				"from": 1103180,
+				"to": 1105240
+			},
+			"text": " We're just delighted to have you here."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,240",
+				"to": "00:18:29,100"
+			},
+			"offsets": {
+				"from": 1105240,
+				"to": 1109100
+			},
+			"text": " So let's begin by, tell us a little bit about yourself and how and when you got interested"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,100",
+				"to": "00:18:31,300"
+			},
+			"offsets": {
+				"from": 1109100,
+				"to": 1111300
+			},
+			"text": " in AI and how did Hugging Face get started?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,300",
+				"to": "00:18:32,300"
+			},
+			"offsets": {
+				"from": 1111300,
+				"to": 1112300
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:32,300",
+				"to": "00:18:33,500"
+			},
+			"offsets": {
+				"from": 1112300,
+				"to": 1113500
+			},
+			"text": " Thanks so much for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,500",
+				"to": "00:18:36,940"
+			},
+			"offsets": {
+				"from": 1113500,
+				"to": 1116940
+			},
+			"text": " I actually started in AI almost 15 years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,940",
+				"to": "00:18:40,700"
+			},
+			"offsets": {
+				"from": 1116940,
+				"to": 1120700
+			},
+			"text": " I look at the room at the time we couldn't have filled it."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:40,700",
+				"to": "00:18:43,800"
+			},
+			"offsets": {
+				"from": 1120700,
+				"to": 1123800
+			},
+			"text": " Maybe it would have been 1%, 2% of the room at most."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,800",
+				"to": "00:18:49,420"
+			},
+			"offsets": {
+				"from": 1123800,
+				"to": 1129420
+			},
+			"text": " As a matter of fact, we weren't even calling it AI at the time, we were calling it computer"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,420",
+				"to": "00:18:50,420"
+			},
+			"offsets": {
+				"from": 1129420,
+				"to": 1130420
+			},
+			"text": " vision."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,420",
+				"to": "00:18:56,880"
+			},
+			"offsets": {
+				"from": 1130420,
+				"to": 1136880
+			},
+			"text": " I was working at a French company, I'm French, as you can hear from my accent, and we were"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,880",
+				"to": "00:19:00,420"
+			},
+			"offsets": {
+				"from": 1136880,
+				"to": 1140420
+			},
+			"text": " doing computer vision on device, on mobile."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,420",
+				"to": "00:19:06,560"
+			},
+			"offsets": {
+				"from": 1140420,
+				"to": 1146560
+			},
+			"text": " The company went on to get acquired by Google after, but I never lost my passion and excitement"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,560",
+				"to": "00:19:08,100"
+			},
+			"offsets": {
+				"from": 1146560,
+				"to": 1148100
+			},
+			"text": " for AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,100",
+				"to": "00:19:13,420"
+			},
+			"offsets": {
+				"from": 1148100,
+				"to": 1153420
+			},
+			"text": " So seven years ago, with my co-founders, Julie and Thomas, we gathered."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,420",
+				"to": "00:19:17,760"
+			},
+			"offsets": {
+				"from": 1153420,
+				"to": 1157760
+			},
+			"text": " We started around this passion for AI and started Hugging Face, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,760",
+				"to": "00:19:20,180"
+			},
+			"offsets": {
+				"from": 1157760,
+				"to": 1160180
+			},
+			"text": " What you see on my T-shirt, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,180",
+				"to": "00:19:22,400"
+			},
+			"offsets": {
+				"from": 1160180,
+				"to": 1162400
+			},
+			"text": " We started with something completely different."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,400",
+				"to": "00:19:26,760"
+			},
+			"offsets": {
+				"from": 1162400,
+				"to": 1166760
+			},
+			"text": " We worked on conversational AI for three years."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,760",
+				"to": "00:19:33,480"
+			},
+			"offsets": {
+				"from": 1166760,
+				"to": 1173480
+			},
+			"text": " And as it sometimes happens for startups, the underlying platform and technology ended"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,480",
+				"to": "00:19:37,360"
+			},
+			"offsets": {
+				"from": 1173480,
+				"to": 1177360
+			},
+			"text": " up more useful than the end product."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,360",
+				"to": "00:19:43,040"
+			},
+			"offsets": {
+				"from": 1177360,
+				"to": 1183040
+			},
+			"text": " When we started to release part of it on GitHub, we started to see open source contributors"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,040",
+				"to": "00:19:44,040"
+			},
+			"offsets": {
+				"from": 1183040,
+				"to": 1184040
+			},
+			"text": " joining us."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,040",
+				"to": "00:19:50,820"
+			},
+			"offsets": {
+				"from": 1184040,
+				"to": 1190820
+			},
+			"text": " We started to see scientists sharing models on the platform, leading to what Hugging Face"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,820",
+				"to": "00:19:51,820"
+			},
+			"offsets": {
+				"from": 1190820,
+				"to": 1191820
+			},
+			"text": " is today."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:51,820",
+				"to": "00:19:58,520"
+			},
+			"offsets": {
+				"from": 1191820,
+				"to": 1198520
+			},
+			"text": " So, I mentioned the power and the creativity of the open community creating"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,520",
+				"to": "00:19:59,520"
+			},
+			"offsets": {
+				"from": 1198520,
+				"to": 1199520
+			},
+			"text": " an AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,520",
+				"to": "00:20:01,820"
+			},
+			"offsets": {
+				"from": 1199520,
+				"to": 1201820
+			},
+			"text": " Just share with us some statistics."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,820",
+				"to": "00:20:03,080"
+			},
+			"offsets": {
+				"from": 1201820,
+				"to": 1203080
+			},
+			"text": " How big is it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,080",
+				"to": "00:20:05,120"
+			},
+			"offsets": {
+				"from": 1203080,
+				"to": 1205120
+			},
+			"text": " How much energy is there in that community?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,120",
+				"to": "00:20:08,880"
+			},
+			"offsets": {
+				"from": 1205120,
+				"to": 1208880
+			},
+			"text": " And how much should we expect in that creativity available to all of us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,880",
+				"to": "00:20:12,660"
+			},
+			"offsets": {
+				"from": 1208880,
+				"to": 1212660
+			},
+			"text": " Yeah, the energy in open source AI is insane."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,660",
+				"to": "00:20:16,620"
+			},
+			"offsets": {
+				"from": 1212660,
+				"to": 1216620
+			},
+			"text": " These days, just a few weeks ago, I was in San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,620",
+				"to": "00:20:21,980"
+			},
+			"offsets": {
+				"from": 1216620,
+				"to": 1221980
+			},
+			"text": " I tweeted that I would be around and that we could do some sort of a small get together"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,980",
+				"to": "00:20:25,300"
+			},
+			"offsets": {
+				"from": 1221980,
+				"to": 1225300
+			},
+			"text": " for open source AI people."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,300",
+				"to": "00:20:29,300"
+			},
+			"offsets": {
+				"from": 1225300,
+				"to": 1229300
+			},
+			"text": " We thought we would get maybe a few dozen, a few hundred people."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,300",
+				"to": "00:20:33,780"
+			},
+			"offsets": {
+				"from": 1229300,
+				"to": 1233780
+			},
+			"text": " And the more the days came, the more people ended up joining."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,780",
+				"to": "00:20:38,760"
+			},
+			"offsets": {
+				"from": 1233780,
+				"to": 1238760
+			},
+			"text": " We had to change locations three times to something at the end almost as big as that."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:38,760",
+				"to": "00:20:42,280"
+			},
+			"offsets": {
+				"from": 1238760,
+				"to": 1242280
+			},
+			"text": " We had 5,000 people."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,280",
+				"to": "00:20:45,000"
+			},
+			"offsets": {
+				"from": 1242280,
+				"to": 1245000
+			},
+			"text": " We started calling it the Woodstock of AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,000",
+				"to": "00:20:47,240"
+			},
+			"offsets": {
+				"from": 1245000,
+				"to": 1247240
+			},
+			"text": " So that's just an example."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,240",
+				"to": "00:20:51,140"
+			},
+			"offsets": {
+				"from": 1247240,
+				"to": 1251140
+			},
+			"text": " We're competing with that as the Woodstock, Woodstock of AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,140",
+				"to": "00:20:56,040"
+			},
+			"offsets": {
+				"from": 1251140,
+				"to": 1256040
+			},
+			"text": " Just a proof of how vibrant the open source AI community is."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,040",
+				"to": "00:20:59,600"
+			},
+			"offsets": {
+				"from": 1256040,
+				"to": 1259600
+			},
+			"text": " We think the same thing on Hugging Face, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,600",
+				"to": "00:21:07,400"
+			},
+			"offsets": {
+				"from": 1259600,
+				"to": 1267400
+			},
+			"text": " Since we started on the platform four years ago, we grew to now having over 15,000 companies"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,400",
+				"to": "00:21:11,900"
+			},
+			"offsets": {
+				"from": 1267400,
+				"to": 1271900
+			},
+			"text": " using the platform, including very large companies like Google, like Meta."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,900",
+				"to": "00:21:13,400"
+			},
+			"offsets": {
+				"from": 1271900,
+				"to": 1273400
+			},
+			"text": " Like Bloomberg."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,400",
+				"to": "00:21:18,780"
+			},
+			"offsets": {
+				"from": 1273400,
+				"to": 1278780
+			},
+			"text": " All the way down to smaller companies like Grammarly, for example."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,780",
+				"to": "00:21:28,000"
+			},
+			"offsets": {
+				"from": 1278780,
+				"to": 1288000
+			},
+			"text": " And collectively, they have shared over 250,000 open models on the platform, 50,000 data sets,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,000",
+				"to": "00:21:32,160"
+			},
+			"offsets": {
+				"from": 1288000,
+				"to": 1292160
+			},
+			"text": " and over 100,000 open demos."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,160",
+				"to": "00:21:37,540"
+			},
+			"offsets": {
+				"from": 1292160,
+				"to": 1297540
+			},
+			"text": " Just last week, 4,000 new models have been shared on the platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,540",
+				"to": "00:21:41,520"
+			},
+			"offsets": {
+				"from": 1297540,
+				"to": 1301520
+			},
+			"text": " So that shows you kind of like the magnitude and energy."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,520",
+				"to": "00:21:47,800"
+			},
+			"offsets": {
+				"from": 1301520,
+				"to": 1307800
+			},
+			"text": " In open source AI community, just think about that 4,000 models in one week."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,800",
+				"to": "00:21:52,040"
+			},
+			"offsets": {
+				"from": 1307800,
+				"to": 1312040
+			},
+			"text": " So one of the myth busting things that we were chatting about is that that element of"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,040",
+				"to": "00:21:54,560"
+			},
+			"offsets": {
+				"from": 1312040,
+				"to": 1314560
+			},
+			"text": " one model will not rule them all, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,560",
+				"to": "00:21:58,820"
+			},
+			"offsets": {
+				"from": 1314560,
+				"to": 1318820
+			},
+			"text": " There's going to be a huge amount of innovation that is happening from so many sources."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,820",
+				"to": "00:22:03,600"
+			},
+			"offsets": {
+				"from": 1318820,
+				"to": 1323600
+			},
+			"text": " So perhaps you could share with us, what are some examples of innovation that you've seen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,600",
+				"to": "00:22:07,860"
+			},
+			"offsets": {
+				"from": 1323600,
+				"to": 1327860
+			},
+			"text": " We've seen scale, but what are some examples that really caught your eye or you find were"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,860",
+				"to": "00:22:09,140"
+			},
+			"offsets": {
+				"from": 1327860,
+				"to": 1329140
+			},
+			"text": " were particularly powerful?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,140",
+				"to": "00:22:10,140"
+			},
+			"offsets": {
+				"from": 1329140,
+				"to": 1330140
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:10,140",
+				"to": "00:22:11,140"
+			},
+			"offsets": {
+				"from": 1330140,
+				"to": 1331140
+			},
+			"text": " I mean, it's interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,140",
+				"to": "00:22:15,760"
+			},
+			"offsets": {
+				"from": 1331140,
+				"to": 1335760
+			},
+			"text": " It's interesting because since the release of ChatGPT, right, and some people have said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:15,760",
+				"to": "00:22:22,900"
+			},
+			"offsets": {
+				"from": 1335760,
+				"to": 1342900
+			},
+			"text": " okay, ChatGPT is the model to rule them all, 100,000 new models have been added on HuggingFace,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,900",
+				"to": "00:22:23,900"
+			},
+			"offsets": {
+				"from": 1342900,
+				"to": 1343900
+			},
+			"text": " right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,900",
+				"to": "00:22:28,000"
+			},
+			"offsets": {
+				"from": 1343900,
+				"to": 1348000
+			},
+			"text": " And obviously, companies, they don't train models just to train models, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:28,000",
+				"to": "00:22:32,600"
+			},
+			"offsets": {
+				"from": 1348000,
+				"to": 1352600
+			},
+			"text": " They would prefer not to do it because it costs money to train models."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,600",
+				"to": "00:22:40,760"
+			},
+			"offsets": {
+				"from": 1352600,
+				"to": 1360760
+			},
+			"text": " But the truth is, if you look at how AI is built, when you can build smaller, more specialized"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,760",
+				"to": "00:22:48,060"
+			},
+			"offsets": {
+				"from": 1360760,
+				"to": 1368060
+			},
+			"text": " customized models for your use cases, they end up being cheaper, they end up being more"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:48,060",
+				"to": "00:22:53,600"
+			},
+			"offsets": {
+				"from": 1368060,
+				"to": 1373600
+			},
+			"text": " efficient, and they end up being better for your use case, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,600",
+				"to": "00:23:00,280"
+			},
+			"offsets": {
+				"from": 1373600,
+				"to": 1380280
+			},
+			"text": " Just the same way every single technology company learned how to write code, right,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,280",
+				"to": "00:23:06,520"
+			},
+			"offsets": {
+				"from": 1380280,
+				"to": 1386520
+			},
+			"text": " and to have a different code base than their competitors or than companies in other fields,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,520",
+				"to": "00:23:09,380"
+			},
+			"offsets": {
+				"from": 1386520,
+				"to": 1389380
+			},
+			"text": " we're seeing the same thing for AI, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,380",
+				"to": "00:23:10,380"
+			},
+			"offsets": {
+				"from": 1389380,
+				"to": 1390380
+			},
+			"text": " Every single company needs..."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,380",
+				"to": "00:23:15,440"
+			},
+			"offsets": {
+				"from": 1390380,
+				"to": 1395440
+			},
+			"text": " Every single company needs to train their own models, optimize their own models, learn"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,440",
+				"to": "00:23:19,440"
+			},
+			"offsets": {
+				"from": 1395440,
+				"to": 1399440
+			},
+			"text": " how to run these models at scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,440",
+				"to": "00:23:25,000"
+			},
+			"offsets": {
+				"from": 1399440,
+				"to": 1405000
+			},
+			"text": " Every single company needs to build their own chat GPT because if they don't, they won't"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,000",
+				"to": "00:23:27,140"
+			},
+			"offsets": {
+				"from": 1405000,
+				"to": 1407140
+			},
+			"text": " be able to differentiate."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,140",
+				"to": "00:23:33,220"
+			},
+			"offsets": {
+				"from": 1407140,
+				"to": 1413220
+			},
+			"text": " They won't be able to create the unique technology value that they've been building for their"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,220",
+				"to": "00:23:38,760"
+			},
+			"offsets": {
+				"from": 1413220,
+				"to": 1418760
+			},
+			"text": " customers and they'll lose control, right, if they start outsourcing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,760",
+				"to": "00:23:40,000"
+			},
+			"offsets": {
+				"from": 1418760,
+				"to": 1420000
+			},
+			"text": " So that's what we're seeing on Hugin."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,000",
+				"to": "00:23:42,820"
+			},
+			"offsets": {
+				"from": 1420000,
+				"to": 1422820
+			},
+			"text": " Face and in the ecosystem as a whole."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,820",
+				"to": "00:23:47,580"
+			},
+			"offsets": {
+				"from": 1422820,
+				"to": 1427580
+			},
+			"text": " It's back to this philosophy of don't just be a prompt tuner user, right, be a value"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,580",
+				"to": "00:23:49,240"
+			},
+			"offsets": {
+				"from": 1427580,
+				"to": 1429240
+			},
+			"text": " creator with all of this."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,240",
+				"to": "00:23:51,440"
+			},
+			"offsets": {
+				"from": 1429240,
+				"to": 1431440
+			},
+			"text": " So let's talk about our partnership for a minute."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,440",
+				"to": "00:23:57,240"
+			},
+			"offsets": {
+				"from": 1431440,
+				"to": 1437240
+			},
+			"text": " Why are you excited about bringing the power of all of this community into WatsonX in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,240",
+				"to": "00:24:02,460"
+			},
+			"offsets": {
+				"from": 1437240,
+				"to": 1442460
+			},
+			"text": " context now of an enterprise, you know, need and meeting the needs of our clients that"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,460",
+				"to": "00:24:03,460"
+			},
+			"offsets": {
+				"from": 1442460,
+				"to": 1443460
+			},
+			"text": " are here listening?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,460",
+				"to": "00:24:05,660"
+			},
+			"offsets": {
+				"from": 1443460,
+				"to": 1445660
+			},
+			"text": " Yeah, obviously, Hugin."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,660",
+				"to": "00:24:09,620"
+			},
+			"offsets": {
+				"from": 1445660,
+				"to": 1449620
+			},
+			"text": " Face and IBM share a lot of the same DNA."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,620",
+				"to": "00:24:10,620"
+			},
+			"offsets": {
+				"from": 1449620,
+				"to": 1450620
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:10,620",
+				"to": "00:24:19,380"
+			},
+			"offsets": {
+				"from": 1450620,
+				"to": 1459380
+			},
+			"text": " Around open source, open platform, kind of like providing extensible tools for companies."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:19,380",
+				"to": "00:24:25,900"
+			},
+			"offsets": {
+				"from": 1459380,
+				"to": 1465900
+			},
+			"text": " For me, one of the most iconic collaboration partnership of the last decade is IBM plus"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,900",
+				"to": "00:24:27,480"
+			},
+			"offsets": {
+				"from": 1465900,
+				"to": 1467480
+			},
+			"text": " Red Hat."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,480",
+				"to": "00:24:29,920"
+			},
+			"offsets": {
+				"from": 1467480,
+				"to": 1469920
+			},
+			"text": " And hopefully, we're just at the beginning of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,920",
+				"to": "00:24:35,120"
+			},
+			"offsets": {
+				"from": 1469920,
+				"to": 1475120
+			},
+			"text": " But with this collaboration, we can do the same thing for AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:35,120",
+				"to": "00:24:39,240"
+			},
+			"offsets": {
+				"from": 1475120,
+				"to": 1479240
+			},
+			"text": " I think with this integration between WatsonX and Hugin."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:39,240",
+				"to": "00:24:46,080"
+			},
+			"offsets": {
+				"from": 1479240,
+				"to": 1486080
+			},
+			"text": " Face, you kind of get the best of both worlds in the sense that you get the cutting edge"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,080",
+				"to": "00:24:51,800"
+			},
+			"offsets": {
+				"from": 1486080,
+				"to": 1491800
+			},
+			"text": " and the community and the numbers of models, data sets, apps of the Hugin."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,800",
+				"to": "00:24:53,480"
+			},
+			"offsets": {
+				"from": 1491800,
+				"to": 1493480
+			},
+			"text": " Face ecosystem."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,480",
+				"to": "00:24:59,140"
+			},
+			"offsets": {
+				"from": 1493480,
+				"to": 1499140
+			},
+			"text": " And you get the security and support of IBM, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,140",
+				"to": "00:25:04,240"
+			},
+			"offsets": {
+				"from": 1499140,
+				"to": 1504240
+			},
+			"text": " For example, you mentioned -- we mentioned all the models."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,240",
+				"to": "00:25:08,860"
+			},
+			"offsets": {
+				"from": 1504240,
+				"to": 1508860
+			},
+			"text": " The IBM consultants can help you to pick the right models for you at the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,860",
+				"to": "00:25:12,820"
+			},
+			"offsets": {
+				"from": 1508860,
+				"to": 1512820
+			},
+			"text": " The time that is going to make sense for your company."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,820",
+				"to": "00:25:18,640"
+			},
+			"offsets": {
+				"from": 1512820,
+				"to": 1518640
+			},
+			"text": " So you really get kind of like the perfect mix to get to what we were saying, meaning"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,640",
+				"to": "00:25:23,860"
+			},
+			"offsets": {
+				"from": 1518640,
+				"to": 1523860
+			},
+			"text": " every one of you being able to build your own internal chat GPT."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:23,860",
+				"to": "00:25:25,380"
+			},
+			"offsets": {
+				"from": 1523860,
+				"to": 1525380
+			},
+			"text": " So tell us -- this is just great."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,380",
+				"to": "00:25:28,680"
+			},
+			"offsets": {
+				"from": 1525380,
+				"to": 1528680
+			},
+			"text": " I'm just delighted about those opportunities."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:28,680",
+				"to": "00:25:30,900"
+			},
+			"offsets": {
+				"from": 1528680,
+				"to": 1530900
+			},
+			"text": " And so tell us a little bit about what's next for Hugin."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,900",
+				"to": "00:25:31,900"
+			},
+			"offsets": {
+				"from": 1530900,
+				"to": 1531900
+			},
+			"text": " Face."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,900",
+				"to": "00:25:34,340"
+			},
+			"offsets": {
+				"from": 1531900,
+				"to": 1534340
+			},
+			"text": " When you look over the next year or so, what excites you the most?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,340",
+				"to": "00:25:38,480"
+			},
+			"offsets": {
+				"from": 1534340,
+				"to": 1538480
+			},
+			"text": " Many, many exciting things for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:38,480",
+				"to": "00:25:47,560"
+			},
+			"offsets": {
+				"from": 1538480,
+				"to": 1547560
+			},
+			"text": " We've seen a lot of adoption, a lot of companies using us for text, for audio, for image."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,560",
+				"to": "00:25:51,900"
+			},
+			"offsets": {
+				"from": 1547560,
+				"to": 1551900
+			},
+			"text": " And now we're starting to see that expand to other domains."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,900",
+				"to": "00:25:55,260"
+			},
+			"offsets": {
+				"from": 1551900,
+				"to": 1555260
+			},
+			"text": " For example, we're seeing a lot of video right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,260",
+				"to": "00:25:58,100"
+			},
+			"offsets": {
+				"from": 1555260,
+				"to": 1558100
+			},
+			"text": " We're seeing a lot of recommender systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,100",
+				"to": "00:26:00,160"
+			},
+			"offsets": {
+				"from": 1558100,
+				"to": 1560160
+			},
+			"text": " We're seeing a lot of time series."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,160",
+				"to": "00:26:03,460"
+			},
+			"offsets": {
+				"from": 1560160,
+				"to": 1563460
+			},
+			"text": " We're starting a lot of biology, chemistry."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,460",
+				"to": "00:26:04,800"
+			},
+			"offsets": {
+				"from": 1563460,
+				"to": 1564800
+			},
+			"text": " We're really excited about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,800",
+				"to": "00:26:08,100"
+			},
+			"offsets": {
+				"from": 1564800,
+				"to": 1568100
+			},
+			"text": " We think, ultimately, AI is a new default."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,100",
+				"to": "00:26:12,480"
+			},
+			"offsets": {
+				"from": 1568100,
+				"to": 1572480
+			},
+			"text": " To build all features, all workflows, all products."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:12,480",
+				"to": "00:26:15,420"
+			},
+			"offsets": {
+				"from": 1572480,
+				"to": 1575420
+			},
+			"text": " It's kind of like the new default to build all tech."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,420",
+				"to": "00:26:20,420"
+			},
+			"offsets": {
+				"from": 1575420,
+				"to": 1580420
+			},
+			"text": " So we're excited for this expansion to other domains."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,420",
+				"to": "00:26:23,860"
+			},
+			"offsets": {
+				"from": 1580420,
+				"to": 1583860
+			},
+			"text": " Also, we're seeing a lot of work"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:23,860",
+				"to": "00:26:27,440"
+			},
+			"offsets": {
+				"from": 1583860,
+				"to": 1587440
+			},
+			"text": " around chaining different models."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,440",
+				"to": "00:26:28,540"
+			},
+			"offsets": {
+				"from": 1587440,
+				"to": 1588540
+			},
+			"text": " And in fact, at Tagging Face,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,540",
+				"to": "00:26:30,620"
+			},
+			"offsets": {
+				"from": 1588540,
+				"to": 1590620
+			},
+			"text": " we released today Transformers Agents,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,620",
+				"to": "00:26:33,860"
+			},
+			"offsets": {
+				"from": 1590620,
+				"to": 1593860
+			},
+			"text": " which is a way to chain different models"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:33,860",
+				"to": "00:26:37,720"
+			},
+			"offsets": {
+				"from": 1593860,
+				"to": 1597720
+			},
+			"text": " to build more complex systems that are achieving"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,720",
+				"to": "00:26:40,640"
+			},
+			"offsets": {
+				"from": 1597720,
+				"to": 1600640
+			},
+			"text": " better capabilities."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:40,640",
+				"to": "00:26:41,840"
+			},
+			"offsets": {
+				"from": 1600640,
+				"to": 1601840
+			},
+			"text": " These are some of the things"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,840",
+				"to": "00:26:44,100"
+			},
+			"offsets": {
+				"from": 1601840,
+				"to": 1604100
+			},
+			"text": " that we're the most excited about."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,100",
+				"to": "00:26:44,940"
+			},
+			"offsets": {
+				"from": 1604100,
+				"to": 1604940
+			},
+			"text": " - So a lot there."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,940",
+				"to": "00:26:45,900"
+			},
+			"offsets": {
+				"from": 1604940,
+				"to": 1605900
+			},
+			"text": " So thank you, Clem."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,900",
+				"to": "00:26:47,240"
+			},
+			"offsets": {
+				"from": 1605900,
+				"to": 1607240
+			},
+			"text": " - Thank you so much. - Thank you so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,240",
+				"to": "00:26:48,200"
+			},
+			"offsets": {
+				"from": 1607240,
+				"to": 1608200
+			},
+			"text": " - And congratulations."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,200",
+				"to": "00:26:49,040"
+			},
+			"offsets": {
+				"from": 1608200,
+				"to": 1609040
+			},
+			"text": " - Thanks."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,040",
+				"to": "00:26:49,880"
+			},
+			"offsets": {
+				"from": 1609040,
+				"to": 1609880
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,880",
+				"to": "00:26:57,560"
+			},
+			"offsets": {
+				"from": 1609880,
+				"to": 1617560
+			},
+			"text": " - So, well, you saw how the platform works"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:57,560",
+				"to": "00:27:01,160"
+			},
+			"offsets": {
+				"from": 1617560,
+				"to": 1621160
+			},
+			"text": " to enable the foundation model creation workflow end-to-end."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,160",
+				"to": "00:27:03,320"
+			},
+			"offsets": {
+				"from": 1621160,
+				"to": 1623320
+			},
+			"text": " And we talked about data,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,320",
+				"to": "00:27:05,360"
+			},
+			"offsets": {
+				"from": 1623320,
+				"to": 1625360
+			},
+			"text": " we talked about model architectures,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,360",
+				"to": "00:27:07,340"
+			},
+			"offsets": {
+				"from": 1625360,
+				"to": 1627340
+			},
+			"text": " the compute infrastructure,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,340",
+				"to": "00:27:08,880"
+			},
+			"offsets": {
+				"from": 1627340,
+				"to": 1628880
+			},
+			"text": " the models themselves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,880",
+				"to": "00:27:12,180"
+			},
+			"offsets": {
+				"from": 1628880,
+				"to": 1632180
+			},
+			"text": " the importance of the open community."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,180",
+				"to": "00:27:14,820"
+			},
+			"offsets": {
+				"from": 1632180,
+				"to": 1634820
+			},
+			"text": " So now let me show you how to use"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,820",
+				"to": "00:27:17,340"
+			},
+			"offsets": {
+				"from": 1634820,
+				"to": 1637340
+			},
+			"text": " and how you would experience Watson X."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:17,340",
+				"to": "00:27:19,520"
+			},
+			"offsets": {
+				"from": 1637340,
+				"to": 1639520
+			},
+			"text": " And we're gonna go inside the studio,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,520",
+				"to": "00:27:21,980"
+			},
+			"offsets": {
+				"from": 1639520,
+				"to": 1641980
+			},
+			"text": " inside watsonx.ai."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,980",
+				"to": "00:27:23,320"
+			},
+			"offsets": {
+				"from": 1641980,
+				"to": 1643320
+			},
+			"text": " And from the landing page,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,320",
+				"to": "00:27:26,500"
+			},
+			"offsets": {
+				"from": 1643320,
+				"to": 1646500
+			},
+			"text": " you can choose to prompt models,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,500",
+				"to": "00:27:27,880"
+			},
+			"offsets": {
+				"from": 1646500,
+				"to": 1647880
+			},
+			"text": " to fine tune models,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,880",
+				"to": "00:27:30,640"
+			},
+			"offsets": {
+				"from": 1647880,
+				"to": 1650640
+			},
+			"text": " or deploy and manage your deployed models."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,640",
+				"to": "00:27:33,480"
+			},
+			"offsets": {
+				"from": 1650640,
+				"to": 1653480
+			},
+			"text": " So here's an example of how you can use the prompt lab"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,480",
+				"to": "00:27:35,560"
+			},
+			"offsets": {
+				"from": 1653480,
+				"to": 1655560
+			},
+			"text": " to do a summarization task."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,560",
+				"to": "00:27:36,960"
+			},
+			"offsets": {
+				"from": 1655560,
+				"to": 1656960
+			},
+			"text": " You give the model the text,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,960",
+				"to": "00:27:38,580"
+			},
+			"offsets": {
+				"from": 1656960,
+				"to": 1658580
+			},
+			"text": " as a prompt,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,580",
+				"to": "00:27:41,240"
+			},
+			"offsets": {
+				"from": 1658580,
+				"to": 1661240
+			},
+			"text": " and the model summarizes it for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,240",
+				"to": "00:27:43,460"
+			},
+			"offsets": {
+				"from": 1661240,
+				"to": 1663460
+			},
+			"text": " In the case of a customer care interaction,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,460",
+				"to": "00:27:45,240"
+			},
+			"offsets": {
+				"from": 1663460,
+				"to": 1665240
+			},
+			"text": " it gives you the customer problem"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,240",
+				"to": "00:27:48,200"
+			},
+			"offsets": {
+				"from": 1665240,
+				"to": 1668200
+			},
+			"text": " and the resolution according to the transcript"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,200",
+				"to": "00:27:50,120"
+			},
+			"offsets": {
+				"from": 1668200,
+				"to": 1670120
+			},
+			"text": " of the interaction."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,120",
+				"to": "00:27:52,180"
+			},
+			"offsets": {
+				"from": 1670120,
+				"to": 1672180
+			},
+			"text": " In the tuning studio, as we saw before,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:52,180",
+				"to": "00:27:54,780"
+			},
+			"offsets": {
+				"from": 1672180,
+				"to": 1674780
+			},
+			"text": " you can set the parameters or the type of tuning"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,780",
+				"to": "00:27:56,960"
+			},
+			"offsets": {
+				"from": 1674780,
+				"to": 1676960
+			},
+			"text": " that you want to do and the base model,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,960",
+				"to": "00:27:58,840"
+			},
+			"offsets": {
+				"from": 1676960,
+				"to": 1678840
+			},
+			"text": " and you can add your data."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:58,840",
+				"to": "00:28:02,180"
+			},
+			"offsets": {
+				"from": 1678840,
+				"to": 1682180
+			},
+			"text": " The studio gives you detailed stats of the tuning process"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,180",
+				"to": "00:28:05,820"
+			},
+			"offsets": {
+				"from": 1682180,
+				"to": 1685820
+			},
+			"text": " and allows you to deploy the tune model in your application."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,820",
+				"to": "00:28:06,580"
+			},
+			"offsets": {
+				"from": 1685820,
+				"to": 1686580
+			},
+			"text": " It's that simple."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,580",
+				"to": "00:28:09,880"
+			},
+			"offsets": {
+				"from": 1686580,
+				"to": 1689880
+			},
+			"text": " We took the complexity of the process away,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:09,880",
+				"to": "00:28:13,060"
+			},
+			"offsets": {
+				"from": 1689880,
+				"to": 1693060
+			},
+			"text": " so you only need to worry about creating value"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,060",
+				"to": "00:28:14,520"
+			},
+			"offsets": {
+				"from": 1693060,
+				"to": 1694520
+			},
+			"text": " for your business."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,520",
+				"to": "00:28:18,100"
+			},
+			"offsets": {
+				"from": 1694520,
+				"to": 1698100
+			},
+			"text": " And here are some of our current AI value creators."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:18,100",
+				"to": "00:28:20,660"
+			},
+			"offsets": {
+				"from": 1698100,
+				"to": 1700660
+			},
+			"text": " SAP will use IBM Watson capabilities"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,660",
+				"to": "00:28:24,040"
+			},
+			"offsets": {
+				"from": 1700660,
+				"to": 1704040
+			},
+			"text": " to power its digital assistant in their SAP solutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:24,040",
+				"to": "00:28:25,960"
+			},
+			"offsets": {
+				"from": 1704040,
+				"to": 1705960
+			},
+			"text": " You've been hearing about Red Hat,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,960",
+				"to": "00:28:28,440"
+			},
+			"offsets": {
+				"from": 1705960,
+				"to": 1708440
+			},
+			"text": " how it's embedding IBM Watson code assistant"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,440",
+				"to": "00:28:30,700"
+			},
+			"offsets": {
+				"from": 1708440,
+				"to": 1710700
+			},
+			"text": " into the Ansible automation platform."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,700",
+				"to": "00:28:33,640"
+			},
+			"offsets": {
+				"from": 1710700,
+				"to": 1713640
+			},
+			"text": " BBVA is bringing their enterprise data"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,640",
+				"to": "00:28:36,200"
+			},
+			"offsets": {
+				"from": 1713640,
+				"to": 1716200
+			},
+			"text": " to use with their own foundation model"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,200",
+				"to": "00:28:37,740"
+			},
+			"offsets": {
+				"from": 1716200,
+				"to": 1717740
+			},
+			"text": " for natural language."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,740",
+				"to": "00:28:40,840"
+			},
+			"offsets": {
+				"from": 1717740,
+				"to": 1720840
+			},
+			"text": " Moderna is supplying IBM's foundation models"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,840",
+				"to": "00:28:44,140"
+			},
+			"offsets": {
+				"from": 1720840,
+				"to": 1724140
+			},
+			"text": " to help predict potential mRNA medicines."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:44,140",
+				"to": "00:28:46,940"
+			},
+			"offsets": {
+				"from": 1724140,
+				"to": 1726940
+			},
+			"text": " NASA is using our language models together"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:46,940",
+				"to": "00:28:49,380"
+			},
+			"offsets": {
+				"from": 1726940,
+				"to": 1729380
+			},
+			"text": " with US spatial models we've created together"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,380",
+				"to": "00:28:51,940"
+			},
+			"offsets": {
+				"from": 1729380,
+				"to": 1731940
+			},
+			"text": " to improve our scientific understanding and response"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,940",
+				"to": "00:28:54,480"
+			},
+			"offsets": {
+				"from": 1731940,
+				"to": 1734480
+			},
+			"text": " to Earth and climate-related issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,480",
+				"to": "00:28:58,220"
+			},
+			"offsets": {
+				"from": 1734480,
+				"to": 1738220
+			},
+			"text": " And Wix is using foundation models to gain novel insights"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,220",
+				"to": "00:29:02,860"
+			},
+			"offsets": {
+				"from": 1738220,
+				"to": 1742860
+			},
+			"text": " for customer care as they meet the needs of their customers."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,860",
+				"to": "00:29:05,820"
+			},
+			"offsets": {
+				"from": 1742860,
+				"to": 1745820
+			},
+			"text": " So what I encourage you is to join them and embrace"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:05,820",
+				"to": "00:29:09,560"
+			},
+			"offsets": {
+				"from": 1745820,
+				"to": 1749560
+			},
+			"text": " the age of value creation with AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,560",
+				"to": "00:29:16,060"
+			},
+			"offsets": {
+				"from": 1749560,
+				"to": 1756060
+			},
+			"text": " A year ago, I stood on a stage just like this, closing Think."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,060",
+				"to": "00:29:19,040"
+			},
+			"offsets": {
+				"from": 1756060,
+				"to": 1759040
+			},
+			"text": " And I shared with all of the attendees"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,040",
+				"to": "00:29:22,440"
+			},
+			"offsets": {
+				"from": 1759040,
+				"to": 1762440
+			},
+			"text": " that what was next in AI was foundation models."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:22,440",
+				"to": "00:29:24,680"
+			},
+			"offsets": {
+				"from": 1762440,
+				"to": 1764680
+			},
+			"text": " And maybe at the time, it seemed a little bit abstract"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:24,680",
+				"to": "00:29:27,140"
+			},
+			"offsets": {
+				"from": 1764680,
+				"to": 1767140
+			},
+			"text": " and, you know, sort of like this intellectual disposition"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,140",
+				"to": "00:29:28,700"
+			},
+			"offsets": {
+				"from": 1767140,
+				"to": 1768700
+			},
+			"text": " about where things were going."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,700",
+				"to": "00:29:31,580"
+			},
+			"offsets": {
+				"from": 1768700,
+				"to": 1771580
+			},
+			"text": " But boy, what a year it has been."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,580",
+				"to": "00:29:35,440"
+			},
+			"offsets": {
+				"from": 1771580,
+				"to": 1775440
+			},
+			"text": " And it has been a big year for AI at IBM."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:35,440",
+				"to": "00:29:37,680"
+			},
+			"offsets": {
+				"from": 1775440,
+				"to": 1777680
+			},
+			"text": " So as we close our event this year,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,680",
+				"to": "00:29:40,340"
+			},
+			"offsets": {
+				"from": 1777680,
+				"to": 1780340
+			},
+			"text": " let me remind you of all the things"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,340",
+				"to": "00:29:42,240"
+			},
+			"offsets": {
+				"from": 1780340,
+				"to": 1782240
+			},
+			"text": " that we have created and announced."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:42,240",
+				"to": "00:29:44,880"
+			},
+			"offsets": {
+				"from": 1782240,
+				"to": 1784880
+			},
+			"text": " We've announced WatsonX, a comprehensive platform that"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,880",
+				"to": "00:29:47,920"
+			},
+			"offsets": {
+				"from": 1784880,
+				"to": 1787920
+			},
+			"text": " allows you to create and govern AI in real time"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,920",
+				"to": "00:29:49,720"
+			},
+			"offsets": {
+				"from": 1787920,
+				"to": 1789720
+			},
+			"text": " so that you can move with urgency"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,720",
+				"to": "00:29:51,620"
+			},
+			"offsets": {
+				"from": 1789720,
+				"to": 1791620
+			},
+			"text": " and capture this moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,620",
+				"to": "00:29:54,760"
+			},
+			"offsets": {
+				"from": 1791620,
+				"to": 1794760
+			},
+			"text": " We announced a set, a family of foundation models,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,760",
+				"to": "00:29:57,820"
+			},
+			"offsets": {
+				"from": 1794760,
+				"to": 1797820
+			},
+			"text": " including IBM models, open community models,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:57,820",
+				"to": "00:30:00,800"
+			},
+			"offsets": {
+				"from": 1797820,
+				"to": 1800800
+			},
+			"text": " and how you can even create your own models."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:00,800",
+				"to": "00:30:02,700"
+			},
+			"offsets": {
+				"from": 1800800,
+				"to": 1802700
+			},
+			"text": " We announced our data model factory"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,700",
+				"to": "00:30:05,060"
+			},
+			"offsets": {
+				"from": 1802700,
+				"to": 1805060
+			},
+			"text": " using petabytes of data across"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:05,060",
+				"to": "00:30:07,720"
+			},
+			"offsets": {
+				"from": 1805060,
+				"to": 1807720
+			},
+			"text": " multiple domains to create trillions of tokens"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,720",
+				"to": "00:30:10,700"
+			},
+			"offsets": {
+				"from": 1807720,
+				"to": 1810700
+			},
+			"text": " to create our family of foundation models"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,700",
+				"to": "00:30:14,100"
+			},
+			"offsets": {
+				"from": 1810700,
+				"to": 1814100
+			},
+			"text": " and show how the factory continuously updates them"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:14,100",
+				"to": "00:30:17,440"
+			},
+			"offsets": {
+				"from": 1814100,
+				"to": 1817440
+			},
+			"text": " when conditions change and brings a regular cadence"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,440",
+				"to": "00:30:20,600"
+			},
+			"offsets": {
+				"from": 1817440,
+				"to": 1820600
+			},
+			"text": " of models to ensure proper governance."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,600",
+				"to": "00:30:23,040"
+			},
+			"offsets": {
+				"from": 1820600,
+				"to": 1823040
+			},
+			"text": " We told you about products where we have infused"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,040",
+				"to": "00:30:25,820"
+			},
+			"offsets": {
+				"from": 1823040,
+				"to": 1825820
+			},
+			"text": " our foundation models, over 15 of them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,820",
+				"to": "00:30:28,340"
+			},
+			"offsets": {
+				"from": 1825820,
+				"to": 1828340
+			},
+			"text": " including digital labor, Red Hat,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:28,340",
+				"to": "00:30:30,460"
+			},
+			"offsets": {
+				"from": 1828340,
+				"to": 1830460
+			},
+			"text": " products like Ansible Automation Platform,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:30,460",
+				"to": "00:30:33,220"
+			},
+			"offsets": {
+				"from": 1830460,
+				"to": 1833220
+			},
+			"text": " our partner products like SAP Solutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,220",
+				"to": "00:30:34,680"
+			},
+			"offsets": {
+				"from": 1833220,
+				"to": 1834680
+			},
+			"text": " We announced important collaborations"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:34,680",
+				"to": "00:30:37,620"
+			},
+			"offsets": {
+				"from": 1834680,
+				"to": 1837620
+			},
+			"text": " to advance AI and bring it to the enterprise,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,620",
+				"to": "00:30:40,160"
+			},
+			"offsets": {
+				"from": 1837620,
+				"to": 1840160
+			},
+			"text": " Hugging Face and longstanding collaborations"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:40,160",
+				"to": "00:30:43,060"
+			},
+			"offsets": {
+				"from": 1840160,
+				"to": 1843060
+			},
+			"text": " and initiatives like PyTorch and Ray."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,060",
+				"to": "00:30:45,300"
+			},
+			"offsets": {
+				"from": 1843060,
+				"to": 1845300
+			},
+			"text": " We showed you some of the organizations"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,300",
+				"to": "00:30:48,360"
+			},
+			"offsets": {
+				"from": 1845300,
+				"to": 1848360
+			},
+			"text": " that have become AI value creators with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,360",
+				"to": "00:30:51,860"
+			},
+			"offsets": {
+				"from": 1848360,
+				"to": 1851860
+			},
+			"text": " We're bringing IBM Vela or cloud native AI supercomputer"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:51,860",
+				"to": "00:30:55,060"
+			},
+			"offsets": {
+				"from": 1851860,
+				"to": 1855060
+			},
+			"text": " to train foundation models with bare metal performance"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:55,060",
+				"to": "00:30:57,740"
+			},
+			"offsets": {
+				"from": 1855060,
+				"to": 1857740
+			},
+			"text": " while giving us the flexibility of the cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,740",
+				"to": "00:30:59,540"
+			},
+			"offsets": {
+				"from": 1857740,
+				"to": 1859540
+			},
+			"text": " And we announced that we're making it available"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,540",
+				"to": "00:31:01,140"
+			},
+			"offsets": {
+				"from": 1859540,
+				"to": 1861140
+			},
+			"text": " as a service."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:01,140",
+				"to": "00:31:04,300"
+			},
+			"offsets": {
+				"from": 1861140,
+				"to": 1864300
+			},
+			"text": " Last year, we launched the Telum in C"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,300",
+				"to": "00:31:06,100"
+			},
+			"offsets": {
+				"from": 1864300,
+				"to": 1866100
+			},
+			"text": " 16."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:06,100",
+				"to": "00:31:09,940"
+			},
+			"offsets": {
+				"from": 1866100,
+				"to": 1869940
+			},
+			"text": " It's an engineering marvel, and IBM's first processor"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,940",
+				"to": "00:31:13,180"
+			},
+			"offsets": {
+				"from": 1869940,
+				"to": 1873180
+			},
+			"text": " to have on-chip accelerator for AI inferencing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,180",
+				"to": "00:31:16,280"
+			},
+			"offsets": {
+				"from": 1873180,
+				"to": 1876280
+			},
+			"text": " It can process 300 billion inferences per day"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,280",
+				"to": "00:31:18,800"
+			},
+			"offsets": {
+				"from": 1876280,
+				"to": 1878800
+			},
+			"text": " with one millisecond latencies."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,800",
+				"to": "00:31:21,920"
+			},
+			"offsets": {
+				"from": 1878800,
+				"to": 1881920
+			},
+			"text": " This means that now you can infuse AI"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:21,920",
+				"to": "00:31:25,240"
+			},
+			"offsets": {
+				"from": 1881920,
+				"to": 1885240
+			},
+			"text": " into every transaction in C 16 for applications"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,240",
+				"to": "00:31:29,100"
+			},
+			"offsets": {
+				"from": 1885240,
+				"to": 1889100
+			},
+			"text": " like fraud detection and others in real time."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:29,100",
+				"to": "00:31:32,060"
+			},
+			"offsets": {
+				"from": 1889100,
+				"to": 1892060
+			},
+			"text": " Using the same core architecture as Telum,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,060",
+				"to": "00:31:33,920"
+			},
+			"offsets": {
+				"from": 1892060,
+				"to": 1893920
+			},
+			"text": " we built the IBM Research AIU."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,920",
+				"to": "00:31:36,920"
+			},
+			"offsets": {
+				"from": 1893920,
+				"to": 1896920
+			},
+			"text": " Which is optimized to give superior performance"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,920",
+				"to": "00:31:39,200"
+			},
+			"offsets": {
+				"from": 1896920,
+				"to": 1899200
+			},
+			"text": " for foundation models and enable"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,200",
+				"to": "00:31:41,200"
+			},
+			"offsets": {
+				"from": 1899200,
+				"to": 1901200
+			},
+			"text": " with the Red Hat software stack."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,200",
+				"to": "00:31:45,800"
+			},
+			"offsets": {
+				"from": 1901200,
+				"to": 1905800
+			},
+			"text": " And at IBM Research, we are incubating powerful AIU systems"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,800",
+				"to": "00:31:48,920"
+			},
+			"offsets": {
+				"from": 1905800,
+				"to": 1908920
+			},
+			"text": " designed and optimized for enterprise AI inference"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:48,920",
+				"to": "00:31:50,120"
+			},
+			"offsets": {
+				"from": 1908920,
+				"to": 1910120
+			},
+			"text": " and tuning."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,120",
+				"to": "00:31:52,360"
+			},
+			"offsets": {
+				"from": 1910120,
+				"to": 1912360
+			},
+			"text": " So a truly fantastic year."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,360",
+				"to": "00:31:55,760"
+			},
+			"offsets": {
+				"from": 1912360,
+				"to": 1915760
+			},
+			"text": " And this is just the start of all the amazing things"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,760",
+				"to": "00:31:58,120"
+			},
+			"offsets": {
+				"from": 1915760,
+				"to": 1918120
+			},
+			"text": " that we're building and developing for you"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,120",
+				"to": "00:32:00,920"
+			},
+			"offsets": {
+				"from": 1918120,
+				"to": 1920920
+			},
+			"text": " and that we will be sharing with you in the coming years."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,920",
+				"to": "00:32:03,540"
+			},
+			"offsets": {
+				"from": 1920920,
+				"to": 1923540
+			},
+			"text": " So today, more than ever before,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,540",
+				"to": "00:32:07,140"
+			},
+			"offsets": {
+				"from": 1923540,
+				"to": 1927140
+			},
+			"text": " it's important to have a business strategy in AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:07,140",
+				"to": "00:32:09,600"
+			},
+			"offsets": {
+				"from": 1927140,
+				"to": 1929600
+			},
+			"text": " And in closing, as you think about how"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,600",
+				"to": "00:32:13,360"
+			},
+			"offsets": {
+				"from": 1929600,
+				"to": 1933360
+			},
+			"text": " to harness foundation models for your business,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,360",
+				"to": "00:32:17,400"
+			},
+			"offsets": {
+				"from": 1933360,
+				"to": 1937400
+			},
+			"text": " let me offer you some tips to consider."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,400",
+				"to": "00:32:20,000"
+			},
+			"offsets": {
+				"from": 1937400,
+				"to": 1940000
+			},
+			"text": " First, act with urgency."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:20,000",
+				"to": "00:32:23,300"
+			},
+			"offsets": {
+				"from": 1940000,
+				"to": 1943300
+			},
+			"text": " This is a transformative moment in technology."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,300",
+				"to": "00:32:25,980"
+			},
+			"offsets": {
+				"from": 1943300,
+				"to": 1945980
+			},
+			"text": " Be bold and capture the moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:25,980",
+				"to": "00:32:28,780"
+			},
+			"offsets": {
+				"from": 1945980,
+				"to": 1948780
+			},
+			"text": " Second, be a value creator."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,780",
+				"to": "00:32:33,160"
+			},
+			"offsets": {
+				"from": 1948780,
+				"to": 1953160
+			},
+			"text": " Build foundation models on your data and under your control."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,160",
+				"to": "00:32:36,100"
+			},
+			"offsets": {
+				"from": 1953160,
+				"to": 1956100
+			},
+			"text": " They will become your most valuable asset."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:36,100",
+				"to": "00:32:42,600"
+			},
+			"offsets": {
+				"from": 1956100,
+				"to": 1962600
+			},
+			"text": " Don't outsource that and don't reduce your AI strategy to an API call."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:42,600",
+				"to": "00:32:45,400"
+			},
+			"offsets": {
+				"from": 1962600,
+				"to": 1965400
+			},
+			"text": " Third, bet on community."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,400",
+				"to": "00:32:50,300"
+			},
+			"offsets": {
+				"from": 1965400,
+				"to": 1970300
+			},
+			"text": " Bet on the energy and the ingenuity of the open AI community."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:50,300",
+				"to": "00:32:54,280"
+			},
+			"offsets": {
+				"from": 1970300,
+				"to": 1974280
+			},
+			"text": " One model, I guarantee you, will not rule them all."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,280",
+				"to": "00:32:57,120"
+			},
+			"offsets": {
+				"from": 1974280,
+				"to": 1977120
+			},
+			"text": " Run everywhere efficiently."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:57,120",
+				"to": "00:33:02,780"
+			},
+			"offsets": {
+				"from": 1977120,
+				"to": 1982780
+			},
+			"text": " Optimize for performance, latency, and cost by building with open hybrid technologies."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,780",
+				"to": "00:33:05,840"
+			},
+			"offsets": {
+				"from": 1982780,
+				"to": 1985840
+			},
+			"text": " And finally, be responsible."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,840",
+				"to": "00:33:08,200"
+			},
+			"offsets": {
+				"from": 1985840,
+				"to": 1988200
+			},
+			"text": " I can't stress this enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,200",
+				"to": "00:33:13,680"
+			},
+			"offsets": {
+				"from": 1988200,
+				"to": 1993680
+			},
+			"text": " Everything I've mentioned is useless unless you build responsibly, transparently, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,680",
+				"to": "00:33:19,520"
+			},
+			"offsets": {
+				"from": 1993680,
+				"to": 1999520
+			},
+			"text": " put governance into the heart of your AI lifecycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,520",
+				"to": "00:33:24,560"
+			},
+			"offsets": {
+				"from": 1999520,
+				"to": 2004560
+			},
+			"text": " Continuously govern the data you use and the AI you deploy."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,560",
+				"to": "00:33:28,140"
+			},
+			"offsets": {
+				"from": 2004560,
+				"to": 2008140
+			},
+			"text": " And co-create with trusted partners."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:28,140",
+				"to": "00:33:32,400"
+			},
+			"offsets": {
+				"from": 2008140,
+				"to": 2012400
+			},
+			"text": " Trust is your ultimate license to operate."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:32,400",
+				"to": "00:33:38,260"
+			},
+			"offsets": {
+				"from": 2012400,
+				"to": 2018260
+			},
+			"text": " With your AI business strategy against these recommendations, you will be in a prime position"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,260",
+				"to": "00:33:42,900"
+			},
+			"offsets": {
+				"from": 2018260,
+				"to": 2022900
+			},
+			"text": " to do amazing things with foundation models and generative AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,900",
+				"to": "00:33:47,500"
+			},
+			"offsets": {
+				"from": 2022900,
+				"to": 2027500
+			},
+			"text": " We have built WatsonX so that you can do just that."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,500",
+				"to": "00:33:54,720"
+			},
+			"offsets": {
+				"from": 2027500,
+				"to": 2034720
+			},
+			"text": " And I hope you join us, because we cannot wait to get started on this journey with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:54,720",
+				"to": "00:33:55,780"
+			},
+			"offsets": {
+				"from": 2034720,
+				"to": 2035780
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,780",
+				"to": "00:34:02,780"
+			},
+			"offsets": {
+				"from": 2035780,
+				"to": 2042780
+			},
+			"text": " ♪ ♪"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,780",
+				"to": "00:34:09,780"
+			},
+			"offsets": {
+				"from": 2042780,
+				"to": 2049780
+			},
+			"text": " ♪ ♪"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,780",
+				"to": "00:34:16,780"
+			},
+			"offsets": {
+				"from": 2049780,
+				"to": 2056780
+			},
+			"text": " ♪ ♪"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,780",
+				"to": "00:34:19,780"
+			},
+			"offsets": {
+				"from": 2056780,
+				"to": 2059780
+			},
+			"text": " ♪ ♪"
+		}
+	]
+}

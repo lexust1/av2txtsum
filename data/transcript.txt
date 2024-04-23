@@ -1,0 +1,578 @@
+0:09
+>> Welcome to IBM THINK 2023!
+0:17
+>> AI generated art, AI generated songs.
+0:23
+AI, what is that? It sure is a lot of fun. But when foundation models are applied to big business, well,
+0:31
+you need to think bigger. Because AI and business needs to be held to a higher standard.
+0:36
+Built to be trusted, secured, and adaptable. This isn't simple automation that is only
+0:42
+trained to do one thing. This is AI that is built and focused to work across your organization.
+0:48
+This isn't committing to a single system. This is hybrid ready AI that can scale across your systems.
+0:54
+This isn't wondering where an answer came from. This is AI that can show its work.
+1:00
+When you build AI into the core of your business, you can go so much further. This is more than AI.
+1:07
+This is AI for business. Let's create.
+1:13
+(MUSIC) >> Please welcome Senior Vice President and Director of Research, IBM, Dr. Dario Gil.
+1:21
+(Applause) >> DARIO GIL: Hello.
+1:27
+Welcome, welcome to the last session of THINK. And I understand some of you even had a drink.
+1:33
+How special. So, I hope you've enjoyed the last two days with us.
+1:39
+And what an incredible year it has been for AI. You can really feel the change that is happening all around us.
+1:48
+And there's just no denying that the pace of this technology continues to be exhilarating and that its implications are
+1:57
+now so clear for all to see around the globe. I am just fascinated by AI.
+2:03
+And as a technologist, this level of excitement really comes about only maybe once or twice every decade.
+2:12
+And I am just thrilled to see all the possibilities that this technology is going to enable.
+2:18
+Because it's really going to impact every industry. From customer care to transforming data centers
+2:26
+and logistics to medicine, to manufacturing, to energy, to the automotive industry, to aerospace,
+2:32
+communications, you name it. It's really going to impact every one of our businesses
+2:37
+and really touch every aspect of our lives. So, it's really exciting. And while sometimes the pace of this technology can feel,
+2:46
+you know, daunting and scary, the opportunities to harness
+2:51
+foundation models and generative AI with proper governance, the opportunities are immense.
+2:58
+The emergence of foundation models and generative AI is really a defining moment.
+3:05
+And we need to recognize its importance, we need to capture the moment.
+3:10
+And my advice is, don't be just an AI user. Be an AI value creator.
+3:17
+Just think about it, as an AI user, you are limited to just prompting someone else's AI model.
+3:25
+It's not your model, you have no control over the model or the data.
+3:31
+Just think carefully about whether that's the world you want to live in. As an AI value creator, on the other hand, you have
+3:39
+multiple entry points. You can bring your own data and AI models to Watsonx or
+3:46
+choose from a library of tools and technologies. You can train or influence training, if you want.
+3:54
+You can tune, you can have transparency and control over the governing data and AI models.
+4:01
+You can prompt it, too. Instead of only one model, you will have a family of models.
+4:07
+And through this creative process you can improve them and you can make them your own, your own models.
+4:13
+Foundation models that are trained with your data will become your most valuable asset.
+4:21
+And as a value creator, you will own that and all the value that they will create for your business.
+4:28
+So, don't outsource that. You can simply control your destiny with foundation models.
+4:35
+So, let me show you how we become, and allow you to become
+4:41
+a value creator with Watsonx. Watsonx is our new integrated data and AI platform.
+4:47
+It consists of three primary parts: First, Watsonx.data it is
+4:53
+our massive curated data repository that is ready to be tapped to train and fine-tune models, with state-of-the-art
+5:02
+data management system. Watsonx.ai, this is an enterprise studio to train,
+5:09
+validate, tune, and deploy traditional machine learning and foundation models that provide generative capabilities.
+5:17
+And Watsonx.governance, this is a powerful set of tools to ensure your AI is executing responsibly.
+5:27
+Watsonx.data, Watsonx.ai, Watsonx.governance, they work together seamlessly throughout the entire
+5:34
+lifecycle of foundation models. And true to our commitment to hybrid cloud architectures,
+5:42
+Watsonx is built on top of Red Hat OpenShift. Not only does it provide seamless integration of
+5:48
+Watsonx components, it allows you to access and deploy
+5:53
+your AI workloads in any IT environment, no matter where they are located.
+5:59
+WatsonX is the AI platform for value creators. And look, I don't need to tell you that deploying these
+6:09
+technologies is not easy at the enterprise level. But the platform changes that.
+6:14
+So let's take a look now at how an entire AI workflow end to end works in the platform.
+6:21
+The lifecycle consists of preparing our data, using it to train the model, validate the model, tune it, and deploy in
+6:30
+applications and solutions. So let's start with data preparation. So say you're a data scientist and want to access the data that
+6:37
+is in a Public Cloud, some that is on prem, some that may be in another external database, or in a Public Cloud, a second one, or
+6:47
+anywhere else outside your hybrid cloud platform. So you access the platform from your laptop and
+6:53
+invoke Watsonx.data. It establishes the necessary connections between the data
+6:59
+sources so you can access the data easily. We have been building our IBM data pile combining raw data
+7:06
+collected from public sources with IBM propriety data. We are bringing data from different domains, the internet,
+7:14
+code, academic sources, enterprise, and more. We have used Watsonx.data to collect petabytes of data across
+7:25
+dozens of domains to produce trillions of tokens that we can
+7:30
+use to train foundation models. And besides the raw data and our proprietary data, we allow
+7:37
+clients to bring their own data to enrich and improve their purpose-built foundation models.
+7:44
+It is all stored in .data. With granular metadata that provides traceable governance
+7:50
+for each file or document. So, now we took this and we move to filter and process the data.
+7:57
+First, we identify the provenance and the idea of the data. Then, we need to categorize it, we classify it, for
+8:05
+example, in a pile for different languages, let's say English, Spanish, German, and so on.
+8:12
+A pile of code data that we then separate by programming language, Java, Ansible, COBOL, and so on.
+8:19
+And any other category that we have. Now we filter it, we do analytics and get
+8:25
+rid of duplicated data. Now identify hate, abuse, and profanity in the data,
+8:31
+and we remove it. We filter it for private information, licensing
+8:37
+constraints, and data quality. By annotating, we allow data scientists to
+8:42
+directly determine the right thresholds for their filtering. Having done all of that, the pile is now ready
+8:51
+for the next step. We version and tag the data. Each dataset, after being filtered and preprocessed,
+8:59
+receives a data card. The data card has the name and the version of the pile,
+9:05
+specifies its content, and filters that have been applied to it.
+9:10
+And any other relevant content to make it easy to manage and track different choices that of the work and the right subsets
+9:20
+of the data that we have used to develop the foundation models. Now, we can have multiple data piles.
+9:26
+They coexist in .data and access the different versions of data for different purpose is managed seamlessly.
+9:34
+So, we are now ready to take the pile and start training our model. This is step 2 in our AI workflow.
+9:41
+So, we move from .data to .ai and start by picking a model
+9:47
+architecture from the five families that IBM provides. These are bed rocks of models, and they range from
+9:54
+encoder only, encoder- decoder, decoder only, and other novel architectures.
+10:00
+Let's pick the encoder-decoder sandstone to train the model and
+10:06
+pick a target data pile version from the piles that is .data.
+10:11
+.ai allows training with computing resources across the hybrid cloud.
+10:16
+In this case it runs on IBM Vela. Vela is the first of a kind cloud native AI super computer
+10:24
+that we built last year. It gives you bare metal performance in the cloud with a virtualization overhead that is less than 5%.
+10:32
+And we are making it available as a service. Watsonx.ai auto scales the resources for the
+10:39
+training being done. And the first thing that we need to do is to tokenize the data according to the requirements of the model.
+10:48
+So, we first query the data using the version ID for the pile we want to use.
+10:53
+That materializes a copy of the dataset on Vela for tokenization.
+10:59
+What this means is that, for example, we were building a large language model, the sentences in the data are
+11:06
+broken into tokens. And this process can create trillions of them.
+11:12
+And we use the tokens to train the model. Now, training is a very complex and time consuming task.
+11:18
+It can require dozens, hundreds, even thousands of GPUs and can take days, weeks, and even months.
+11:26
+Training in Watsonx.ai takes advantage of the best open-source technology out there to simplify the user experience.
+11:34
+Built on code flare, using PyTorch and Ray, it also integrates Hugging Face to bring you a rich
+11:42
+variety of open formats. Once training is done, the model is ready for validation.
+11:49
+So for each model we train, we run an extensive set of benchmarks to evaluate the model quality across
+11:56
+a wide range of metrics. Once the model passes all the thresholds across the
+12:02
+benchmarks, it is packaged and marked as ready for use. For each model, we create a model card that lists all
+12:11
+the details of the model. We will have many different models, trained on different piles, with different target goals.
+12:18
+Next, we go to Watsonx.governance to combine the data card that has the detailed provenance information
+12:26
+for the data pile that was used for training, with the model card that has the detailed information on how the model
+12:33
+was trained and validated. Together, they form a fact sheet.
+12:39
+This fact sheet is cataloged in .governance and all the other
+12:44
+fact sheets for all the models that we have available for use. Now let's go on to tune the model that we just created, and
+12:53
+what we mean by that is to adapt it to new downstream tasks, which is the basis for the large productivity gains that is
+13:02
+afforded by foundation models. So, say, in this case, you are a different person, and you are
+13:08
+the application developer. So, you can access Watsonx.ai and start by picking a model
+13:13
+from the catalog to work with. We have a family of IBM models specialized
+13:18
+for different domains. But we also have a rich set of open models, because we
+13:24
+believe in the creativity of the global AI community and in the diversity of models it offers, and we
+13:32
+want to bring that to you. In this case, we pick sandstone.3b from the IBM
+13:39
+language models, which is the model that we just trained. We set up the options for tuning, the tuning approach.
+13:47
+We pick summarization as an example, as the base model to use.
+13:52
+Now, we can access and use business proprietary data to tune the base model and for the task that we choose,
+14:02
+whether that business data is located in anywhere in the hybrid cloud platform.
+14:07
+So, now we send prompts and tuning data, and that's used to tune the model in .ai.
+14:14
+You get the outcome of the prompt on the model. This process happens back and forth, back and forth
+14:21
+many times, and in the end, you end up with a set of ideal prompts to use.
+14:28
+The model is now specialized and ready to deploy. This is the final step in our AI workflow.
+14:35
+The application where you want to use the foundation model can live in the public cloud, it can live on-prem or on the edge.
+14:44
+And you can really deploy and run foundation models efficiently wherever you need them.
+14:50
+And the deployed model can be used in many different applications. So, for example, we've embedded foundation models
+14:57
+in Watson Assistant. For text generation in Assistant, you describe the topic that you want the assistant to handle, and it
+15:06
+generates the corresponding conversational flow. We have an inference stack to scale the serving of
+15:14
+the model in applications. It consists of state-of- the-art technology that has been field tested for scalable model serving.
+15:22
+This is how Watsonx allows us to go from data to a model that is trusted, governed, deployed and ready to serve, and how
+15:31
+we can scale that model to different applications. Once models are deployed, we continuously monitor them
+15:39
+and update them in both .data and in .ai. We call this constant process our data and model factory.
+15:48
+At Watsonx.governance monitors the models, if there's any change that may impact how the model can be used or performs,
+15:58
+be driven because we have new data that can be leveraged or there's a change in some regulation
+16:04
+or law or data licensing. Any change detected by the .governance process guides and
+16:12
+process the update to both the data and the model. The idea of the model factory is that is central to solid
+16:21
+and proper governance of AI. Now, all of these updates need to happen without disrupting the underlying applications that are leveraging
+16:29
+the foundation models. And this data and model factory is in production today.
+16:34
+We have already produced over 20 models across modalities like language, code, geospatial and chemistry, and spanning
+16:44
+different sizes of models from hundreds of millions to billions of parameters.
+16:50
+We have infused these foundation models into IBM products, Red Hat products, and our partners' products.
+16:58
+At IBM, over 12 foundation models are powering our IBM NLP
+17:03
+library, which is used in over 15 IBM products and is available to ISVs.
+17:10
+Granite models train over code are part of IBM Watson Code Assistant, which has been applied in the Red Hat
+17:17
+Ansible Automation Platform. And as you heard earlier in this event, SAP has partnered with us
+17:24
+and is infusing foundation models into their solutions. So, Watsonx is really ready for you to create value with AI.
+17:33
+Now, to maximize what you can do and the innovations at your disposal, we believe that you should bet on community.
+17:40
+Because, the truth is, one model will not rule them all.
+17:46
+And with the innovations and models that it develops, the open community is super charging the value that you
+17:55
+will be able to create. To be true to our belief in the diversity and the creativity of
+18:02
+the open AI community, we are proud to announce our new partnership with Hugging Face.
+18:08
+So let's invite to the stage cofounder and CEO of Hugging Face, Clem Delangue.
+18:13
+(Applause) >> CLEM DELANGUE: Hey, Dario.
+18:19
+>> DARIO GIL: Clem. >> CLEM DELANGUE: Thanks for having me. >> DARIO GIL: First of all, welcome to IBM THINK. We are just delighted to have you here.
+18:24
+So let's begin by, tell us a little bit about yourself and how and when you got interested in AI and how did
+18:29
+Hugging Face get started. >> CLEM DELANGUE: Yeah, thanks so much for having me. I, actually, started in AI almost 15 years ago.
+18:36
+I look at the room at the time we couldn't have filled it. Maybe it would have been one person, two persons
+18:42
+in the room at most. As a matter of fact, we weren't even calling it AI at the time, we were calling it computer vision.
+18:50
+I was working at French company – I am French, as you can hear from my accents – and we were doing computer vision
+18:58
+on device, on mobile. The company went on to get acquired by Google after.
+19:03
+But I never lost my passion and excitement for AI. So, seven years ago, with my cofounders, Jillian Thomas, we
+19:12
+gathered around this passion for AI and started Hugging Face,
+19:17
+right, what you see on my T-shirt, basically. We started with something completely different. We worked on conversational AI for three years and as it
+19:27
+sometimes happens for startups, the underlying platform and technology ended up more useful than the end product.
+19:37
+When we started to release part of it on GitHub, we started to see open-source contributors joining us, we started to see
+19:45
+scientist sharing models in the platform, leading to what Hugging Face is today.
+19:52
+>> DARIO GIL: So I mentioned the power and the creativity of the open community creating in AI.
+19:59
+Just share with us some statistic, how big is it? How much energy is there in that community and how much should we
+20:06
+expect in the creativity available to all of us? >> CLEM DELANGUE: Yeah, the energy in open-source AI
+20:11
+is insane these days. Just a few weeks ago I was in San Francisco. I tweeted that I would be around and that we could do some
+20:19
+sort of a small get-together for open-source AI people. We thought we would get maybe a few dozen, few hundred people.
+20:28
+And the more the days came, the more people ended up joining.
+20:33
+We had to change locations three times to something at the end almost as big as that, we had 5000 people.
+20:40
+People started calling it the Woodstock of AI, so that's just an example.
+20:47
+We are competing with that, the Woodstock of AI. Just proof of how vibrant the open-source AI community is.
+20:55
+We think the same thing on Hugging Face, right? Since we started on the platform four years ago, we grew to now
+21:04
+having over 15,000 companies using the platform including
+21:09
+very large companies like Google, like Meta, like Bloomberg, all the way down to smaller companies like
+21:15
+Grammarly, for example. And collectively they have shared over 250,000 open
+21:24
+models on the platform, 50,000 datasets, and over 100,000 open demos.
+21:31
+Just last week 4000 new models have been shared on the platform.
+21:37
+So, that shows you kind of like the magnitude and energy in open-source AI community.
+21:43
+>> DARIO GIL: Just think about that, 4000 models in one week. So, one of the myth busting things that we were chatting
+21:50
+about is that the element of one model will not rule them all, right? There's going to be a huge amount of innovation that is
+21:57
+happening from so many sources. So, perhaps, you could share with us, what are some examples of innovation that you see?
+22:03
+We have seen scale. But what are some examples that really caught your eye or you think were particularly powerful?
+22:09
+>> CLEM DELANGUE: Yeah, I mean, it's interesting because since the release of ChatGPT, right, and some people have
+22:15
+said, okay, ChatGPT is a model to rule them all. 100,000 new models have been added on Hugging Face, right?
+22:23
+And, obviously, companies, they don't train models just to train models, right? They would prefer not to do it because it costs
+22:30
+money to train models. But the truth is, if you look at how AI is built, when you can
+22:38
+build smaller, more specialized, customized models for your use
+22:43
+cases, they end up being cheaper, they end up being more efficient, and they end up being better for your use case, right?
+22:52
+Just the same way every single technology company learned how to write code, right, and to have a different code base than
+23:02
+their competitors or than companies in other fields. We are seeing the same thing for AI, right?
+23:09
+Every single company needs to train their own models, optimize their own models, learn how to run these models at scale.
+23:18
+Every single company needs to build their own ChatGPT because if they don't, they won't be able to differentiate, they
+23:27
+won't be able to create the unique technology value that they have been building for their customers, and they lose
+23:35
+control, right, if they start outsourcing it. That's what we are seeing on Hugging Face and in the
+23:41
+ecosystem as a whole. >> DARIO GIL: It's back to the philosophy of don't be a prompt tuner user, right, be a value creator with all of this.
+23:49
+So let's talk about our partnership for a minute. Why are you excited about bringing the power of all of
+23:54
+this community into Watsonx, in the context now of an enterprise, you know, need and meeting the needs of our clients
+24:02
+that are here listening? >> CLEM DELANGUE: Yeah, obviously, Hugging Face and IBM
+24:07
+share a lot of the same DNA, right, around open-source, open platform, kind of, like, providing extensible
+24:16
+tools for companies. For me, one of the most iconic collaboration partnership of the
+24:23
+last decade is IBM plus Red Hat and hopefully we are just at the
+24:28
+beginning of it, but with this collaboration, we can do the same thing for AI.
+24:34
+I think with this integration between Watsonx and Hugging Face, you kind of like get the best of both worlds in the
+24:43
+sense that you get the cutting edge and the community and the numbers of models, datasets, apps of the
+24:51
+Hugging Face ecosystem, and you get the security and supports of IBM, right?
+24:59
+For example, you mentioned, we mentioned all the models. The IBM consultants can help you to pick the right models for you
+25:08
+at the time that is going to make sense for your company. So, you really get, kind of, like, the perfect mix to get to
+25:16
+what we were saying, meaning every one of you being able to build your own internal ChatGPT.
+25:23
+>> DARIO GIL: So, tell us, this is just great. I am just delighted about those opportunities. So tell us a little bit about what's next for Hugging Face
+25:31
+when you look over the next year or so, what excites you the most? >> CLEM DELANGUE: Many, many exciting things for us.
+25:37
+We have seen a lot of adoption, a lot of companies using us for
+25:43
+text, for ODO, for image. And now we are starting to see that expand to other domains,
+25:51
+for example, we are seeing a lot of video right now. We are seeing a lot of recommender systems; we are
+25:58
+seeing a lot of time series. We are starting a lot of bioG chemistry. We are excited about it, we think ultimately AI is the new
+26:07
+default to build all features, all workflows, all products.
+26:12
+It's kind of like new default to build all tech. So we are excited for this expansion to other domains.
+26:20
+Also, we are seeing a lot of work around chaining different
+26:26
+models and, in fact, at Hugging Face we released today a transformer agents which is a way to chain different models to
+26:34
+build more complex systems that are achieving kind of like better capabilities.
+26:40
+These are some of the things that we are the most excited about. >> DARIO GIL: So a lot there so thank you, Clem.
+26:45
+Thank you so much. Congratulations. >> CLEM DELANGUE: Thank you so much. (Applause) >> DARIO GIL: Thank you.
+26:54
+So, while you saw how the platform works to enable the foundation model creation workflow end to end.
+27:01
+And we talked about data, we talked about model architectures, the computing infrastructure, the models
+27:07
+themselves, the importance of the open community. So, now let me show you how to use and how you
+27:15
+would experience Watsonx. And we are going to go inside the studio, inside Watsonx.ai.
+27:21
+And from the landing page you can choose two prompt models to fine-tune models or deploy and manage your deployed models.
+27:30
+So here's an example of how you can use the prompt lab to do a summarization task. You give the model the text as a prompt, and the model
+27:39
+summarizes it for you. In the case of a customer care interaction, it gives you the customer problem and the resolution according to the
+27:47
+transcript of the interaction. In the tuning studio, as we saw before, you can set the
+27:52
+parameters for the type of tuning that you want to do and the base model and you can add your data.
+27:58
+The studio gives you detailed stats of the tuning process and allows you to deploy the tune model in your application.
+28:05
+It's that simple. We took the complexity of the process away so you only
+28:10
+need to worry about creating value for your business. And here are some of our current AI value creators.
+28:17
+SAP will use IBM Watson capabilities to power its digital assistant in the recipe solutions.
+28:23
+You have been hearing about Red Hat, how it's embedding IBM Watson Code Assistant into the Ansible Automation Platform,
+28:30
+BBVA is bringing their enterprise data to use with their own foundation model for natural language.
+28:37
+Moderna is applying IBM's foundation models to help predict potential MRNA medicines.
+28:44
+NASA is using our language models together with US spatial models we have created together to improve our
+28:50
+scientific understanding and response to earth and climate related issues. And WiX is using foundation models to gain novel insights
+28:58
+for customer care as they meet the needs of their customers. So, what I encourage you is to join them and embrace the age
+29:06
+of value creation with AI. A year ago, I stood on a stage just like this, closing THINK.
+29:15
+And I shared with all of the attendees that what was next in AI was foundation models.
+29:22
+And maybe at the time it seemed a little bit abstract and, you know sort of, like, this intellectual disposition about where things were going.
+29:28
+But, boy, what a year it has been. And it has been a big year for AI at IBM.
+29:35
+So, as we close our event this year, let me remind of you of all of the things we have created and announced.
+29:42
+We have announced Watsonx, a comprehensive platform that allows you to create and governor AI in real time so that
+29:48
+you can move with urgency and capture this moment. We announced a set, a family of foundation models, including
+29:55
+IBM models, open community models, and how you can even create your own models.
+30:00
+We announced our data model factory, using petabytes of data across multiple domains to create trillions of tokens to
+30:07
+create our family of foundation models and show how the factory continuously updates them when conditions change and brings a
+30:16
+regular cadence of models to ensure proper governance. We told you about products where we have infused our
+30:23
+foundation models over 15 of them, including digital labor, Red Hat products like Ansible Automation Platform, our partner
+30:31
+products like ACP solutions. We announced important collaborations to advance AI and
+30:36
+bring it to the enterprise, Hugging Face and long-standing collaborations and initiatives like PyTorch and Ray.
+30:42
+We showed you some of the organizations that have become AI value creators with us.
+30:47
+We are bringing IBM Vela or cloud native AI super computer to train foundation models with bare metal performance
+30:54
+while giving us the flexibility of the cloud. And we announced that we are making it available as a service.
+31:00
+Last year we launched the Telum NC16. It's an engineering marvel and IBM's first processor to
+31:10
+have on chip accelerator for AI inferencing. It can process 300 billion inference per day
+31:16
+with one millisecond latencies. This means now you can infuse AI into every transaction
+31:23
+in Z16 for applications like fraud detection and others in real time.
+31:29
+Using the same core architecture as Telum, we built the IBM Research AIU, which is optimized to give superior performance for
+31:37
+foundation models and enable with Rat Hat software stack. And at IBM Research we are incubating powerful
+31:43
+AIU systems designed and optimized for enterprise, AI inference, and tuning.
+31:50
+So a truly fantastic year and this is just the start of all the amazing things that we are building and developing for you
+31:58
+and that we will be sharing with you in the coming years. So, today more than ever before, it's important to have a
+32:04
+business strategy in AI. And in closing, as you think about how to harness foundation
+32:11
+models for your business, let me offer you some tips to consider.
+32:17
+First, act with urgency. This is a transformative moment in technology, be
+32:23
+bold and capture the moment. Second, be a value creator, build foundation models on your
+32:30
+data and under your control. They will become your most valuable asset.
+32:35
+Don't outsource that and don't reduce your AI strategy to an API call.
+32:41
+Third, bet on community. Bet on the energy and the ingenuity of the
+32:48
+open AI community. One model, I guarantee you, will not rule them all.
+32:53
+Run everywhere efficiently, optimize for performance, latency, and cost by building with open hybrid technologies.
+33:02
+And finally, be responsible. I can't stress this enough. Everything I have mentioned is useless unless you build
+33:11
+responsibly, transparently, and put governance into the heart of your AI lifecycle.
+33:18
+Continuously governor the data you use and the AI you deploy.
+33:24
+And co-create with trusted partners, trust is your ultimate license to operate.
+33:31
+If you map your AI business strategy against these recommendations, you will be in a prime position to do amazing
+33:39
+things with foundation models and generative AI. We have built Watsonx so that you can do just that.
+33:46
+And I hope you join us, because we cannot wait to get started
+33:52
+on this journey with you. Thank you. (Applause)

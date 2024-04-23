@@ -1,0 +1,2284 @@
+1
+00:00:00,160 --> 00:00:09,800
+ ♪
+
+2
+00:00:09,800 --> 00:00:13,600
+ Welcome to IBM Think 2023.
+
+3
+00:00:13,600 --> 00:00:17,520
+ ♪
+
+4
+00:00:17,520 --> 00:00:21,020
+ AI-generated art.
+
+5
+00:00:21,020 --> 00:00:23,820
+ AI-generated songs.
+
+6
+00:00:23,820 --> 00:00:25,740
+ AI, what is that?
+
+7
+00:00:25,740 --> 00:00:27,860
+ It sure is a lot of fun.
+
+8
+00:00:27,860 --> 00:00:30,980
+ But when foundation models are applied to big business,
+
+9
+00:00:30,980 --> 00:00:33,360
+ well, you need to think bigger.
+
+10
+00:00:33,360 --> 00:00:37,420
+ Because AI in business needs to be held to a higher standard.
+
+11
+00:00:37,420 --> 00:00:40,780
+ Built to be trusted, secured, and adaptable.
+
+12
+00:00:40,780 --> 00:00:44,460
+ This isn't simple automation that is only trained to do one thing.
+
+13
+00:00:44,460 --> 00:00:48,840
+ This is AI that is built and focused to work across your organization.
+
+14
+00:00:48,840 --> 00:00:50,920
+ This isn't committing to a single system.
+
+15
+00:00:50,920 --> 00:00:55,020
+ This is hybrid-ready AI that can scale across your systems.
+
+16
+00:00:55,020 --> 00:00:57,480
+ This isn't wondering where an answer came from.
+
+17
+00:00:57,480 --> 00:01:00,960
+ This is AI that can show its work.
+
+18
+00:01:00,960 --> 00:01:03,240
+ When you build AI into the core of your business,
+
+19
+00:01:03,240 --> 00:01:06,000
+ you can go so much further.
+
+20
+00:01:06,000 --> 00:01:07,520
+ This is more than AI.
+
+21
+00:01:07,520 --> 00:01:11,480
+ This is AI for business.
+
+22
+00:01:11,480 --> 00:01:14,460
+ Let's create.
+
+23
+00:01:14,460 --> 00:01:18,060
+ Please welcome Senior Vice President and Director
+
+24
+00:01:18,060 --> 00:01:21,660
+ of Research, IBM, Dr. Dario Gil.
+
+25
+00:01:21,660 --> 00:01:24,460
+ Hello.
+
+26
+00:01:27,100 --> 00:01:28,340
+ Welcome.
+
+27
+00:01:28,340 --> 00:01:28,840
+ Welcome.
+
+28
+00:01:28,840 --> 00:01:30,780
+ The last session of Think.
+
+29
+00:01:30,780 --> 00:01:33,720
+ And I understand some of you even had a drink.
+
+30
+00:01:33,720 --> 00:01:35,400
+ How special.
+
+31
+00:01:35,400 --> 00:01:39,340
+ So I hope you've enjoyed the last two days with us.
+
+32
+00:01:39,340 --> 00:01:43,880
+ And what an incredible year it has been for AI.
+
+33
+00:01:43,880 --> 00:01:46,000
+ You can really feel the change that
+
+34
+00:01:46,000 --> 00:01:48,280
+ is happening all around us.
+
+35
+00:01:48,280 --> 00:01:52,380
+ And it's just not denying that the pace of this technology
+
+36
+00:01:52,380 --> 00:01:56,720
+ continues to be exhilarating and that its implications
+
+37
+00:01:56,720 --> 00:02:01,500
+ are now so clear for all to see around the globe.
+
+38
+00:02:01,500 --> 00:02:04,320
+ I'm just fascinated by AI.
+
+39
+00:02:04,320 --> 00:02:08,380
+ And as a technologist, this level of excitement
+
+40
+00:02:08,380 --> 00:02:12,800
+ really comes about only maybe once or twice every decade.
+
+41
+00:02:12,800 --> 00:02:16,840
+ And I'm just thrilled to see all the possibilities
+
+42
+00:02:16,840 --> 00:02:19,080
+ that this technology is going to enable.
+
+43
+00:02:19,080 --> 00:02:22,700
+ Because it's really going to impact every industry,
+
+44
+00:02:22,700 --> 00:02:26,340
+ from customer care to transforming data centers
+
+45
+00:02:26,340 --> 00:02:30,180
+ and logistics to medicine to manufacturing to energy
+
+46
+00:02:30,180 --> 00:02:33,220
+ to the automotive industry to aerospace, communications,
+
+47
+00:02:33,220 --> 00:02:34,400
+ you name it.
+
+48
+00:02:34,400 --> 00:02:37,820
+ It's really going to impact every one of our businesses
+
+49
+00:02:37,820 --> 00:02:40,940
+ and really touch every aspect of our lives.
+
+50
+00:02:40,940 --> 00:02:42,300
+ So it's really exciting.
+
+51
+00:02:42,300 --> 00:02:45,920
+ And while sometimes the pace of this technology
+
+52
+00:02:45,920 --> 00:02:50,660
+ can feel daunting and scary, the opportunities
+
+53
+00:02:50,660 --> 00:02:54,040
+ to harness foundation models and generative AI
+
+54
+00:02:54,040 --> 00:02:55,960
+ with proper governance--
+
+55
+00:02:55,960 --> 00:02:59,060
+ the opportunities are immense.
+
+56
+00:02:59,060 --> 00:03:02,660
+ The emergence of foundation models and generative AI
+
+57
+00:03:02,660 --> 00:03:05,300
+ is really a defining moment.
+
+58
+00:03:05,300 --> 00:03:08,560
+ And we need to recognize its importance.
+
+59
+00:03:08,560 --> 00:03:11,340
+ We need to capture the moment.
+
+60
+00:03:11,340 --> 00:03:15,560
+ And my advice is, don't be just an AI user.
+
+61
+00:03:15,560 --> 00:03:18,040
+ Be an AI value creator.
+
+62
+00:03:18,040 --> 00:03:19,640
+ Just think about it.
+
+63
+00:03:19,640 --> 00:03:23,460
+ As an AI user, you are limited to just prompting
+
+64
+00:03:23,460 --> 00:03:25,580
+ someone else's AI model.
+
+65
+00:03:25,580 --> 00:03:27,660
+ It's not your model.
+
+66
+00:03:27,660 --> 00:03:31,580
+ You have no control over the model or the data.
+
+67
+00:03:31,580 --> 00:03:33,520
+ Just think carefully about whether that's
+
+68
+00:03:33,520 --> 00:03:36,400
+ the world you want to live in.
+
+69
+00:03:36,400 --> 00:03:39,300
+ As an AI value creator, on the other hand,
+
+70
+00:03:39,300 --> 00:03:41,680
+ you have multiple entry points.
+
+71
+00:03:41,680 --> 00:03:45,980
+ You can bring your own data and AI models to Watson X
+
+72
+00:03:45,980 --> 00:03:50,720
+ or choose from a library of tools and technologies.
+
+73
+00:03:50,720 --> 00:03:54,260
+ You can train or influence training if you want.
+
+74
+00:03:54,260 --> 00:03:55,200
+ You can tune.
+
+75
+00:03:55,200 --> 00:03:59,720
+ You can have transparency and control over the governing data
+
+76
+00:03:59,720 --> 00:04:01,320
+ and AI models.
+
+77
+00:04:01,320 --> 00:04:03,300
+ You can prompt it too.
+
+78
+00:04:03,300 --> 00:04:08,040
+ Instead of only one models, you will have a family of models.
+
+79
+00:04:08,040 --> 00:04:09,860
+ And through this creative process,
+
+80
+00:04:09,860 --> 00:04:12,880
+ you can improve them and you can make them your own,
+
+81
+00:04:12,880 --> 00:04:14,200
+ your own models.
+
+82
+00:04:14,200 --> 00:04:18,320
+ Foundation models that are trained with your data
+
+83
+00:04:18,320 --> 00:04:22,060
+ will become your most valuable asset.
+
+84
+00:04:22,060 --> 00:04:24,820
+ And as a value creator, you will own that.
+
+85
+00:04:24,820 --> 00:04:28,960
+ And all the value that they will create for your business.
+
+86
+00:04:28,960 --> 00:04:31,280
+ So don't outsource that.
+
+87
+00:04:31,280 --> 00:04:35,980
+ You can simply control your destiny with foundation models.
+
+88
+00:04:35,980 --> 00:04:39,480
+ So let me show you how we become
+
+89
+00:04:39,480 --> 00:04:44,040
+ and allow you to become a value creator with Watson X.
+
+90
+00:04:44,040 --> 00:04:47,760
+ Watson X is our new integrated data and AI platform.
+
+91
+00:04:47,760 --> 00:04:50,960
+ It consists of three primary parts.
+
+92
+00:04:50,960 --> 00:04:53,640
+ First, watsonx.data.
+
+93
+00:04:53,640 --> 00:04:54,440
+ It is our massive,
+
+94
+00:04:54,440 --> 00:04:57,940
+ curated data repository that is ready to be tapped
+
+95
+00:04:57,940 --> 00:05:01,460
+ to train and fine-tune models
+
+96
+00:05:01,460 --> 00:05:05,160
+ with state-of-the-art data management system.
+
+97
+00:05:05,160 --> 00:05:06,860
+ watsonx.ai.
+
+98
+00:05:06,860 --> 00:05:11,000
+ This is an enterprise studio to train, validate, tune,
+
+99
+00:05:11,000 --> 00:05:13,200
+ and deploy traditional machine learning
+
+100
+00:05:13,200 --> 00:05:17,800
+ and foundation models that provide generative capabilities.
+
+101
+00:05:17,800 --> 00:05:20,300
+ And watsonx.governance.
+
+102
+00:05:20,300 --> 00:05:24,060
+ This is a powerful set of tools to ensure your AI
+
+103
+00:05:24,060 --> 00:05:27,340
+ is executing responsibly.
+
+104
+00:05:27,340 --> 00:05:31,740
+ watsonx.data, watsonx.ai, watsonx.governance.
+
+105
+00:05:31,740 --> 00:05:35,500
+ They work together seamlessly throughout the entire lifecycle
+
+106
+00:05:35,500 --> 00:05:37,700
+ of foundation models.
+
+107
+00:05:37,700 --> 00:05:42,020
+ And true to our commitment to hybrid cloud architectures,
+
+108
+00:05:42,020 --> 00:05:46,220
+ watsonx is built on top of Red Hat OpenShift.
+
+109
+00:05:46,220 --> 00:05:48,580
+ Not only does it provide seamless integration
+
+110
+00:05:48,580 --> 00:05:53,680
+ of watsonx components, it allows you to access and deploy
+
+111
+00:05:53,680 --> 00:05:57,720
+ your AI workloads in any IT environment,
+
+112
+00:05:57,720 --> 00:06:00,420
+ no matter where they are located.
+
+113
+00:06:00,420 --> 00:06:04,560
+ watsonx is the AI platform for value creators.
+
+114
+00:06:04,560 --> 00:06:07,220
+ And look, I don't need to tell you
+
+115
+00:06:07,220 --> 00:06:11,060
+ that deploying these technologies is not easy
+
+116
+00:06:11,060 --> 00:06:14,600
+ at the enterprise level, but the platform changes that.
+
+117
+00:06:14,600 --> 00:06:18,940
+ So let's take a look now of how an entire AI workflow,
+
+118
+00:06:18,940 --> 00:06:21,680
+ end-to-end, works in the platform.
+
+119
+00:06:21,680 --> 00:06:23,300
+ The lifecycle consists
+
+120
+00:06:23,300 --> 00:06:27,080
+ of preparing our data, using it to train the model,
+
+121
+00:06:27,080 --> 00:06:29,040
+ validate the model, tune it,
+
+122
+00:06:29,040 --> 00:06:32,340
+ and deploy in applications and solutions.
+
+123
+00:06:32,340 --> 00:06:34,580
+ So let's start with data preparation.
+
+124
+00:06:34,580 --> 00:06:37,540
+ So say you're a data scientist and want to access the data
+
+125
+00:06:37,540 --> 00:06:40,860
+ that is in a public cloud, some that is on-prem,
+
+126
+00:06:40,860 --> 00:06:44,520
+ some that may be in another external database,
+
+127
+00:06:44,520 --> 00:06:47,220
+ or on a public cloud, a second one,
+
+128
+00:06:47,220 --> 00:06:51,060
+ or anywhere else outside your hybrid cloud platform.
+
+129
+00:06:51,060 --> 00:06:52,920
+ So you access the platform from your laptop,
+
+130
+00:06:52,920 --> 00:06:55,880
+ and invoke WatsonX.data.
+
+131
+00:06:55,880 --> 00:06:58,820
+ It establishes the necessary connections
+
+132
+00:06:58,820 --> 00:07:00,400
+ between the data sources,
+
+133
+00:07:00,400 --> 00:07:03,060
+ so you can access the data easily.
+
+134
+00:07:03,060 --> 00:07:05,480
+ We've been building our IBM data pile,
+
+135
+00:07:05,480 --> 00:07:09,100
+ combining raw data collected from public sources
+
+136
+00:07:09,100 --> 00:07:11,640
+ with IBM proprietary data.
+
+137
+00:07:11,640 --> 00:07:13,940
+ We're bringing data from different domains,
+
+138
+00:07:13,940 --> 00:07:18,940
+ the internet, code, academic sources, enterprise, and more.
+
+139
+00:07:18,940 --> 00:07:22,540
+ We have used WatsonX.data
+
+140
+00:07:22,540 --> 00:07:27,200
+ to collect petabytes of data across dozens of domains
+
+141
+00:07:27,200 --> 00:07:30,600
+ to produce trillions of tokens
+
+142
+00:07:30,600 --> 00:07:33,160
+ that we can use to train foundation models.
+
+143
+00:07:33,160 --> 00:07:37,360
+ And besides the raw data and our proprietary data,
+
+144
+00:07:37,360 --> 00:07:40,500
+ we allow clients to bring their own data
+
+145
+00:07:40,500 --> 00:07:44,480
+ to enrich and improve their purpose-built foundation models.
+
+146
+00:07:44,480 --> 00:07:46,480
+ It is all stored in .data
+
+147
+00:07:46,480 --> 00:07:50,840
+ with granular metadata that provides traceable governance
+
+148
+00:07:50,840 --> 00:07:52,160
+ for each file or document
+
+149
+00:07:52,160 --> 00:07:58,160
+ so now we take this and we move to filter and process the data.
+
+150
+00:07:58,160 --> 00:08:02,240
+ First, we identify the provenance and the ID of the data.
+
+151
+00:08:02,240 --> 00:08:04,300
+ Then, we need to categorize it.
+
+152
+00:08:04,300 --> 00:08:09,160
+ We classify it, for example, in a pile for different languages,
+
+153
+00:08:09,160 --> 00:08:12,520
+ let's say English, Spanish, German, and so on,
+
+154
+00:08:12,520 --> 00:08:15,860
+ a pile of code data that we then separate by programming language,
+
+155
+00:08:15,860 --> 00:08:21,780
+ Java, Ansible, COBOL, and so on, and any other category that we have.
+
+156
+00:08:21,780 --> 00:08:24,240
+ Now, we filter it.
+
+157
+00:08:24,240 --> 00:08:27,760
+ We do analytics and get rid of duplicated data.
+
+158
+00:08:27,760 --> 00:08:33,820
+ Now we identify hate, abuse, and profanity in the data, and we remove it.
+
+159
+00:08:33,820 --> 00:08:40,180
+ We filter it for private information, licensing constraints, and data quality.
+
+160
+00:08:40,180 --> 00:08:48,240
+ By annotating, we allow data scientists to determine the right thresholds for their filtering.
+
+161
+00:08:48,240 --> 00:08:51,400
+ Having done all of that, the pile is now ready for
+
+162
+00:08:51,400 --> 00:08:52,900
+ the next step.
+
+163
+00:08:52,900 --> 00:08:56,060
+ We version and tag the data.
+
+164
+00:08:56,060 --> 00:09:02,280
+ Each data set, after being filtered and preprocessed, receives a data card.
+
+165
+00:09:02,280 --> 00:09:08,960
+ The data card has the name and the version of the pile, specifies its content, and filters
+
+166
+00:09:08,960 --> 00:09:14,520
+ that have been applied to it, and any other relevant content to make it easy to manage
+
+167
+00:09:14,520 --> 00:09:21,020
+ and track different choices that -- of the work and the right subsets of the data that
+
+168
+00:09:21,020 --> 00:09:23,680
+ we've used to develop the foundation models.
+
+169
+00:09:23,680 --> 00:09:26,780
+ Now, we can have multiple data piles.
+
+170
+00:09:26,780 --> 00:09:32,480
+ They coexist in dot data, and access to different versions of data for different purpose is
+
+171
+00:09:32,480 --> 00:09:34,520
+ managed seamlessly.
+
+172
+00:09:34,520 --> 00:09:38,640
+ So we're now ready to take the pile and start training our model.
+
+173
+00:09:38,640 --> 00:09:41,960
+ This is step two in our AI workflow.
+
+174
+00:09:41,960 --> 00:09:48,660
+ So we move from dot data to dot AI and start by picking a model architecture from the five
+
+175
+00:09:48,660 --> 00:09:50,640
+ families that IBM provides.
+
+176
+00:09:50,640 --> 00:09:57,720
+ These are bedrock of models, and they range from encoder only, encoder decoder, decoder
+
+177
+00:09:57,720 --> 00:10:00,900
+ only, and other novel architectures.
+
+178
+00:10:00,900 --> 00:10:07,340
+ So let's pick the encoder decoder sandstone to train the model and pick a target data
+
+179
+00:10:07,340 --> 00:10:12,100
+ pile version from the piles that is in dot data.
+
+180
+00:10:12,100 --> 00:10:16,880
+ Dot AI allows training with computing resources across the hybrid cloud.
+
+181
+00:10:16,880 --> 00:10:20,260
+ In this case, it runs on IBM Vela.
+
+182
+00:10:20,260 --> 00:10:26,100
+ Vela is a first of a kind cloud native AI supercomputer that we built last year.
+
+183
+00:10:26,100 --> 00:10:30,660
+ It gives you bare metal performance in the cloud with a virtualization overhead that
+
+184
+00:10:30,660 --> 00:10:33,120
+ is less than 5%.
+
+185
+00:10:33,120 --> 00:10:36,520
+ And we're making it available as a service.
+
+186
+00:10:36,520 --> 00:10:41,680
+ Watson X.AI out of scales the resources for the training being done.
+
+187
+00:10:41,680 --> 00:10:47,000
+ And the first thing that we need to do is to tokenize the data according to the requirements
+
+188
+00:10:47,000 --> 00:10:49,060
+ of the model.
+
+189
+00:10:49,060 --> 00:10:49,880
+ So we first query the data.
+
+190
+00:10:49,880 --> 00:10:54,320
+ We query the data using the version ID for the pile we want to use.
+
+191
+00:10:54,320 --> 00:11:00,420
+ That materializes a copy of the data set on Vela for tokenization.
+
+192
+00:11:00,420 --> 00:11:05,600
+ What this means is that, for example, if we're building a large language model, the sentences
+
+193
+00:11:05,600 --> 00:11:08,920
+ in the data are broken into tokens.
+
+194
+00:11:08,920 --> 00:11:12,680
+ And this process can create trillions of them.
+
+195
+00:11:12,680 --> 00:11:15,300
+ And we use the tokens to train the model.
+
+196
+00:11:15,300 --> 00:11:19,500
+ Now training is a very complex and time consuming task.
+
+197
+00:11:19,500 --> 00:11:25,440
+ It can require dozens, hundreds, even thousands of GPUs and can take days, weeks, and even
+
+198
+00:11:25,440 --> 00:11:27,080
+ months.
+
+199
+00:11:27,080 --> 00:11:33,220
+ Training in Watson.ai takes advantage of the best open source technology out there to simplify
+
+200
+00:11:33,220 --> 00:11:35,300
+ the user experience.
+
+201
+00:11:35,300 --> 00:11:41,980
+ Built on CodeFlare, using PyTorch and Ray, it also integrates Hugging Face to bring
+
+202
+00:11:41,980 --> 00:11:45,900
+ you a rich variety of open formats.
+
+203
+00:11:45,900 --> 00:11:49,120
+ Once training is done, the model is ready for validation.
+
+204
+00:11:49,120 --> 00:11:56,420
+ So, for each model we train, we run an extensive set of benchmarks to evaluate the model quality
+
+205
+00:11:56,420 --> 00:12:00,080
+ across a wide range of metrics.
+
+206
+00:12:00,080 --> 00:12:05,580
+ Once the model passes all the thresholds across the benchmarks, it is packaged and marked
+
+207
+00:12:05,580 --> 00:12:07,580
+ as ready for use.
+
+208
+00:12:07,580 --> 00:12:14,040
+ For each model, we create a model card that lists all the details of the model.
+
+209
+00:12:14,040 --> 00:12:18,740
+ We will have many different models trained on different piles with different target goals.
+
+210
+00:12:18,740 --> 00:12:25,280
+ Next, we go to WatsonX.Governance to combine the data card that has the detailed provenance
+
+211
+00:12:25,280 --> 00:12:30,900
+ information for the data pile that was used for training with the model card that has
+
+212
+00:12:30,900 --> 00:12:35,860
+ the detailed information on how the model was trained and validated.
+
+213
+00:12:35,860 --> 00:12:39,600
+ Together, they form a fact sheet.
+
+214
+00:12:39,600 --> 00:12:45,660
+ This fact sheet is cataloged in .Governance and all the other fact sheets for all the
+
+215
+00:12:45,660 --> 00:12:48,360
+ models that we have available for use.
+
+216
+00:12:48,360 --> 00:12:53,400
+ Now, let's go on to tune the model that we just created.
+
+217
+00:12:53,400 --> 00:12:59,700
+ And what we mean by that is to adapt it to new downstream tasks, which is the basis for
+
+218
+00:12:59,700 --> 00:13:05,020
+ the large productivity gains that is afforded by foundation models.
+
+219
+00:13:05,020 --> 00:13:07,860
+ So say, in this case, you're a different persona.
+
+220
+00:13:07,860 --> 00:13:09,880
+ You're the application developer.
+
+221
+00:13:09,880 --> 00:13:16,280
+ So you can access WatsonX.ai and start by picking a model from the catalog to work with.
+
+222
+00:13:16,280 --> 00:13:17,980
+ We have a family of IBM models.
+
+223
+00:13:17,980 --> 00:13:20,500
+ We specialize for different domains.
+
+224
+00:13:20,500 --> 00:13:27,160
+ But we also have a rich set of open models because we believe in the creativity of the
+
+225
+00:13:27,160 --> 00:13:32,000
+ global AI community and in the diversity of models it offers.
+
+226
+00:13:32,000 --> 00:13:34,880
+ And we want to bring that to you.
+
+227
+00:13:34,880 --> 00:13:41,780
+ In this case, we picked Sandstone.3b from the IBM language models, which is the model
+
+228
+00:13:41,780 --> 00:13:43,980
+ that we just trained.
+
+229
+00:13:43,980 --> 00:13:47,600
+ We set up the options for tuning, the tuning approach.
+
+230
+00:13:47,600 --> 00:13:53,200
+ We picked summarization as an example as the base model to use.
+
+231
+00:13:53,200 --> 00:14:01,420
+ Now we can access and use business proprietary data to tune the base model and for the task
+
+232
+00:14:01,420 --> 00:14:07,980
+ that we choose, whether that business data is located anywhere in the hybrid cloud platform.
+
+233
+00:14:07,980 --> 00:14:14,820
+ So now we send prompts and tuning data, and that's used to tune the model in .ai.
+
+234
+00:14:14,820 --> 00:14:17,220
+ You get the outcome of the prompt.
+
+235
+00:14:17,220 --> 00:14:23,260
+ On the model, this process happens back and forth, back and forth many times, and in the
+
+236
+00:14:23,260 --> 00:14:28,660
+ end, you end up with a set of ideal prompts to use.
+
+237
+00:14:28,660 --> 00:14:32,700
+ The model is now specialized and ready to deploy.
+
+238
+00:14:32,700 --> 00:14:36,120
+ This is the final step in our AI workflow.
+
+239
+00:14:36,120 --> 00:14:41,820
+ The application where you want to use the foundation model can live in the public cloud,
+
+240
+00:14:41,820 --> 00:14:46,840
+ it can live on-prem, or on the edge, and you can really deploy and run
+
+241
+00:14:46,840 --> 00:14:51,540
+ foundation models efficiently wherever you need them.
+
+242
+00:14:51,540 --> 00:14:55,060
+ And the deployed model can be used in many different applications.
+
+243
+00:14:55,060 --> 00:14:59,840
+ So for example, we've embedded foundation models in Watson Assistant.
+
+244
+00:14:59,840 --> 00:15:06,160
+ For text generation in Assistant, you describe the topic that you want the Assistant to handle.
+
+245
+00:15:06,160 --> 00:15:10,700
+ And it generates the corresponding conversational flow.
+
+246
+00:15:10,700 --> 00:15:16,460
+ We have an inference stack to scale the serving of the model in applications.
+
+247
+00:15:16,460 --> 00:15:22,200
+ It consists of state-of-the-art technology that has been field tested for scalable model serving.
+
+248
+00:15:22,200 --> 00:15:30,740
+ This is how WatsonX allows us to go from data to a model that is trusted, governed, deployed, and ready to serve,
+
+249
+00:15:30,740 --> 00:15:34,700
+ and how we can scale that model to different applications.
+
+250
+00:15:34,700 --> 00:15:43,380
+ Once models are deployed, we continuously monitor them and update them in both .data and in .ai.
+
+251
+00:15:43,380 --> 00:15:46,080
+ We call this constant process,
+
+252
+00:15:46,080 --> 00:15:49,440
+ or data and model factory.
+
+253
+00:15:49,440 --> 00:15:52,880
+ As Watson X .governance monitors the models,
+
+254
+00:15:52,880 --> 00:15:59,200
+ if there's any change that may impact how the model can be used or performs,
+
+255
+00:15:59,200 --> 00:16:02,680
+ be driven because we have new data that can be leveraged,
+
+256
+00:16:02,680 --> 00:16:07,900
+ or there's a change in some regulation or law or data licensing,
+
+257
+00:16:07,900 --> 00:16:15,700
+ any change detected by the .governance process guides and process the update to both the data
+
+258
+00:16:15,700 --> 00:16:17,460
+ and the model.
+
+259
+00:16:17,460 --> 00:16:22,620
+ The idea of the model factory is that that is central to solid and proper governance
+
+260
+00:16:22,620 --> 00:16:23,620
+ of AI.
+
+261
+00:16:23,620 --> 00:16:28,640
+ Now, all of these updates need to happen without disrupting the underlying applications that
+
+262
+00:16:28,640 --> 00:16:31,840
+ are leveraging the foundation models.
+
+263
+00:16:31,840 --> 00:16:35,360
+ And this data and model factory is in production today.
+
+264
+00:16:35,360 --> 00:16:42,160
+ We have already produced over 20 models across modalities like language, code, geospatial,
+
+265
+00:16:42,160 --> 00:16:45,320
+ and chemistry, and spanning different sizes of models
+
+266
+00:16:45,320 --> 00:16:51,460
+ -- from hundreds of millions to billions of parameters.
+
+267
+00:16:51,460 --> 00:16:57,860
+ We've infused these foundation models into IBM products, Red Hat products, and/or partners
+
+268
+00:16:57,860 --> 00:16:58,860
+ products.
+
+269
+00:16:58,860 --> 00:17:06,460
+ At IBM, over 12 foundation models are powering our IBM NLP library, which is used in over
+
+270
+00:17:06,460 --> 00:17:11,000
+ 15 IBM products and is available to ISVs.
+
+271
+00:17:11,000 --> 00:17:14,940
+ Granite models trained over code are part of IBM Watson Code Assistant.
+
+272
+00:17:14,940 --> 00:17:20,540
+ It has been applied in the Red Hat Ansible automation platform.
+
+273
+00:17:20,540 --> 00:17:26,340
+ And as you heard earlier in this event, SAP has partnered with us and is infusing foundation
+
+274
+00:17:26,340 --> 00:17:29,000
+ models into their solutions.
+
+275
+00:17:29,000 --> 00:17:33,980
+ So Watson X is really ready for you to create value with AI.
+
+276
+00:17:33,980 --> 00:17:39,160
+ Now to maximize what you can do and the innovations at your disposal, we believe that you should
+
+277
+00:17:39,160 --> 00:17:42,360
+ bet on community.
+
+278
+00:17:42,360 --> 00:17:44,560
+ Because the truth is one model.
+
+279
+00:17:44,560 --> 00:17:47,260
+ One model will not rule them all.
+
+280
+00:17:47,260 --> 00:17:53,800
+ And with the innovations and models that it develops, the open community is supercharging
+
+281
+00:17:53,800 --> 00:17:57,660
+ the value that you will be able to create.
+
+282
+00:17:57,660 --> 00:18:04,240
+ To be true to our belief in the diversity and the creativity of the open AI community,
+
+283
+00:18:04,240 --> 00:18:08,440
+ we're proud to announce our new partnership with Hugging Face.
+
+284
+00:18:08,440 --> 00:18:14,180
+ So let's invite to the stage co-founder and CEO of Hugging Face, Claym DeLong.
+
+285
+00:18:14,180 --> 00:18:21,600
+ Claym, thanks for having me.
+
+286
+00:18:21,600 --> 00:18:23,180
+ First of all, welcome to IBM Think.
+
+287
+00:18:23,180 --> 00:18:25,240
+ We're just delighted to have you here.
+
+288
+00:18:25,240 --> 00:18:29,100
+ So let's begin by, tell us a little bit about yourself and how and when you got interested
+
+289
+00:18:29,100 --> 00:18:31,300
+ in AI and how did Hugging Face get started?
+
+290
+00:18:31,300 --> 00:18:32,300
+ Yeah.
+
+291
+00:18:32,300 --> 00:18:33,500
+ Thanks so much for having me.
+
+292
+00:18:33,500 --> 00:18:36,940
+ I actually started in AI almost 15 years ago.
+
+293
+00:18:36,940 --> 00:18:40,700
+ I look at the room at the time we couldn't have filled it.
+
+294
+00:18:40,700 --> 00:18:43,800
+ Maybe it would have been 1%, 2% of the room at most.
+
+295
+00:18:43,800 --> 00:18:49,420
+ As a matter of fact, we weren't even calling it AI at the time, we were calling it computer
+
+296
+00:18:49,420 --> 00:18:50,420
+ vision.
+
+297
+00:18:50,420 --> 00:18:56,880
+ I was working at a French company, I'm French, as you can hear from my accent, and we were
+
+298
+00:18:56,880 --> 00:19:00,420
+ doing computer vision on device, on mobile.
+
+299
+00:19:00,420 --> 00:19:06,560
+ The company went on to get acquired by Google after, but I never lost my passion and excitement
+
+300
+00:19:06,560 --> 00:19:08,100
+ for AI.
+
+301
+00:19:08,100 --> 00:19:13,420
+ So seven years ago, with my co-founders, Julie and Thomas, we gathered.
+
+302
+00:19:13,420 --> 00:19:17,760
+ We started around this passion for AI and started Hugging Face, right?
+
+303
+00:19:17,760 --> 00:19:20,180
+ What you see on my T-shirt, basically.
+
+304
+00:19:20,180 --> 00:19:22,400
+ We started with something completely different.
+
+305
+00:19:22,400 --> 00:19:26,760
+ We worked on conversational AI for three years.
+
+306
+00:19:26,760 --> 00:19:33,480
+ And as it sometimes happens for startups, the underlying platform and technology ended
+
+307
+00:19:33,480 --> 00:19:37,360
+ up more useful than the end product.
+
+308
+00:19:37,360 --> 00:19:43,040
+ When we started to release part of it on GitHub, we started to see open source contributors
+
+309
+00:19:43,040 --> 00:19:44,040
+ joining us.
+
+310
+00:19:44,040 --> 00:19:50,820
+ We started to see scientists sharing models on the platform, leading to what Hugging Face
+
+311
+00:19:50,820 --> 00:19:51,820
+ is today.
+
+312
+00:19:51,820 --> 00:19:58,520
+ So, I mentioned the power and the creativity of the open community creating
+
+313
+00:19:58,520 --> 00:19:59,520
+ an AI.
+
+314
+00:19:59,520 --> 00:20:01,820
+ Just share with us some statistics.
+
+315
+00:20:01,820 --> 00:20:03,080
+ How big is it?
+
+316
+00:20:03,080 --> 00:20:05,120
+ How much energy is there in that community?
+
+317
+00:20:05,120 --> 00:20:08,880
+ And how much should we expect in that creativity available to all of us?
+
+318
+00:20:08,880 --> 00:20:12,660
+ Yeah, the energy in open source AI is insane.
+
+319
+00:20:12,660 --> 00:20:16,620
+ These days, just a few weeks ago, I was in San Francisco.
+
+320
+00:20:16,620 --> 00:20:21,980
+ I tweeted that I would be around and that we could do some sort of a small get together
+
+321
+00:20:21,980 --> 00:20:25,300
+ for open source AI people.
+
+322
+00:20:25,300 --> 00:20:29,300
+ We thought we would get maybe a few dozen, a few hundred people.
+
+323
+00:20:29,300 --> 00:20:33,780
+ And the more the days came, the more people ended up joining.
+
+324
+00:20:33,780 --> 00:20:38,760
+ We had to change locations three times to something at the end almost as big as that.
+
+325
+00:20:38,760 --> 00:20:42,280
+ We had 5,000 people.
+
+326
+00:20:42,280 --> 00:20:45,000
+ We started calling it the Woodstock of AI.
+
+327
+00:20:45,000 --> 00:20:47,240
+ So that's just an example.
+
+328
+00:20:47,240 --> 00:20:51,140
+ We're competing with that as the Woodstock, Woodstock of AI.
+
+329
+00:20:51,140 --> 00:20:56,040
+ Just a proof of how vibrant the open source AI community is.
+
+330
+00:20:56,040 --> 00:20:59,600
+ We think the same thing on Hugging Face, right?
+
+331
+00:20:59,600 --> 00:21:07,400
+ Since we started on the platform four years ago, we grew to now having over 15,000 companies
+
+332
+00:21:07,400 --> 00:21:11,900
+ using the platform, including very large companies like Google, like Meta.
+
+333
+00:21:11,900 --> 00:21:13,400
+ Like Bloomberg.
+
+334
+00:21:13,400 --> 00:21:18,780
+ All the way down to smaller companies like Grammarly, for example.
+
+335
+00:21:18,780 --> 00:21:28,000
+ And collectively, they have shared over 250,000 open models on the platform, 50,000 data sets,
+
+336
+00:21:28,000 --> 00:21:32,160
+ and over 100,000 open demos.
+
+337
+00:21:32,160 --> 00:21:37,540
+ Just last week, 4,000 new models have been shared on the platform.
+
+338
+00:21:37,540 --> 00:21:41,520
+ So that shows you kind of like the magnitude and energy.
+
+339
+00:21:41,520 --> 00:21:47,800
+ In open source AI community, just think about that 4,000 models in one week.
+
+340
+00:21:47,800 --> 00:21:52,040
+ So one of the myth busting things that we were chatting about is that that element of
+
+341
+00:21:52,040 --> 00:21:54,560
+ one model will not rule them all, right?
+
+342
+00:21:54,560 --> 00:21:58,820
+ There's going to be a huge amount of innovation that is happening from so many sources.
+
+343
+00:21:58,820 --> 00:22:03,600
+ So perhaps you could share with us, what are some examples of innovation that you've seen?
+
+344
+00:22:03,600 --> 00:22:07,860
+ We've seen scale, but what are some examples that really caught your eye or you find were
+
+345
+00:22:07,860 --> 00:22:09,140
+ were particularly powerful?
+
+346
+00:22:09,140 --> 00:22:10,140
+ Yeah.
+
+347
+00:22:10,140 --> 00:22:11,140
+ I mean, it's interesting.
+
+348
+00:22:11,140 --> 00:22:15,760
+ It's interesting because since the release of ChatGPT, right, and some people have said,
+
+349
+00:22:15,760 --> 00:22:22,900
+ okay, ChatGPT is the model to rule them all, 100,000 new models have been added on HuggingFace,
+
+350
+00:22:22,900 --> 00:22:23,900
+ right?
+
+351
+00:22:23,900 --> 00:22:28,000
+ And obviously, companies, they don't train models just to train models, right?
+
+352
+00:22:28,000 --> 00:22:32,600
+ They would prefer not to do it because it costs money to train models.
+
+353
+00:22:32,600 --> 00:22:40,760
+ But the truth is, if you look at how AI is built, when you can build smaller, more specialized
+
+354
+00:22:40,760 --> 00:22:48,060
+ customized models for your use cases, they end up being cheaper, they end up being more
+
+355
+00:22:48,060 --> 00:22:53,600
+ efficient, and they end up being better for your use case, right?
+
+356
+00:22:53,600 --> 00:23:00,280
+ Just the same way every single technology company learned how to write code, right,
+
+357
+00:23:00,280 --> 00:23:06,520
+ and to have a different code base than their competitors or than companies in other fields,
+
+358
+00:23:06,520 --> 00:23:09,380
+ we're seeing the same thing for AI, right?
+
+359
+00:23:09,380 --> 00:23:10,380
+ Every single company needs...
+
+360
+00:23:10,380 --> 00:23:15,440
+ Every single company needs to train their own models, optimize their own models, learn
+
+361
+00:23:15,440 --> 00:23:19,440
+ how to run these models at scale.
+
+362
+00:23:19,440 --> 00:23:25,000
+ Every single company needs to build their own chat GPT because if they don't, they won't
+
+363
+00:23:25,000 --> 00:23:27,140
+ be able to differentiate.
+
+364
+00:23:27,140 --> 00:23:33,220
+ They won't be able to create the unique technology value that they've been building for their
+
+365
+00:23:33,220 --> 00:23:38,760
+ customers and they'll lose control, right, if they start outsourcing it.
+
+366
+00:23:38,760 --> 00:23:40,000
+ So that's what we're seeing on Hugin.
+
+367
+00:23:40,000 --> 00:23:42,820
+ Face and in the ecosystem as a whole.
+
+368
+00:23:42,820 --> 00:23:47,580
+ It's back to this philosophy of don't just be a prompt tuner user, right, be a value
+
+369
+00:23:47,580 --> 00:23:49,240
+ creator with all of this.
+
+370
+00:23:49,240 --> 00:23:51,440
+ So let's talk about our partnership for a minute.
+
+371
+00:23:51,440 --> 00:23:57,240
+ Why are you excited about bringing the power of all of this community into WatsonX in the
+
+372
+00:23:57,240 --> 00:24:02,460
+ context now of an enterprise, you know, need and meeting the needs of our clients that
+
+373
+00:24:02,460 --> 00:24:03,460
+ are here listening?
+
+374
+00:24:03,460 --> 00:24:05,660
+ Yeah, obviously, Hugin.
+
+375
+00:24:05,660 --> 00:24:09,620
+ Face and IBM share a lot of the same DNA.
+
+376
+00:24:09,620 --> 00:24:10,620
+ Right?
+
+377
+00:24:10,620 --> 00:24:19,380
+ Around open source, open platform, kind of like providing extensible tools for companies.
+
+378
+00:24:19,380 --> 00:24:25,900
+ For me, one of the most iconic collaboration partnership of the last decade is IBM plus
+
+379
+00:24:25,900 --> 00:24:27,480
+ Red Hat.
+
+380
+00:24:27,480 --> 00:24:29,920
+ And hopefully, we're just at the beginning of it.
+
+381
+00:24:29,920 --> 00:24:35,120
+ But with this collaboration, we can do the same thing for AI.
+
+382
+00:24:35,120 --> 00:24:39,240
+ I think with this integration between WatsonX and Hugin.
+
+383
+00:24:39,240 --> 00:24:46,080
+ Face, you kind of get the best of both worlds in the sense that you get the cutting edge
+
+384
+00:24:46,080 --> 00:24:51,800
+ and the community and the numbers of models, data sets, apps of the Hugin.
+
+385
+00:24:51,800 --> 00:24:53,480
+ Face ecosystem.
+
+386
+00:24:53,480 --> 00:24:59,140
+ And you get the security and support of IBM, right?
+
+387
+00:24:59,140 --> 00:25:04,240
+ For example, you mentioned -- we mentioned all the models.
+
+388
+00:25:04,240 --> 00:25:08,860
+ The IBM consultants can help you to pick the right models for you at the time.
+
+389
+00:25:08,860 --> 00:25:12,820
+ The time that is going to make sense for your company.
+
+390
+00:25:12,820 --> 00:25:18,640
+ So you really get kind of like the perfect mix to get to what we were saying, meaning
+
+391
+00:25:18,640 --> 00:25:23,860
+ every one of you being able to build your own internal chat GPT.
+
+392
+00:25:23,860 --> 00:25:25,380
+ So tell us -- this is just great.
+
+393
+00:25:25,380 --> 00:25:28,680
+ I'm just delighted about those opportunities.
+
+394
+00:25:28,680 --> 00:25:30,900
+ And so tell us a little bit about what's next for Hugin.
+
+395
+00:25:30,900 --> 00:25:31,900
+ Face.
+
+396
+00:25:31,900 --> 00:25:34,340
+ When you look over the next year or so, what excites you the most?
+
+397
+00:25:34,340 --> 00:25:38,480
+ Many, many exciting things for us.
+
+398
+00:25:38,480 --> 00:25:47,560
+ We've seen a lot of adoption, a lot of companies using us for text, for audio, for image.
+
+399
+00:25:47,560 --> 00:25:51,900
+ And now we're starting to see that expand to other domains.
+
+400
+00:25:51,900 --> 00:25:55,260
+ For example, we're seeing a lot of video right now.
+
+401
+00:25:55,260 --> 00:25:58,100
+ We're seeing a lot of recommender systems.
+
+402
+00:25:58,100 --> 00:26:00,160
+ We're seeing a lot of time series.
+
+403
+00:26:00,160 --> 00:26:03,460
+ We're starting a lot of biology, chemistry.
+
+404
+00:26:03,460 --> 00:26:04,800
+ We're really excited about it.
+
+405
+00:26:04,800 --> 00:26:08,100
+ We think, ultimately, AI is a new default.
+
+406
+00:26:08,100 --> 00:26:12,480
+ To build all features, all workflows, all products.
+
+407
+00:26:12,480 --> 00:26:15,420
+ It's kind of like the new default to build all tech.
+
+408
+00:26:15,420 --> 00:26:20,420
+ So we're excited for this expansion to other domains.
+
+409
+00:26:20,420 --> 00:26:23,860
+ Also, we're seeing a lot of work
+
+410
+00:26:23,860 --> 00:26:27,440
+ around chaining different models.
+
+411
+00:26:27,440 --> 00:26:28,540
+ And in fact, at Tagging Face,
+
+412
+00:26:28,540 --> 00:26:30,620
+ we released today Transformers Agents,
+
+413
+00:26:30,620 --> 00:26:33,860
+ which is a way to chain different models
+
+414
+00:26:33,860 --> 00:26:37,720
+ to build more complex systems that are achieving
+
+415
+00:26:37,720 --> 00:26:40,640
+ better capabilities.
+
+416
+00:26:40,640 --> 00:26:41,840
+ These are some of the things
+
+417
+00:26:41,840 --> 00:26:44,100
+ that we're the most excited about.
+
+418
+00:26:44,100 --> 00:26:44,940
+ - So a lot there.
+
+419
+00:26:44,940 --> 00:26:45,900
+ So thank you, Clem.
+
+420
+00:26:45,900 --> 00:26:47,240
+ - Thank you so much. - Thank you so much.
+
+421
+00:26:47,240 --> 00:26:48,200
+ - And congratulations.
+
+422
+00:26:48,200 --> 00:26:49,040
+ - Thanks.
+
+423
+00:26:49,040 --> 00:26:49,880
+ Thank you.
+
+424
+00:26:49,880 --> 00:26:57,560
+ - So, well, you saw how the platform works
+
+425
+00:26:57,560 --> 00:27:01,160
+ to enable the foundation model creation workflow end-to-end.
+
+426
+00:27:01,160 --> 00:27:03,320
+ And we talked about data,
+
+427
+00:27:03,320 --> 00:27:05,360
+ we talked about model architectures,
+
+428
+00:27:05,360 --> 00:27:07,340
+ the compute infrastructure,
+
+429
+00:27:07,340 --> 00:27:08,880
+ the models themselves,
+
+430
+00:27:08,880 --> 00:27:12,180
+ the importance of the open community.
+
+431
+00:27:12,180 --> 00:27:14,820
+ So now let me show you how to use
+
+432
+00:27:14,820 --> 00:27:17,340
+ and how you would experience Watson X.
+
+433
+00:27:17,340 --> 00:27:19,520
+ And we're gonna go inside the studio,
+
+434
+00:27:19,520 --> 00:27:21,980
+ inside watsonx.ai.
+
+435
+00:27:21,980 --> 00:27:23,320
+ And from the landing page,
+
+436
+00:27:23,320 --> 00:27:26,500
+ you can choose to prompt models,
+
+437
+00:27:26,500 --> 00:27:27,880
+ to fine tune models,
+
+438
+00:27:27,880 --> 00:27:30,640
+ or deploy and manage your deployed models.
+
+439
+00:27:30,640 --> 00:27:33,480
+ So here's an example of how you can use the prompt lab
+
+440
+00:27:33,480 --> 00:27:35,560
+ to do a summarization task.
+
+441
+00:27:35,560 --> 00:27:36,960
+ You give the model the text,
+
+442
+00:27:36,960 --> 00:27:38,580
+ as a prompt,
+
+443
+00:27:38,580 --> 00:27:41,240
+ and the model summarizes it for you.
+
+444
+00:27:41,240 --> 00:27:43,460
+ In the case of a customer care interaction,
+
+445
+00:27:43,460 --> 00:27:45,240
+ it gives you the customer problem
+
+446
+00:27:45,240 --> 00:27:48,200
+ and the resolution according to the transcript
+
+447
+00:27:48,200 --> 00:27:50,120
+ of the interaction.
+
+448
+00:27:50,120 --> 00:27:52,180
+ In the tuning studio, as we saw before,
+
+449
+00:27:52,180 --> 00:27:54,780
+ you can set the parameters or the type of tuning
+
+450
+00:27:54,780 --> 00:27:56,960
+ that you want to do and the base model,
+
+451
+00:27:56,960 --> 00:27:58,840
+ and you can add your data.
+
+452
+00:27:58,840 --> 00:28:02,180
+ The studio gives you detailed stats of the tuning process
+
+453
+00:28:02,180 --> 00:28:05,820
+ and allows you to deploy the tune model in your application.
+
+454
+00:28:05,820 --> 00:28:06,580
+ It's that simple.
+
+455
+00:28:06,580 --> 00:28:09,880
+ We took the complexity of the process away,
+
+456
+00:28:09,880 --> 00:28:13,060
+ so you only need to worry about creating value
+
+457
+00:28:13,060 --> 00:28:14,520
+ for your business.
+
+458
+00:28:14,520 --> 00:28:18,100
+ And here are some of our current AI value creators.
+
+459
+00:28:18,100 --> 00:28:20,660
+ SAP will use IBM Watson capabilities
+
+460
+00:28:20,660 --> 00:28:24,040
+ to power its digital assistant in their SAP solutions.
+
+461
+00:28:24,040 --> 00:28:25,960
+ You've been hearing about Red Hat,
+
+462
+00:28:25,960 --> 00:28:28,440
+ how it's embedding IBM Watson code assistant
+
+463
+00:28:28,440 --> 00:28:30,700
+ into the Ansible automation platform.
+
+464
+00:28:30,700 --> 00:28:33,640
+ BBVA is bringing their enterprise data
+
+465
+00:28:33,640 --> 00:28:36,200
+ to use with their own foundation model
+
+466
+00:28:36,200 --> 00:28:37,740
+ for natural language.
+
+467
+00:28:37,740 --> 00:28:40,840
+ Moderna is supplying IBM's foundation models
+
+468
+00:28:40,840 --> 00:28:44,140
+ to help predict potential mRNA medicines.
+
+469
+00:28:44,140 --> 00:28:46,940
+ NASA is using our language models together
+
+470
+00:28:46,940 --> 00:28:49,380
+ with US spatial models we've created together
+
+471
+00:28:49,380 --> 00:28:51,940
+ to improve our scientific understanding and response
+
+472
+00:28:51,940 --> 00:28:54,480
+ to Earth and climate-related issues.
+
+473
+00:28:54,480 --> 00:28:58,220
+ And Wix is using foundation models to gain novel insights
+
+474
+00:28:58,220 --> 00:29:02,860
+ for customer care as they meet the needs of their customers.
+
+475
+00:29:02,860 --> 00:29:05,820
+ So what I encourage you is to join them and embrace
+
+476
+00:29:05,820 --> 00:29:09,560
+ the age of value creation with AI.
+
+477
+00:29:09,560 --> 00:29:16,060
+ A year ago, I stood on a stage just like this, closing Think.
+
+478
+00:29:16,060 --> 00:29:19,040
+ And I shared with all of the attendees
+
+479
+00:29:19,040 --> 00:29:22,440
+ that what was next in AI was foundation models.
+
+480
+00:29:22,440 --> 00:29:24,680
+ And maybe at the time, it seemed a little bit abstract
+
+481
+00:29:24,680 --> 00:29:27,140
+ and, you know, sort of like this intellectual disposition
+
+482
+00:29:27,140 --> 00:29:28,700
+ about where things were going.
+
+483
+00:29:28,700 --> 00:29:31,580
+ But boy, what a year it has been.
+
+484
+00:29:31,580 --> 00:29:35,440
+ And it has been a big year for AI at IBM.
+
+485
+00:29:35,440 --> 00:29:37,680
+ So as we close our event this year,
+
+486
+00:29:37,680 --> 00:29:40,340
+ let me remind you of all the things
+
+487
+00:29:40,340 --> 00:29:42,240
+ that we have created and announced.
+
+488
+00:29:42,240 --> 00:29:44,880
+ We've announced WatsonX, a comprehensive platform that
+
+489
+00:29:44,880 --> 00:29:47,920
+ allows you to create and govern AI in real time
+
+490
+00:29:47,920 --> 00:29:49,720
+ so that you can move with urgency
+
+491
+00:29:49,720 --> 00:29:51,620
+ and capture this moment.
+
+492
+00:29:51,620 --> 00:29:54,760
+ We announced a set, a family of foundation models,
+
+493
+00:29:54,760 --> 00:29:57,820
+ including IBM models, open community models,
+
+494
+00:29:57,820 --> 00:30:00,800
+ and how you can even create your own models.
+
+495
+00:30:00,800 --> 00:30:02,700
+ We announced our data model factory
+
+496
+00:30:02,700 --> 00:30:05,060
+ using petabytes of data across
+
+497
+00:30:05,060 --> 00:30:07,720
+ multiple domains to create trillions of tokens
+
+498
+00:30:07,720 --> 00:30:10,700
+ to create our family of foundation models
+
+499
+00:30:10,700 --> 00:30:14,100
+ and show how the factory continuously updates them
+
+500
+00:30:14,100 --> 00:30:17,440
+ when conditions change and brings a regular cadence
+
+501
+00:30:17,440 --> 00:30:20,600
+ of models to ensure proper governance.
+
+502
+00:30:20,600 --> 00:30:23,040
+ We told you about products where we have infused
+
+503
+00:30:23,040 --> 00:30:25,820
+ our foundation models, over 15 of them,
+
+504
+00:30:25,820 --> 00:30:28,340
+ including digital labor, Red Hat,
+
+505
+00:30:28,340 --> 00:30:30,460
+ products like Ansible Automation Platform,
+
+506
+00:30:30,460 --> 00:30:33,220
+ our partner products like SAP Solutions.
+
+507
+00:30:33,220 --> 00:30:34,680
+ We announced important collaborations
+
+508
+00:30:34,680 --> 00:30:37,620
+ to advance AI and bring it to the enterprise,
+
+509
+00:30:37,620 --> 00:30:40,160
+ Hugging Face and longstanding collaborations
+
+510
+00:30:40,160 --> 00:30:43,060
+ and initiatives like PyTorch and Ray.
+
+511
+00:30:43,060 --> 00:30:45,300
+ We showed you some of the organizations
+
+512
+00:30:45,300 --> 00:30:48,360
+ that have become AI value creators with us.
+
+513
+00:30:48,360 --> 00:30:51,860
+ We're bringing IBM Vela or cloud native AI supercomputer
+
+514
+00:30:51,860 --> 00:30:55,060
+ to train foundation models with bare metal performance
+
+515
+00:30:55,060 --> 00:30:57,740
+ while giving us the flexibility of the cloud.
+
+516
+00:30:57,740 --> 00:30:59,540
+ And we announced that we're making it available
+
+517
+00:30:59,540 --> 00:31:01,140
+ as a service.
+
+518
+00:31:01,140 --> 00:31:04,300
+ Last year, we launched the Telum in C
+
+519
+00:31:04,300 --> 00:31:06,100
+ 16.
+
+520
+00:31:06,100 --> 00:31:09,940
+ It's an engineering marvel, and IBM's first processor
+
+521
+00:31:09,940 --> 00:31:13,180
+ to have on-chip accelerator for AI inferencing.
+
+522
+00:31:13,180 --> 00:31:16,280
+ It can process 300 billion inferences per day
+
+523
+00:31:16,280 --> 00:31:18,800
+ with one millisecond latencies.
+
+524
+00:31:18,800 --> 00:31:21,920
+ This means that now you can infuse AI
+
+525
+00:31:21,920 --> 00:31:25,240
+ into every transaction in C 16 for applications
+
+526
+00:31:25,240 --> 00:31:29,100
+ like fraud detection and others in real time.
+
+527
+00:31:29,100 --> 00:31:32,060
+ Using the same core architecture as Telum,
+
+528
+00:31:32,060 --> 00:31:33,920
+ we built the IBM Research AIU.
+
+529
+00:31:33,920 --> 00:31:36,920
+ Which is optimized to give superior performance
+
+530
+00:31:36,920 --> 00:31:39,200
+ for foundation models and enable
+
+531
+00:31:39,200 --> 00:31:41,200
+ with the Red Hat software stack.
+
+532
+00:31:41,200 --> 00:31:45,800
+ And at IBM Research, we are incubating powerful AIU systems
+
+533
+00:31:45,800 --> 00:31:48,920
+ designed and optimized for enterprise AI inference
+
+534
+00:31:48,920 --> 00:31:50,120
+ and tuning.
+
+535
+00:31:50,120 --> 00:31:52,360
+ So a truly fantastic year.
+
+536
+00:31:52,360 --> 00:31:55,760
+ And this is just the start of all the amazing things
+
+537
+00:31:55,760 --> 00:31:58,120
+ that we're building and developing for you
+
+538
+00:31:58,120 --> 00:32:00,920
+ and that we will be sharing with you in the coming years.
+
+539
+00:32:00,920 --> 00:32:03,540
+ So today, more than ever before,
+
+540
+00:32:03,540 --> 00:32:07,140
+ it's important to have a business strategy in AI.
+
+541
+00:32:07,140 --> 00:32:09,600
+ And in closing, as you think about how
+
+542
+00:32:09,600 --> 00:32:13,360
+ to harness foundation models for your business,
+
+543
+00:32:13,360 --> 00:32:17,400
+ let me offer you some tips to consider.
+
+544
+00:32:17,400 --> 00:32:20,000
+ First, act with urgency.
+
+545
+00:32:20,000 --> 00:32:23,300
+ This is a transformative moment in technology.
+
+546
+00:32:23,300 --> 00:32:25,980
+ Be bold and capture the moment.
+
+547
+00:32:25,980 --> 00:32:28,780
+ Second, be a value creator.
+
+548
+00:32:28,780 --> 00:32:33,160
+ Build foundation models on your data and under your control.
+
+549
+00:32:33,160 --> 00:32:36,100
+ They will become your most valuable asset.
+
+550
+00:32:36,100 --> 00:32:42,600
+ Don't outsource that and don't reduce your AI strategy to an API call.
+
+551
+00:32:42,600 --> 00:32:45,400
+ Third, bet on community.
+
+552
+00:32:45,400 --> 00:32:50,300
+ Bet on the energy and the ingenuity of the open AI community.
+
+553
+00:32:50,300 --> 00:32:54,280
+ One model, I guarantee you, will not rule them all.
+
+554
+00:32:54,280 --> 00:32:57,120
+ Run everywhere efficiently.
+
+555
+00:32:57,120 --> 00:33:02,780
+ Optimize for performance, latency, and cost by building with open hybrid technologies.
+
+556
+00:33:02,780 --> 00:33:05,840
+ And finally, be responsible.
+
+557
+00:33:05,840 --> 00:33:08,200
+ I can't stress this enough.
+
+558
+00:33:08,200 --> 00:33:13,680
+ Everything I've mentioned is useless unless you build responsibly, transparently, and
+
+559
+00:33:13,680 --> 00:33:19,520
+ put governance into the heart of your AI lifecycle.
+
+560
+00:33:19,520 --> 00:33:24,560
+ Continuously govern the data you use and the AI you deploy.
+
+561
+00:33:24,560 --> 00:33:28,140
+ And co-create with trusted partners.
+
+562
+00:33:28,140 --> 00:33:32,400
+ Trust is your ultimate license to operate.
+
+563
+00:33:32,400 --> 00:33:38,260
+ With your AI business strategy against these recommendations, you will be in a prime position
+
+564
+00:33:38,260 --> 00:33:42,900
+ to do amazing things with foundation models and generative AI.
+
+565
+00:33:42,900 --> 00:33:47,500
+ We have built WatsonX so that you can do just that.
+
+566
+00:33:47,500 --> 00:33:54,720
+ And I hope you join us, because we cannot wait to get started on this journey with you.
+
+567
+00:33:54,720 --> 00:33:55,780
+ Thank you.
+
+568
+00:33:55,780 --> 00:34:02,780
+ ♪ ♪
+
+569
+00:34:02,780 --> 00:34:09,780
+ ♪ ♪
+
+570
+00:34:09,780 --> 00:34:16,780
+ ♪ ♪
+
+571
+00:34:16,780 --> 00:34:19,780
+ ♪ ♪
+
