@@ -24,6 +24,13 @@ Open source project: faster-whisper (based on OpenAI Whisper)
 
 This notebook describes the results of using faster-whisper, which is based on OpenAI Whisper.
 
+### [05_llama_on_groq.ipynb](05_llama_on_groq.ipynb)
+This notebook describes how to use Llama on Groq to get summary.
+
+### [06_gpt_summaries.ipynb](06_gpt_summaries.ipynb)
+This notebook describes how to get summary using different GPT models over API and compare the results.
+
 Additionally, there are a few folders:
-- The `data` folder contains the transcripts. MP3, WAV, and MP4 files are excluded due to their significant size, but they can be extracted as described in the `.ipynb` files. 
+- The `data` folder contains the transcripts and summaries. MP3, WAV, and MP4 files are excluded due to their significant size, but they can be extracted as described in the `.ipynb` files. 
 - The `utils` folder contains several Python files that are excluded from the `.ipynb` files to avoid overloading them with code. Links to these files are included in the `.ipynb` files.
+
