@@ -5,3 +5,4 @@ data/audio_segments/
 *.mp4
 Untitled.ipynb
 /.idea/
+.env
